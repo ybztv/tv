@@ -1,0 +1,56 @@
+[
+  {
+    "name": "戏台",    "groupName": "影视剧",
+    "urls": ["https://tv123.bj.bcebos.com/2.mp4", "https://nunuju.cc/vod/play/id/150885/sid/1/nid/1.html"]  },
+  {
+    "name": "利剑·玫瑰",    "groupName": "影视剧",
+    "urls": ["https://tv123.bj.bcebos.com/2.mp4","https://nunuju.cc/vod/play/id/149414/sid/1/nid/1.html" ]  },
+  {
+    "name": "长安的荔枝",    "groupName": "影视剧", 
+     "urls": ["https://tv123.bj.bcebos.com/2.mp4", "https://nunuju.cc/vod/play/id/150894/sid/1/nid/1.html" ]  },
+  {
+    "name": "F1：狂飙飞车",    "groupName": "影视剧",   
+     "urls": [ "https://tv123.bj.bcebos.com/2.mp4", "https://nunuju.cc/vod/play/id/133866/sid/1/nid/1.html"]  },
+  {
+    "name": "侏罗纪世界：重生",    "groupName": "影视剧",
+    "urls": [ "https://tv123.bj.bcebos.com/2.mp4",  "https://nunuju.cc/vod/play/id/145484/sid/1/nid/1.html"    ]  },
+  {
+    "name": "2025历史战争《虎口夺金》",    "groupName": "影视剧",
+    "urls": [ "https://tv123.bj.bcebos.com/2.mp4",  "https://xl01.com.de/play/26106-0.htm" ]  },
+  {
+    "name": "南京照相馆1",    "groupName": "影视剧",
+    "urls": [  "https://tv123.bj.bcebos.com/2.mp4", "https://nunuju.cc/vod/play/id/149413/sid/1/nid/1.html"    ]  },
+  {
+    "name": "罗小黑战记2",    "groupName": "影视剧",
+    "urls": [  "https://tv123.bj.bcebos.com/3.mp4", "https://nunuju.cc/vod/play/id/148847/sid/1/nid/1.html"   ]  },
+  {
+    "name": "占领电视台",    "groupName": "影视剧",
+    "urls": [  "https://tv123.bj.bcebos.com/3.mp4", "https://www.airuok.com/index.php/vod/play/id/899466/sid/1/nid/1.html"  ]  },
+
+  {
+    "name": "浪浪山小妖怪",    "groupName": "影视剧",
+    "urls": [  "https://tv123.bj.bcebos.com/12.mp4",  "https://nunuju.cc/vod/play/id/151414/sid/1/nid/1.html"    ]  },
+  {
+    "name": "东极岛",    "groupName": "影视剧",
+    "urls": [ "https://tv123.bj.bcebos.com/2.mp4",  "https://nunuju.cc/vod/play/id/151772/sid/1/nid/1.html"    ]  },
+  {
+    "name": "哪吒之魔童闹海",    "groupName": "影视剧",
+    "urls": [ "https://tv123.bj.bcebos.com/2.mp4",  "https://nunuju.cc/vod/play/id/1888/sid/1/nid/1.html"    ]  },
+  {
+    "name": "2025印度悬疑《袭击2",
+    "groupName": "影视剧",
+    "urls": [ "https://tv123.bj.bcebos.com/2.mp4", "https://www.hdmoli.pro/play/2888-1-0.html"    ]  },
+  {
+    "name": "无敌贾特",    "groupName": "影视剧",
+    "urls": [ "https://tv123.bj.bcebos.com/2.mp4",  "https://www.kkys04.com/play/290322-32-2032922.html"    ]  },
+  {
+    "name": "鬼灭之刃(抢先版)",
+    "groupName": "影视剧",
+    "urls": [  "https://www.vv3nwjk.com/vod/play/138345/1/1217912", "https://tv123.bj.bcebos.com/2.mp4"    ]  },
+  {
+    "name": "地狱尖兵",    "groupName": "影视剧",
+    "urls": [ "https://www.vv3nwjk.com/vod/play/76716/1/75969", "https://edu.cctv.com/cetv/"    ]  },
+  {
+    "name": "《惊变28年》hdmol",    "groupName": "影视剧",
+    "urls": [  "https://tv123.bj.bcebos.com/2.mp4",  "https://edu.cctv.com/cetv/"    ]  }
+]

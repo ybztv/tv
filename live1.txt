@@ -1,0 +1,1176 @@
+
+体育频斯,#genre# 
+Astro Premier League 1,http://free.cnlive.club/channel/6b9a7458/index.m3u8?q=1759362410696 
+Astro EPL 1 backup,http://free.cnlive.club/channel/5bdf2334/index.m3u8?q=1759362410696 
+Astro Premier League 2,http://free.cnlive.club/channel/6b9a7459/index.m3u8?q=1759362410696
+ Astro Grandstand,http://free.cnlive.club/channel/n19794632/index.m3u8?q=1759362410696 
+Astro Football,http://free.cnlive.club/channel/29962bf1/index.m3u8?q=1759362410696 
+Astro Sports Plus,http://free.cnlive.club/channel/17502b7/index.m3u8?q=1759362410696
+ Astro Badminton 1,http://free.cnlive.club/channel/1de1e193/index.m3u8?q=1759362410696 
+Astro Badminton 2,http://free.cnlive.club/channel/1de1e194/index.m3u8?q=1759362410696 
+Astro W-Sports,http://free.cnlive.club/channel/3c34fa39/index.m3u8?q=1759362410696 
+Supersports 1,http://free.cnlive.club/channel/64ef1648/index.m3u8?q=1759362410696 
+Supersports 2,http://free.cnlive.club/channel/64ef1649/index.m3u8?q=1759362410696 
+Supersports 3,http://free.cnlive.club/channel/64ef164a/index.m3u8?q=1759362410696
+ Supersports 4,http://free.cnlive.club/channel/64ef164b/index.m3u8?q=1759362410696 
+WWE,http://free.cnlive.club/channel/n52e4e43e/index.m3u8?q=1759362410696 
+Fight Sports,http://free.cnlive.club/channel/n5a7ddbee/index.m3u8?q=1759362410696 
+NBA TV,http://free.cnlive.club/channel/751e5af8/index.m3u8?q=1759362410696 
+Astro Cricket,http://free.cnlive.club/channel/n670c7d13/index.m3u8?q=1759362410696 
+Astro Golf,http://free.cnlive.club/channel/n7fc29d1a/index.m3u8?q=1759362410696
+ Tnt Sports 1,http://free.cnlive.club/channel/1fe0e79/index.m3u8?q=1759362410696
+ TNT Sports 2,http://free.cnlive.club/channel/n23c66d86/index.m3u8?q=1759362410696 
+TNT Sports 3,http://free.cnlive.club/channel/n23c66d85/index.m3u8?q=1759362410696 
+TNT Sports 4,http://free.cnlive.club/channel/n23c66d84/index.m3u8?q=1759362410696 
+Sony Ten 1,http://free.cnlive.club/channel/n248a5048/index.m3u8?q=1759362410696
+ Sony Ten 2,http://free.cnlive.club/channel/n248a5047/index.m3u8?q=1759362410696
+ Sony Ten 3,http://free.cnlive.club/channel/n248a5046/index.m3u8?q=1759362410696 
+SPOTV 1 HD,http://free.cnlive.club/channel/6d1675a/index.m3u8?q=1759362410696 
+SPO TV 2,http://free.cnlive.club/channel/n552b885b/index.m3u8?q=1759362410696 
+Skysports F1,http://free.cnlive.club/channel/n57ed90b2/index.m3u8?q=1759362410696 
+Skysports Cricket,http://free.cnlive.club/channel/5863830e/index.m3u8?q=1759362410696 
+Skysports EPL,http://free.cnlive.club/channel/5a3b7abe/index.m3u8?q=1759362410696 
+Skysports Main Event,http://free.cnlive.club/channel/5acb9d16/index.m3u8?q=1759362410696 
+Skysports News,http://free.cnlive.club/channel/n12c7b72a/index.m3u8?q=1759362410696 
+Skysports Mix,http://free.cnlive.club/channel/5a3b9bf9/index.m3u8?q=1759362410696 
+CCTV-5 体育频道,http://free.cnlive.club/channel/n5d959a6c/index.m3u8?q=1759362410696
+CCTV-5+ 体育赛事 HD,http://free.cnlive.club/channel/n4fd60eb5/index.m3u8?q=1759362410696 
+爱尔达体育2台,http://free.cnlive.club/channel/723ab075/index.m3u8?q=1759362410696 
+爱尔达体育3台,http://free.cnlive.club/channel/723ab094/index.m3u8?q=1759362410696 
+Rugby Pass TV,http://free.cnlive.club/channel/8c42189/index.m3u8?q=1759362410696
+ RTM Sports HD,http://free.cnlive.club/channel/n1624505b/index.m3u8?q=1759362410696 
+Arena,http://free.cnlive.club/channel/n2e6605fc/index.m3u8?q=1759362410696 
+Arena 2,http://free.cnlive.club/channel/n2cfc72ea/index.m3u8?q=1759362410696 
+BolaArena 1,http://free.cnlive.club/channel/n30b4b24d/index.m3u8?q=1759362410696
+BolaArena 2,http://free.cnlive.club/channel/n30b4b24c/index.m3u8?q=1759362410696
+ Astro Beinsports 1,http://free.cnlive.club/channel/n44210d04/index.m3u8?q=1759362410696 
+Astro Beinsports 2,http://free.cnlive.club/channel/n44210d03/index.m3u8?q=1759362410696 
+Astro Beinsports 3,http://free.cnlive.club/channel/n44210d02/index.m3u8?q=1759362410696 
+
+影视频斯,#genre# 
+CCTV-6,http://free.cnlive.club/channel/63f18811/index.m3u8?q=1759362410696 
+AXN Taiwan,http://free.cnlive.club/channel/6f2c3c37/index.m3u8?q=1759362410696 
+HBO_HD,http://free.cnlive.club/channel/6c698aec/index.m3u8?q=1759362410696
+ HBO_HITS,http://free.cnlive.club/channel/n7cd62d0/index.m3u8?q=1759362410696 
+CINEMAX,http://free.cnlive.club/channel/2420c041/index.m3u8?q=1759362410696 
+好萊塢電影台,http://free.cnlive.club/channel/117d8eeb/index.m3u8?q=1759362410696 
+东森电影,http://free.cnlive.club/channel/7cb9a434/index.m3u8?q=1759362410696 
+东森洋片,http://free.cnlive.club/channel/7cb8b9f4/index.m3u8?q=1759362410696 
+龙华电影,http://free.cnlive.club/channel/n5e8ca809/index.m3u8?q=1759362410696 
+龙华洋片,http://free.cnlive.club/channel/n5e8d9249/index.m3u8?q=1759362410696 
+龙祥时代,http://free.cnlive.club/channel/n5dff94e1/index.m3u8?q=1759362410696 
+美亚电影,http://free.cnlive.club/channel/n6d2f2fd2/index.m3u8?q=1759362410696 
+卫视电影台,http://free.cnlive.club/channel/74380c33/index.m3u8?q=1759362410696 
+天映频道,http://free.cnlive.club/channel/n7e466c41/index.m3u8?q=1759362410696 
+天映频道,http://free.cnlive.club/channel/n7e466c41/index.m3u8?q=1759362410696 
+天映经典,http://free.cnlive.club/channel/n7e49c99a/index.m3u8?q=1759362410696 
+Animax,http://free.cnlive.club/channel/62efb22e/index.m3u8?q=1759362410696 
+Movies Now HD,http://free.cnlive.club/channel/n1bf890c3/index.m3u8?q=1759362410696 
+Star Movies HD,http://free.cnlive.club/channel/n6773674f/index.m3u8?q=1759362410696 
+Hits,http://free.cnlive.club/channel/57c1d4e6/index.m3u8?q=1759362410696 
+Warner TV,http://free.cnlive.club/channel/n56dab1d7/index.m3u8?q=1759362410696 
+HBO HD,http://free.cnlive.club/channel/6c689e6d/index.m3u8?q=1759362410696
+ HBO Signature,http://free.cnlive.club/channel/n1075adf9/index.m3u8?q=1759362410696
+ HBO Family,http://free.cnlive.club/channel/n50b4438b/index.m3u8?q=1759362410696
+ HBO Hits,http://free.cnlive.club/channel/nb44af6f/index.m3u8?q=1759362410696
+ Cinemax,http://free.cnlive.club/channel/5c8dcc41/index.m3u8?q=1759362410696 
+Dreamworks,http://free.cnlive.club/channel/4a8dbe85/index.m3u8?q=1759362410696 
+SCM,http://free.cnlive.club/channel/n2eb78a49/index.m3u8?q=1759362410696
+ Thrill,http://free.cnlive.club/channel/n7cf4bd6f/index.m3u8?q=1759362410696
+ Hits Movie,http://free.cnlive.club/channel/2df87356/index.m3u8?q=1759362410696 
+One,http://free.cnlive.club/channel/n2eb79400/index.m3u8?q=1759362410696 
+tvN Movie,http://free.cnlive.club/channel/391ee36/index.m3u8?q=1759362410696 
+Axn HD,http://free.cnlive.club/channel/637dbecb/index.m3u8?q=1759362410696
+ Paramount Network,http://free.cnlive.club/channel/69b17141/index.m3u8?q=1759362410696
+ Astrol Kplus,http://free.cnlive.club/channel/n7a5371c8/index.m3u8?q=1759362410696 
+Rock Actions,http://free.cnlive.club/channel/ne6f4938/index.m3u8?q=1759362410696
+ Rock Entertainment,http://free.cnlive.club/channel/nd96d6ed/index.m3u8?q=1759362410696
+
+ 纪录频斯,#genre# 
+Natgeo_HD,http://free.cnlive.club/channel/n3f497a4c/index.m3u8?q=1759362410696
+ NatGeo_Wild HD,http://free.cnlive.club/channel/2ae73b1a/index.m3u8?q=1759362410696 
+Animal_Planet,http://free.cnlive.club/channel/nb957a7c/index.m3u8?q=1759362410696 
+Discovery Asia,http://free.cnlive.club/channel/n3efbe5af/index.m3u8?q=1759362410696
+ CI,http://free.cnlive.club/channel/1404dfbd/index.m3u8?q=1759362410696
+ Asia Travel,http://free.cnlive.club/channel/n3287f647/index.m3u8?q=1759362410696 
+Discovery HD,http://free.cnlive.club/channel/n2517f7dd/index.m3u8?q=1759362410696 
+亚洲美食,http://free.cnlive.club/channel/4b914480/index.m3u8?q=1759362410696 
+美食星球,http://free.cnlive.club/channel/6272ba2c/index.m3u8?q=1759362410696 
+亚洲旅游,http://free.cnlive.club/channel/2631a9ae/index.m3u8?q=1759362410696 
+亚洲TLC,http://free.cnlive.club/channel/24a7393c/index.m3u8?q=1759362410696 
+NatGeo HD,http://free.cnlive.club/channel/n75e57aab/index.m3u8?q=1759362410696 
+Fashion TV,http://free.cnlive.club/channel/n7852a99f/index.m3u8?q=1759362410696 
+History,http://free.cnlive.club/channel/n20a85c83/index.m3u8?q=1759362410696
+ BBC Earth HD,http://free.cnlive.club/channel/356e7ac6/index.m3u8?q=1759362410696
+ BBC Earth Lifestyle,http://free.cnlive.club/channel/359a630b/index.m3u8?q=1759362410696 
+MTV Live,http://free.cnlive.club/channel/n7a0c7aec/index.m3u8?q=1759362410696 
+NatGeo Wild HD,http://free.cnlive.club/channel/n6582cfc7/index.m3u8?q=1759362410696
+ Animal Planet (Eng),http://free.cnlive.club/channel/n18e58008/index.m3u8?q=1759362410696
+ TLC,http://free.cnlive.club/channel/6c975854/index.m3u8?q=1759362410696
+ Foodnetwork Hd,http://free.cnlive.club/channel/n28af27dd/index.m3u8?q=1759362410696 
+HGTV,http://free.cnlive.club/channel/264e2d58/index.m3u8?q=1759362410696 
+
+新闻频斯,#genre#
+ Skynews,http://free.cnlive.club/channel/n38043943/index.m3u8?q=1759362410696 
+ABC News,http://free.cnlive.club/channel/104cd9c8/index.m3u8?q=1759362410696 
+东森财经新闻,http://free.cnlive.club/channel/n5392563f/index.m3u8?q=1759362410696 
+CBS HD,http://free.cnlive.club/channel/n2ff473c1/index.m3u8?q=1759362410696 
+CBSN HD,http://free.cnlive.club/channel/317a4f4b/index.m3u8?q=1759362410696 
+France 24,http://free.cnlive.club/channel/12188570/index.m3u8?q=1759362410696
+ DW (Deutsch),http://free.cnlive.club/channel/7f39bd23/index.m3u8?q=1759362410696 
+NHK World,http://free.cnlive.club/channel/n683bca74/index.m3u8?q=1759362410696 
+Fox News,http://free.cnlive.club/channel/n41640285/index.m3u8?q=1759362410696 
+CGTN,http://free.cnlive.club/channel/n337674eb/index.m3u8?q=1759362410696 
+CNN International,http://free.cnlive.club/channel/n4d8e2986/index.m3u8?q=1759362410696
+ CNN backup,http://free.cnlive.club/channel/n5b2e0cca/index.m3u8?q=1759362410696
+ CNBC,http://free.cnlive.club/channel/n33765cdd/index.m3u8?q=1759362410696 
+CNA,http://free.cnlive.club/channel/n43b97ee1/index.m3u8?q=1759362410696 
+BBC World News,http://free.cnlive.club/channel/n66a1746b/index.m3u8?q=1759362410696 
+BBC World News,http://free.cnlive.club/channel/n66a1746b/index.m3u8?q=1759362410696 
+Bloomberg News,http://free.cnlive.club/channel/72e3ee4f/index.m3u8?q=1759362410696 
+Al-Jazeera,http://free.cnlive.club/channel/65af47c7/index.m3u8?q=1759362410696 
+
+儿童频斯,#genre# 
+Baby TV Eng,http://free.cnlive.club/channel/n59903092/index.m3u8?q=1759362410696 
+CBeebies,http://free.cnlive.club/channel/33dc4490/index.m3u8?q=1759362410696
+ Kids TV,http://free.cnlive.club/channel/n149d9627/index.m3u8?q=1759362410696 
+Momo TV,http://free.cnlive.club/channel/5fe8f622/index.m3u8?q=1759362410696 
+Animax,http://free.cnlive.club/channel/7af110c4/index.m3u8?q=1759362410696 
+Baby TV,http://free.cnlive.club/channel/18a1ad0/index.m3u8?q=1759362410696 
+MiaoMi,http://free.cnlive.club/channel/n70dedb3e/index.m3u8?q=1759362410696 
+靖天卡通,http://free.cnlive.club/channel/n6567f5b8/index.m3u8?q=1759362410696
+ 东森幼幼,http://free.cnlive.club/channel/798aeeee/index.m3u8?q=1759362410696 
+Cartoon Network,http://free.cnlive.club/channel/n38060fe0/index.m3u8?q=1759362410696
+ Nickelodeon,http://free.cnlive.club/channel/n6a165737/index.m3u8?q=1759362410696
+ Nick Jr,http://free.cnlive.club/channel/n75fc9ff7/index.m3u8?q=1759362410696
+
+ 新坡频斯,#genre# 
+Channel 5,http://free.cnlive.club/channel/2f64b875/index.m3u8?q=1759362410696 
+Channel 8,http://free.cnlive.club/channel/2f64b878/index.m3u8?q=1759362410696 
+Suria,http://free.cnlive.club/channel/1a7c7a05/index.m3u8?q=1759362410696 
+Channel U,http://free.cnlive.club/channel/2f64b895/index.m3u8?q=1759362410696 
+Vasantham,http://free.cnlive.club/channel/n4a74f6e/index.m3u8?q=1759362410696
+ CNA,http://free.cnlive.club/channel/4e9c8333/index.m3u8?q=1759362410696
+ CNA backup,http://free.cnlive.club/channel/7f3deb4f/index.m3u8?q=1759362410696
+ MeWatch Ch 5,http://free.cnlive.club/channel/n4b711d7a/index.m3u8?q=1759362410696 
+MeWatch Ch 8,http://free.cnlive.club/channel/n4b711d77/index.m3u8?q=1759362410696
+ MeWatch Ch U,http://free.cnlive.club/channel/n4b711d5a/index.m3u8?q=1759362410696 
+MeWatch Suria,http://free.cnlive.club/channel/n21c9f664/index.m3u8?q=1759362410696
+ MeWatch Vasantham,http://free.cnlive.club/channel/22029ca9/index.m3u8?q=1759362410696
+ MeWatch CNA,http://free.cnlive.club/channel/5d30c8a/index.m3u8?q=1759362410696 
+
+马来频斯,#genre# 
+TV1,http://free.cnlive.club/channel/fa5521f/index.m3u8?q=1759362410696 
+TV1 backup,http://free.cnlive.club/channel/n519451d/index.m3u8?q=1759362410696
+ TV2,http://free.cnlive.club/channel/fa55220/index.m3u8?q=1759362410696 
+TV3,http://free.cnlive.club/channel/fa55221/index.m3u8?q=1759362410696 
+TV3 SD,http://free.cnlive.club/channel/n486f0f50/index.m3u8?q=1759362410696 
+NTV7,http://free.cnlive.club/channel/n1afdcb49/index.m3u8?q=1759362410696
+ TV8,http://free.cnlive.club/channel/fa55226/index.m3u8?q=1759362410696 
+TV9,http://free.cnlive.club/channel/fa55227/index.m3u8?q=1759362410696
+ Ria,http://free.cnlive.club/channel/fa54d1a/index.m3u8?q=1759362410696 
+Ria-3,http://free.cnlive.club/channel/n44798bc0/index.m3u8?q=1759362410696 
+Al-Hijrah,http://free.cnlive.club/channel/n3fbbd7fe/index.m3u8?q=1759362410696 
+Al-Hijrah backup,http://free.cnlive.club/channel/73890fa0/index.m3u8?q=1759362410696 
+Awani,http://free.cnlive.club/channel/n4562b60a/index.m3u8?q=1759362410696 
+Bernama,http://free.cnlive.club/channel/n606edc5a/index.m3u8?q=1759362410696 
+Prima,http://free.cnlive.club/channel/n44917d75/index.m3u8?q=1759362410696 
+Prima backup,http://free.cnlive.club/channel/366678f7/index.m3u8?q=1759362410696 
+Prima backup 2,http://free.cnlive.club/channel/36ac1b49/index.m3u8?q=1759362410696
+ Ceria,http://free.cnlive.club/channel/n454e7688/index.m3u8?q=1759362410696
+ Astro MTV,http://free.cnlive.club/channel/n74db47c2/index.m3u8?q=1759362410696 
+Mecca Live HD,http://free.cnlive.club/channel/n1e7b0117/index.m3u8?q=1759362410696
+ Madinah HD,http://free.cnlive.club/channel/n782c73d0/index.m3u8?q=1759362410696
+ Oasis,http://free.cnlive.club/channel/n44a72a25/index.m3u8?q=1759362410696
+ HBO HD,http://free.cnlive.club/channel/n5df653c9/index.m3u8?q=1759362410696
+ HBO Signature,http://free.cnlive.club/channel/n4641f303/index.m3u8?q=1759362410696 
+HBO Hits,http://free.cnlive.club/channel/465013db/index.m3u8?q=1759362410696
+ NatGeo Wild HD,http://free.cnlive.club/channel/n6598e6ce/index.m3u8?q=1759362410696 
+Cartoon Network,http://free.cnlive.club/channel/607a1b6c/index.m3u8?q=1759362410696 
+Nickelodeon,http://free.cnlive.club/channel/1c7b5a15/index.m3u8?q=1759362410696
+ Nick Jr,http://free.cnlive.club/channel/20599755/index.m3u8?q=1759362410696 
+Dreamworks,http://free.cnlive.club/channel/n760128b1/index.m3u8?q=1759362410696
+ Siar,http://free.cnlive.club/channel/n1afb3509/index.m3u8?q=1759362410696
+ Citra,http://free.cnlive.club/channel/n454c9c73/index.m3u8?q=1759362410696
+ Citra backup,http://free.cnlive.club/channel/n52b2e4b/index.m3u8?q=1759362410696 
+Sensasi,http://free.cnlive.club/channel/22a4fb90/index.m3u8?q=1759362410696
+ Aura,http://free.cnlive.club/channel/n1b0334ad/index.m3u8?q=1759362410696
+ Rania,http://free.cnlive.club/channel/n447cf679/index.m3u8?q=1759362410696 
+KBS World,http://free.cnlive.club/channel/14eeb45e/index.m3u8?q=1759362410696
+ Boo,http://free.cnlive.club/channel/fa511d2/index.m3u8?q=1759362410696
+ Awesome TV,http://free.cnlive.club/channel/4d7fdd4f/index.m3u8?q=1759362410696 
+Astro Sonypix,http://free.cnlive.club/channel/n158a73d9/index.m3u8?q=1759362410696 
+Sony HD,http://free.cnlive.club/channel/33b732a5/index.m3u8?q=1759362410696 
+TvN,http://free.cnlive.club/channel/fa5561c/index.m3u8?q=1759362410696
+ AEC,http://free.cnlive.club/channel/fa508cf/index.m3u8?q=1759362410696 
+华丽台 HD （Wah Lai Toi）,http://free.cnlive.club/channel/n177a7044/index.m3u8?q=1759362410696 
+欢喜台 HD （Hua Hee Tai）,http://free.cnlive.club/channel/n129801d1/index.m3u8?q=1759362410696
+ Astro QJ,http://free.cnlive.club/channel/n2d0f5476/index.m3u8?q=1759362410696 
+TVB Jade,http://free.cnlive.club/channel/30ac9808/index.m3u8?q=1759362410696 
+TVB Asia,http://free.cnlive.club/channel/30a8c4da/index.m3u8?q=1759362410696 
+TVB Entertainment,http://free.cnlive.club/channel/nac85e88/index.m3u8?q=1759362410696 
+TVB Classic,http://free.cnlive.club/channel/n1ab8717e/index.m3u8?q=1759362410696
+ AOD,http://free.cnlive.club/channel/fa50a06/index.m3u8?q=1759362410696
+ One,http://free.cnlive.club/channel/fa54276/index.m3u8?q=1759362410696 
+TVB 星河台 Xing He,http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1759362410696
+ 爱奇艺 iQiyi,http://free.cnlive.club/channel/n367ccbbb/index.m3u8?q=1759362410696 
+Animal Planet (Eng),http://free.cnlive.club/channel/n1f7b561/index.m3u8?q=1759362410696 
+tvN Movie,http://free.cnlive.club/channel/n1b6a6bd4/index.m3u8?q=1759362410696 
+CNN backup,http://free.cnlive.club/channel/n1b9b2af1/index.m3u8?q=1759362410696 
+Celestial Classic,http://free.cnlive.club/channel/n7b0fbbc6/index.m3u8?q=1759362410696 
+CNBC,http://free.cnlive.club/channel/n1b02e444/index.m3u8?q=1759362410696
+ TLC,http://free.cnlive.club/channel/fa550fb/index.m3u8?q=1759362410696
+ CNA,http://free.cnlive.club/channel/fa51166/index.m3u8?q=1759362410696 
+BBC World News,http://free.cnlive.club/channel/2e8ad8ee/index.m3u8?q=1759362410696 
+Foodnetwork Hd,http://free.cnlive.club/channel/n28c53ee4/index.m3u8?q=1759362410696 
+HGTV,http://free.cnlive.club/channel/n1b00b66f/index.m3u8?q=1759362410696 
+Goshop,http://free.cnlive.club/channel/n5d1f9a32/index.m3u8?q=1759362410696 
+Celestial Movies HD,http://free.cnlive.club/channel/5150b0a1/index.m3u8?q=1759362410696
+ Axn HD,http://free.cnlive.club/channel/n66e1336b/index.m3u8?q=1759362410696 Paramount 
+Network,http://free.cnlive.club/channel/2d02c137/index.m3u8?q=1759362410696 
+Astrol Kplus,http://free.cnlive.club/channel/n52c5637e/index.m3u8?q=1759362410696
+ AFC 亚洲旅游台,http://free.cnlive.club/channel/1d3786b3/index.m3u8?q=1759362410696
+ Rock Actions,http://free.cnlive.club/channel/191ec512/index.m3u8?q=1759362410696
+ Bloomberg News,http://free.cnlive.club/channel/8103ba8/index.m3u8?q=1759362410696
+ Al-Jazeera,http://free.cnlive.club/channel/n5abdd660/index.m3u8?q=1759362410696 
+Rock Entertainment,http://free.cnlive.club/channel/n66be2823/index.m3u8?q=1759362410696
+ RTM Sports HD,http://free.cnlive.club/channel/ne37fa48/index.m3u8?q=1759362410696 
+Arena,http://free.cnlive.club/channel/n4564ece9/index.m3u8?q=1759362410696
+ Arena 2,http://free.cnlive.club/channel/n7fdd5297/index.m3u8?q=1759362410696
+BolaArena 1,http://free.cnlive.club/channel/n6393f37a/index.m3u8?q=1759362410696
+ BolaArena 2,http://free.cnlive.club/channel/n6393f379/index.m3u8?q=1759362410696 
+Astro LOL,http://free.cnlive.club/channel/n74db4c28/index.m3u8?q=1759362410696
+ Astro Rusi,http://free.cnlive.club/channel/n268aead6/index.m3u8?q=1759362410696 
+WION,http://free.cnlive.club/channel/n1af9ddff/index.m3u8?q=1759362410696 
+RTM Asean,http://free.cnlive.club/channel/32091bdb/index.m3u8?q=1759362410696 
+
+印尼频斯,#genre# 
+TVRI National,http://free.cnlive.club/channel/n1d75779a/index.m3u8?q=1759362410696 
+RCTI,http://free.cnlive.club/channel/71ca5f39/index.m3u8?q=1759362410696
+ Kompass TV,http://free.cnlive.club/channel/576b21fb/index.m3u8?q=1759362410696 
+Berita Satu,http://free.cnlive.club/channel/n58dcb60b/index.m3u8?q=1759362410696
+ Indosiar HD,http://free.cnlive.club/channel/7fe3c1f2/index.m3u8?q=1759362410696
+ AnTV,http://free.cnlive.club/channel/71c34662/index.m3u8?q=1759362410696 
+MNC TV,http://free.cnlive.club/channel/20b9f2b3/index.m3u8?q=1759362410696 
+Trans 7,http://free.cnlive.club/channel/n57f6e314/index.m3u8?q=1759362410696
+ Transtv,http://free.cnlive.club/channel/n57f6d8a9/index.m3u8?q=1759362410696 
+JTV,http://free.cnlive.club/channel/2cf5e719/index.m3u8?q=1759362410696 
+Metro TV,http://free.cnlive.club/channel/nd1c17a4/index.m3u8?q=1759362410696 
+Cinemax,http://free.cnlive.club/channel/16169bd4/index.m3u8?q=1759362410696
+ SCTV,http://free.cnlive.club/channel/71cad3a5/index.m3u8?q=1759362410696
+ Tvone,http://free.cnlive.club/channel/n384aafef/index.m3u8?q=1759362410696 
+TVMU,http://free.cnlive.club/channel/71cb8e7d/index.m3u8?q=1759362410696
+ GTV,http://free.cnlive.club/channel/2cf5dbd6/index.m3u8?q=1759362410696 
+RTV,http://free.cnlive.club/channel/2cf60521/index.m3u8?q=1759362410696 
+Jak TV,http://free.cnlive.club/channel/1cb95641/index.m3u8?q=1759362410696
+ iNews TV,http://free.cnlive.club/channel/75851399/index.m3u8?q=1759362410696
+ Daai TV,http://free.cnlive.club/channel/3c9f8f4a/index.m3u8?q=1759362410696 
+Net TV,http://free.cnlive.club/channel/23c92e18/index.m3u8?q=1759362410696
+ Animax,http://free.cnlive.club/channel/e15243b/index.m3u8?q=1759362410696 
+EWTN,http://free.cnlive.club/channel/71c4c17f/index.m3u8?q=1759362410696 
+AlQuran AlKareem,http://free.cnlive.club/channel/1e75531f/index.m3u8?q=1759362410696
+ Tawaf TV,http://free.cnlive.club/channel/n561e79a/index.m3u8?q=1759362410696 
+Vision Prime,http://free.cnlive.club/channel/n38d477e6/index.m3u8?q=1759362410696
+ Muslim TV,http://free.cnlive.club/channel/n57a9ad76/index.m3u8?q=1759362410696 
+Music TV,http://free.cnlive.club/channel/3f0e7bd0/index.m3u8?q=1759362410696
+ Lifestyle&Fashion,http://free.cnlive.club/channel/n1e454f03/index.m3u8?q=1759362410696 
+Entertain,http://free.cnlive.club/channel/5881e817/index.m3u8?q=1759362410696 
+Hits,http://free.cnlive.club/channel/71c66633/index.m3u8?q=1759362410696 
+Warner TV,http://free.cnlive.club/channel/23b884fc/index.m3u8?q=1759362410696 
+SCM,http://free.cnlive.club/channel/2cf606ca/index.m3u8?q=1759362410696
+ Thrill,http://free.cnlive.club/channel/2e30b49e/index.m3u8?q=1759362410696 
+Fight Sports,http://free.cnlive.club/channel/n799bda5e/index.m3u8?q=1759362410696
+ Hits Movie,http://free.cnlive.club/channel/5cc16e3/index.m3u8?q=1759362410696 
+One,http://free.cnlive.club/channel/2cf5fd13/index.m3u8?q=1759362410696
+ tvN Movie,http://free.cnlive.club/channel/7e252509/index.m3u8?q=1759362410696
+ Celestial Movies HD,http://free.cnlive.club/channel/n4de56ec2/index.m3u8?q=1759362410696 
+Rock Actions,http://free.cnlive.club/channel/2309ab15/index.m3u8?q=1759362410696
+ Rock Entertainment,http://free.cnlive.club/channel/n7c651060/index.m3u8?q=1759362410696 
+
+泰国频斯,#genre# 
+Channel 3 Thailand,http://free.cnlive.club/channel/69a11aa8/index.m3u8?q=1759362410696 
+Channel 5 Thailand,http://free.cnlive.club/channel/5233fce6/index.m3u8?q=1759362410696
+ Channel 7 Thailand,http://free.cnlive.club/channel/3ac6df24/index.m3u8?q=1759362410696 
+MCOT HD Thailand-1,http://free.cnlive.club/channel/26714221/index.m3u8?q=1759362410696 
+PPTV Thailand1,http://free.cnlive.club/channel/35c61523/index.m3u8?q=1759362410696 
+Thai Thai,http://free.cnlive.club/channel/n5f021c97/index.m3u8?q=1759362410696
+ Amarin,http://free.cnlive.club/channel/3efe9239/index.m3u8?q=1759362410696
+ Ch 8,http://free.cnlive.club/channel/7d4587f4/index.m3u8?q=1759362410696 
+GmmOne,http://free.cnlive.club/channel/49409796/index.m3u8?q=1759362410696
+ Mono,http://free.cnlive.club/channel/7d4a379a/index.m3u8?q=1759362410696
+ Thairath,http://free.cnlive.club/channel/265f35b6/index.m3u8?q=1759362410696
+ tpbs,http://free.cnlive.club/channel/7d5bf464/index.m3u8?q=1759362410696
+ Workpoint,http://free.cnlive.club/channel/n3fe55138/index.m3u8?q=1759362410696 
+Gmm Channel,http://free.cnlive.club/channel/4022a173/index.m3u8?q=1759362410696 
+Nation,http://free.cnlive.club/channel/548cfa3e/index.m3u8?q=1759362410696 
+Tnn24,http://free.cnlive.club/channel/2c5ee49f/index.m3u8?q=1759362410696
+ Nbt,http://free.cnlive.club/channel/c4cb9a9/index.m3u8?q=1759362410696 
+New,http://free.cnlive.club/channel/c4cba09/index.m3u8?q=1759362410696 
+TPTV,http://free.cnlive.club/channel/7d4cee95/index.m3u8?q=1759362410696
+
+ 印度频斯,#genre# 
+Sun TV HD,http://free.cnlive.club/channel/n1cf717e8/index.m3u8?q=1759362410696 
+Star Vijay,http://free.cnlive.club/channel/3c8511cf/index.m3u8?q=1759362410696 
+Colors Tamil,http://free.cnlive.club/channel/54bdc121/index.m3u8?q=1759362410696 
+Sun Music,http://free.cnlive.club/channel/n1d4a693d/index.m3u8?q=1759362410696 
+Astro Sunlife,http://free.cnlive.club/channel/60d272d9/index.m3u8?q=1759362410696 
+Astro Vaanavil,http://free.cnlive.club/channel/n46f36941/index.m3u8?q=1759362410696 
+Zee Tamil,http://free.cnlive.club/channel/n693cccd1/index.m3u8?q=1759362410696
+ Zee Business,http://free.cnlive.club/channel/440849d4/index.m3u8?q=1759362410696 
+News 18 Tamil,http://free.cnlive.club/channel/n3d378157/index.m3u8?q=1759362410696 
+Adithya,http://free.cnlive.club/channel/15b7234/index.m3u8?q=1759362410696 
+Makkal TV,http://free.cnlive.club/channel/2de0c4b5/index.m3u8?q=1759362410696 
+Zee Action,http://free.cnlive.club/channel/21567d4a/index.m3u8?q=1759362410696
+ Astro KTV,http://free.cnlive.club/channel/712e183e/index.m3u8?q=1759362410696 
+Zee TV HD,http://free.cnlive.club/channel/n6942f21a/index.m3u8?q=1759362410696
+ Zee Cinema HD,http://free.cnlive.club/channel/n1cac6b09/index.m3u8?q=1759362410696 
+Color HD,http://free.cnlive.club/channel/44950907/index.m3u8?q=1759362410696 
+Starplus HD,http://free.cnlive.club/channel/24681c2/index.m3u8?q=1759362410696 
+Picture HD,http://free.cnlive.club/channel/n3325a1f4/index.m3u8?q=1759362410696
+ Zee News,http://free.cnlive.club/channel/78773ee7/index.m3u8?q=1759362410696
+ Asianet,http://free.cnlive.club/channel/1aeb94a5/index.m3u8?q=1759362410696 
+Asianet News,http://free.cnlive.club/channel/n57578672/index.m3u8?q=1759362410696
+ Discovery World Tamil,http://free.cnlive.club/channel/258de497/index.m3u8?q=1759362410696 
+History Tamil,http://free.cnlive.club/channel/7af344a9/index.m3u8?q=1759362410696 
+NatGeo Tamil,http://free.cnlive.club/channel/n1d8feddf/index.m3u8?q=1759362410696 
+Natgeo Wild Tamil,http://free.cnlive.club/channel/n1f6f15f1/index.m3u8?q=1759362410696
+ Astro Sonypix,http://free.cnlive.club/channel/569b62a9/index.m3u8?q=1759362410696 
+Discovery Kids Tamil,http://free.cnlive.club/channel/c27feee/index.m3u8?q=1759362410696 
+Discovery Tamil,http://free.cnlive.club/channel/57e04445/index.m3u8?q=1759362410696 
+Sony Yay Tamil,http://free.cnlive.club/channel/612b7209/index.m3u8?q=1759362410696 
+Sun TV India,http://free.cnlive.club/channel/499bb47b/index.m3u8?q=1759362410696 
+Starmaa HD,http://free.cnlive.club/channel/n3f7f7fd1/index.m3u8?q=1759362410696
+ Starmaa Movies HD,http://free.cnlive.club/channel/n348057ba/index.m3u8?q=1759362410696
+ Bollyone,http://free.cnlive.club/channel/n23720e78/index.m3u8?q=1759362410696 
+Astro Sunmusic,http://free.cnlive.club/channel/n46705a18/index.m3u8?q=1759362410696
+ Vijay Super,http://free.cnlive.club/channel/n15349664/index.m3u8?q=1759362410696 
+Vellithirai,http://free.cnlive.club/channel/n50eaf0f/index.m3u8?q=1759362410696 
+
+英国频斯,#genre#
+ BBC 1,http://free.cnlive.club/channel/n12f70f84/index.m3u8?q=1759362410696 
+BBC 2,http://free.cnlive.club/channel/n12f70f83/index.m3u8?q=1759362410696 
+CBBC,http://free.cnlive.club/channel/7b42ceb8/index.m3u8?q=1759362410696 
+More4,http://free.cnlive.club/channel/n1246df79/index.m3u8?q=1759362410696
+ Freesports,http://free.cnlive.club/channel/7994d0e3/index.m3u8?q=1759362410696 
+Skynews,http://free.cnlive.club/channel/n65136184/index.m3u8?q=1759362410696
+ Pick TV,http://free.cnlive.club/channel/n8682e17/index.m3u8?q=1759362410696
+ itv 1,http://free.cnlive.club/channel/n10ba00dc/index.m3u8?q=1759362410696
+ itv 2,http://free.cnlive.club/channel/n10ba00db/index.m3u8?q=1759362410696 
+Euronews,http://free.cnlive.club/channel/19750d38/index.m3u8?q=1759362410696 
+Channel 4,http://free.cnlive.club/channel/2135795f/index.m3u8?q=1759362410696
+ NatGeo HD,http://free.cnlive.club/channel/530c09b4/index.m3u8?q=1759362410696
+ CBeebies,http://free.cnlive.club/channel/n56ec6d34/index.m3u8?q=1759362410696
+ History,http://free.cnlive.club/channel/514cb39c/index.m3u8?q=1759362410696 
+Kids TV,http://free.cnlive.club/channel/n10d59be3/index.m3u8?q=1759362410696 
+France 24,http://free.cnlive.club/channel/n13cd9691/index.m3u8?q=1759362410696
+ DW (Deutsch),http://free.cnlive.club/channel/2a24e4c4/index.m3u8?q=1759362410696
+ BBC Earth HD,http://free.cnlive.club/channel/3709a607/index.m3u8?q=1759362410696
+ BBC Earth Lifestyle,http://free.cnlive.club/channel/72553caa/index.m3u8?q=1759362410696 
+MTV Live,http://free.cnlive.club/channel/52a078d5/index.m3u8?q=1759362410696 
+Star Movies HD,http://free.cnlive.club/channel/1c63b283/index.m3u8?q=1759362410696
+ NHK World,http://free.cnlive.club/channel/71de198b/index.m3u8?q=1759362410696
+ Warner TV,http://free.cnlive.club/channel/6235d917/index.m3u8?q=1759362410696
+ HBO HD,http://free.cnlive.club/channel/n41a855c1/index.m3u8?q=1759362410696
+ NatGeo Wild HD,http://free.cnlive.club/channel/n5e0570c6/index.m3u8?q=1759362410696
+ Nickelodeon,http://free.cnlive.club/channel/24e2e10d/index.m3u8?q=1759362410696 
+Nick Jr,http://free.cnlive.club/channel/n7234a5b3/index.m3u8?q=1759362410696
+ Thrill,http://free.cnlive.club/channel/n2b05b19d/index.m3u8?q=1759362410696
+ CGTN,http://free.cnlive.club/channel/7b42e3b6/index.m3u8?q=1759362410696 
+Hits Movie,http://free.cnlive.club/channel/n6906b9d8/index.m3u8?q=1759362410696 
+Animal Planet (Eng),http://free.cnlive.club/channel/23d55997/index.m3u8?q=1759362410696
+ CNBC,http://free.cnlive.club/channel/7b42fbc4/index.m3u8?q=1759362410696 
+TLC,http://free.cnlive.club/channel/n6760b00d/index.m3u8?q=1759362410696
+ BBC World News,http://free.cnlive.club/channel/361e4ef6/index.m3u8?q=1759362410696 
+HGTV,http://free.cnlive.club/channel/7b452999/index.m3u8?q=1759362410696 
+Axn HD,http://free.cnlive.club/channel/n4a933563/index.m3u8?q=1759362410696 
+Skysports F1,http://free.cnlive.club/channel/n7c6d1d1d/index.m3u8?q=1759362410696
+ Skysports Cricket,http://free.cnlive.club/channel/n178afb67/index.m3u8?q=1759362410696
+ Bloomberg News,http://free.cnlive.club/channel/fa3b1b0/index.m3u8?q=1759362410696
+ Skysports EPL,http://free.cnlive.club/channel/n11368637/index.m3u8?q=1759362410696
+ Skysports Main Event,http://free.cnlive.club/channel/n40025455/index.m3u8?q=1759362410696
+ Skysports News,http://free.cnlive.club/channel/n1595d4d5/index.m3u8?q=1759362410696
+Al-Jazeera,http://free.cnlive.club/channel/n312e1c58/index.m3u8?q=1759362410696 
+
+越南频斯,#genre# 
+ANTV,http://free.cnlive.club/channel/n22a24afa/index.m3u8?q=1759362410696 
+VTV 1,http://free.cnlive.club/channel/n307c6b4e/index.m3u8?q=1759362410696
+ VTV 7,http://free.cnlive.club/channel/n307c6b48/index.m3u8?q=1759362410696 
+HTV 7,http://free.cnlive.club/channel/n3141b456/index.m3u8?q=1759362410696
+ HTV 9,http://free.cnlive.club/channel/n3141b454/index.m3u8?q=1759362410696
+ BPTV 2,http://free.cnlive.club/channel/n16a68c7/index.m3u8?q=1759362410696 
+BRT HD,http://free.cnlive.club/channel/n14eff91/index.m3u8?q=1759362410696 
+Ca Mau TV,http://free.cnlive.club/channel/ne2b5b94/index.m3u8?q=1759362410696 
+Danang TV1 HD,http://free.cnlive.club/channel/3002d84d/index.m3u8?q=1759362410696 
+Danang TV2 HD,http://free.cnlive.club/channel/30034cac/index.m3u8?q=1759362410696
+HBTV HD,http://free.cnlive.club/channel/n6612257/index.m3u8?q=1759362410696 
+PTTH 1,http://free.cnlive.club/channel/16b19960/index.m3u8?q=1759362410696 
+
+韩国频斯,#genre# 
+Arirang HD,http://free.cnlive.club/channel/2ff36b8c/index.m3u8?q=1759362410696 
+Yonhap News,http://free.cnlive.club/channel/n42d097fc/index.m3u8?q=1759362410696
+ CBS,http://free.cnlive.club/channel/60bd5504/index.m3u8?q=1759362410696
+ EBS 1,http://free.cnlive.club/channel/26d85717/index.m3u8?q=1759362410696
+ EBS2,http://free.cnlive.club/channel/n4911cb94/index.m3u8?q=1759362410696
+ EBS Plus2,http://free.cnlive.club/channel/n37ff5662/index.m3u8?q=1759362410696 
+SBS Plus,http://free.cnlive.club/channel/201eed46/index.m3u8?q=1759362410696 
+YTN,http://free.cnlive.club/channel/60bda9c3/index.m3u8?q=1759362410696
+ KBS World 24,http://free.cnlive.club/channel/23b56044/index.m3u8?q=1759362410696 
+YTN Science,http://free.cnlive.club/channel/42d704e7/index.m3u8?q=1759362410696 
+YTN Korean,http://free.cnlive.club/channel/n552431df/index.m3u8?q=1759362410696 
+YTN DMB,http://free.cnlive.club/channel/128ca4fc/index.m3u8?q=1759362410696 
+Apps TV,http://free.cnlive.club/channel/4ec31c00/index.m3u8?q=1759362410696
+ All the Kpop,http://free.cnlive.club/channel/57449d04/index.m3u8?q=1759362410696
+ J the Kpop,http://free.cnlive.club/channel/n4f37dba5/index.m3u8?q=1759362410696 
+EBS Kids,http://free.cnlive.club/channel/71cc25e7/index.m3u8?q=1759362410696 
+CGNTV,http://free.cnlive.club/channel/26be619c/index.m3u8?q=1759362410696 
+
+日本频斯,#genre#
+ NHK-総合-2,http://free.cnlive.club/channel/na79f989/index.m3u8?q=1759362410696
+ NHK-E,http://free.cnlive.club/channel/n58f58814/index.m3u8?q=1759362410696 
+テレビ朝日 Asahi TV,http://free.cnlive.club/channel/n1772cc46/index.m3u8?q=1759362410696 
+JET 綜合,http://free.cnlive.club/channel/335a44b0/index.m3u8?q=1759362410696 
+テレビ東京 Tokyo TV,http://free.cnlive.club/channel/n45cbf64f/index.m3u8?q=1759362410696
+ TOKYOMX,http://free.cnlive.club/channel/57b7ac54/index.m3u8?q=1759362410696 
+NHKBS1,http://free.cnlive.club/channel/3a44d64c/index.m3u8?q=1759362410696
+ NHKBSプレミア Premium,http://free.cnlive.club/channel/32735274/index.m3u8?q=1759362410696
+ BSジャパン 181,http://free.cnlive.club/channel/n7e70a07b/index.m3u8?q=1759362410696 
+BSフジ BS Fuji,http://free.cnlive.club/channel/n533d3eb2/index.m3u8?q=1759362410696 
+CNA Japan,http://free.cnlive.club/channel/n6a6e2861/index.m3u8?q=1759362410696 
+BS-TBS,http://free.cnlive.club/channel/26584fe6/index.m3u8?q=1759362410696 
+NHK Oaska,http://free.cnlive.club/channel/n697f9e15/index.m3u8?q=1759362410696
+ NHK World,http://free.cnlive.club/channel/n6908887a/index.m3u8?q=1759362410696 
+韩国频特,#genre# 
+Arirang HD,https://tv543.cc/Smart.php?id=arirang_korea 
+Yonhap News,https://tv543.cc/Smart.php?id=yonhapnews_korea 
+CBS,https://tv543.cc/Smart.php?id=cbs_korea 
+EBS 1,https://tv543.cc/Smart.php?id=ebs1_korea 
+EBS2,https://tv543.cc/Smart.php?id=ebs2_korea 
+EBS Plus2,https://tv543.cc/Smart.php?id=ebsplus2_korea 
+SBS Plus,https://tv543.cc/Smart.php?id=sbsplus_korea 
+YTN,https://tv543.cc/Smart.php?id=ytn_korea 
+KBS World 24,https://tv543.cc/Smart.php?id=kbsworld24_korea 
+YTN Science,https://tv543.cc/Smart.php?id=ytnscience_korea 
+YTN Korean,https://tv543.cc/Smart.php?id=ytnkorean_korea 
+YTN DMB,https://tv543.cc/Smart.php?id=ytndmb_korea 
+Apps TV,https://tv543.cc/Smart.php?id=appongoogle_korea 
+All the Kpop,https://tv543.cc/Smart.php?id=allthekpop_korea 
+J the Kpop,https://tv543.cc/Smart.php?id=jthekpop_korea 
+EBS Kids,https://tv543.cc/Smart.php?id=ebskids_korea
+ CGNTV,https://tv543.cc/Smart.php?id=cgntv_korea 
+
+日本频特,#genre# 
+NHK-総合-2,https://tv543.cc/Smart.php?id=nhkg_japan 
+NHK-E,https://tv543.cc/Smart.php?id=nhke_japan 
+テレビ朝日 Asahi TV,https://tv543.cc/Smart.php?id=asahitv_japan 
+JET 綜合,https://tv543.cc/Smart.php?id=jettv_japan 
+テレビ東京 Tokyo TV,https://tv543.cc/Smart.php?id=tokyotv_japan 
+TOKYOMX,https://tv543.cc/Smart.php?id=tokyomx_japan 
+NHKBS1,https://tv543.cc/Smart.php?id=nhkbs1_japan 
+NHKBSプレミア Premium,https://tv543.cc/Smart.php?id=nhkpremium_japan 
+BSジャパン 181,https://tv543.cc/Smart.php?id=bs181_japan 
+BSフジ BS Fuji,https://tv543.cc/Smart.php?id=bsfuji_japan
+ CNA Japan,https://tv543.cc/Smart.php?id=cna_japan 
+BS-TBS,https://tv543.cc/Smart.php?id=bstbs_japan
+ NHK Oaska,https://tv543.cc/Smart.php?id=nhkosaka_japan 
+News,#genre#
+
+
+
+
+
+
+
+
+LCN [Geo-blocked],https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+Léman Bleu (1080p),http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8
+Lenca Television Canal 40 (720p) [Not 24/7],https://lencatelevision.com/hls/stream.m3u8
+Life TV (720p) [Not 24/7],https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+Like TV,https://live-evg1.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8
+Lira TV (720p) [Not 24/7],https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/playlist.m3u8
+LiveNOW from FOX (720p),https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+Living India News (1080p),https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8
+LN24,https://live-ln24.digiteka.com/1911668011/index.m3u8
+LN24SA (1080p),https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
+LN247 (1080p),https://go5lmb6oyawb-hls-live.5centscdn.com/station/3dfd3752af3d7aec5c53992c2da3a316.sdp/playlist.m3u8
+Lolwe TV (576p) [Not 24/7],https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8
+LRT Radijas (1080p),https://radijas.lrt.lt/radijas/master.m3u8
+M1 (1080p),http://194.76.186.33:8000/play/a024/index.m3u8
+M95 Televisión Marbella (1080p) [Not 24/7],https://limited2.todostreaming.es/live/m95-livestream.m3u8
+M Sign Media (720p) [Not 24/7],http://rtmp2.logicwebs.in:1935/msign/msignmedia/playlist.m3u8
+M-Net Info (720p),https://giganet.mk/hls/mnet-info.m3u8
+Mahaa News (720p),https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahaa-news/index.m3u8
+Makan 33 (1080p),https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+Malabar News (720p) [Not 24/7],http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
+Malai Murasu TV (720p) [Not 24/7],https://cdn-3.pishow.tv/live/1606/master.m3u8
+Manorama News (1080p),https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
+Mantavya News (576p),https://yuppftalive.akamaized.net/080823/mantavya/playlist.m3u8
+Mario Pinto TV (720p) [Not 24/7],https://eu1.servers10.com:8081/8028/index.m3u8
+Más Noticias Televisión (720p),https://www.amixtv.com:8081/mntvh/index.m3u8
+Mathrubhumi News (576p) [Not 24/7],https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
+Maya TV (480p) [Not 24/7],https://media.streambrothers.com:19360/8356/8356.m3u8
+Medi 1 TV Afrique (1080p) [Not 24/7],https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+Medi 1 TV Arabic (1080p) [Not 24/7],https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+Medi 1 TV Maghreb (1080p) [Not 24/7],https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+Media One (720p),https://cdn-3.pishow.tv/live/1481/master.m3u8
+Mega TV (720p) [Not 24/7],https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
+Meganoticias MX (1080p),https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
+Mekameleen TV (1080p),https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+Mereja TV (1080p) [Not 24/7],https://rumble.com/live-hls-dvr/4c14o3/playlist.m3u8
+Metro Globe Network (1080p) [Not 24/7],https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+Mh 1 News (1080p),https://mhonenews.in/hls/stream.m3u8
+Mihan TV,https://iptv.mihantv.com/mihantv/playlist.m3u8
+Milenio Television,https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+Minformo TV (720p),https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
+Miracle Channel (576p),https://miracle.stream.boxigy.com/hls/miracle1.m3u8
+Mírame TV (360p) [Not 24/7],https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
+Mirror Now (720p),https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
+MiSURtv (1080p),https://stream8.mexiserver.com:1936/misurtv/misurtv/playlist.m3u8
+MNC (720p),https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
+Monaco Info (1080p),https://webtv.monacoinfo.com/live/prod/index.m3u8
+Moon TV (720p),https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
+MSNBC (720p),http://41.205.93.154/MSNBC/index.m3u8
+MTV Uutiset (720p),https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
+Munsif TV (720p),https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/munsif-tv/e5ae862b-c65c-4b17-b9a8-038853525c64/0.m3u8
+Nabaa TV (720p) [Not 24/7],http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
+Nablus TV (1080p),https://htvint.mada.ps/nabluslive/index.m3u8
+Naftemporiki TV (1080p),https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
+Nation TV,https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
+Naxatra News (720p),https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8
+NBC 2 Orlando FL (WESH) (720p),https://livetv-fa.tubi.video/wesh/playlist.m3u8
+NBC 5 Plattsburgh NY (WPTZ) (720p),https://livetv-fa.tubi.video/wptz/playlist.m3u8
+NBC 8 Lancaster PA (WGAL) (720p),https://livetv-fa.tubi.video/wgal/playlist.m3u8
+NBC 12 Winston-Salem NC (WXII) (720p),https://livetv-fa.tubi.video/wxii/playlist.m3u8
+NBC News NOW,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
+NCTV (1080p),https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
+NDTV 24X7 (480p) [Not 24/7],https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+NDTV India (480p) [Not 24/7],https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+Nei Monggol TV News Channel,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
+News 1 India (576p),https://yuppftalive.akamaized.net/080823/news1india/playlist.m3u8
+News 1st (576p) [Not 24/7],https://yuppftalive.akamaized.net/080823/news1st/playlist.m3u8
+News 7 Tamil (576p),https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+News9Live (720p),https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8
+News 12 New York,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fff49cfb5cd4f0007c2b0dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5103-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c438c5e4-4d4e-4037-8b44-c6782c44b796
+News18 Kerala (1080p) [Geo-blocked],https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
+News 24 (392p) [Not 24/7],https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+News 24 (720p),https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+News Central,https://wf.newscentral.ng:8443/hls/stream.m3u8
+News J (720p) [Not 24/7],https://cdn-3.pishow.tv/live/1279/master.m3u8
+News Live (720p),https://5b48d7e1b4bce.streamlock.net/myapp/newslive/playlist.m3u8
+News Malayalam 24x7 (1080p),https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/index.m3u8
+News Nation (1080p),https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+News Nation (720p),https://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
+News Tamil 24x7 (1080p),https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
+Newsmax 2 (720p),https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+Newsmax TV (720p),https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+NewsNet (720p) [Not 24/7],https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
+NewsWorld,https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
+Newsy (1080p),https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+Next TV (1080p),http://62.233.57.226:8001/play/a00h
+NH Niews (1080p),https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+NK TV 24x7 (1080p),https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
+NMás (1080p),https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+NMás Media (1080p),https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+NNVeracruz (640p),https://s.emisoras.tv:8081/nnveracruz/index.m3u8
+Nopola News (1080p) [Not 24/7],https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
+Norte Informativo TV (240p),https://videohd.live:19360/8076/8076.m3u8
+Noticias 16,https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
+Noticiero 90 Minutos (720p) [Not 24/7],https://cdns.livewave.co:8081/90minutoslive/index.m3u8
+NotiUno TV (854p) [Not 24/7],https://59a564764e2b6.streamlock.net/notiunotv/notiunotv/playlist.m3u8
+NRT México Internacional (720p),https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8
+NRT México Región Centro (720p),https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+NRT México Región Sureste (720p),https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
+NRT TV (720p) [Not 24/7],https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+NTV Telugu (576p),https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
+Nuevo Mundo TV (720p),https://tvlatina.live:1936/8008/8008/playlist.m3u8
+NW Info 2 EN (576p),https://hls.newworldtv.com/nw-info-2/video/live.m3u8
+NW Info FR (576p),https://hls.newworldtv.com/nw-info/video/live.m3u8
+O'zbekiston 24 (1080p),https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8
+OAN (720p),https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
+OAN Encore (720p) [Geo-blocked],https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
+OANPlus (1080p),https://oan-plus-tcl.amagi.tv/playlist.m3u8
+Obieqtivi TV,https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8
+Observator News (720p),https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+Ocean TV Network (720p),https://egress-stkplz7mbu4ftbof3zr94.live.streamer.wpstream.net/ev_wps_52076_oceant53da84_221_1717304220/hls/5yjq1wbd06ffe4t4.m3u8
+Olay Türk TV Kayseri (720p) [Geo-blocked],https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
+Oman Mubashir (1080p),https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+On E (1080p),https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8
+ON Medya Haber (720p) [Geo-blocked],http://live.arkumedia.com:1935/marmaratv/marmaratv/playlist.m3u8
+Ora News (720p),https://live1.mediadesk.al/oranews.m3u8
+Órbita TV (720p),https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
+OTV (720p) [Not 24/7],https://stream.agatin.hr:3559/live/otvlive.m3u8
+Palestine Al Yawm (720p),https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
+Palestine Today (480p) [Geo-blocked],https://live.paltodaytv.com/paltv/live/playlist.m3u8
+Palitra News (480p) [Not 24/7],https://live.palitranews.ge/hls/palitratv/index.m3u8
+Panorama TV (720p),https://tv.panorama.com.al/panorama/livestream/playlist.m3u8
+Panzihihua News Channel,https://live.pzhkai.com/xwzhtl/sd/live.m3u8?_upt=6a1ad5741729836768
+Paralelo 20 650 AM (1080p) [Not 24/7],https://stream.oursnetworktv.com/latin/paralelo20/playlist.m3u8
+Payam TV (720p) [Not 24/7],https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+Payvand TV (720p) [Not 24/7],https://bozztv.com/cus01/ucur1/Payvand/index.m3u8
+PBO,https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
+Pershiy XTV Media (576p),https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8
+Plena TV (720p),https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+Plus TV (720p) [Not 24/7],https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8
+Pluto TV News,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1454-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40ed281a-4df6-4951-8bc0-abfa19c88be3
+PNN News (720p),https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8
+Polimer News (576p),https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+Polsat News (720p) [Geo-blocked],http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
+Polsat News Polityka (1080p) [Geo-blocked],https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
+Prameya News7 (1080p) [Not 24/7],https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prameya-news7/index.m3u8?ads.dpname=distrotv
+Pratham Khabar 24x7 (576p),https://livelegitpro.in/hls2/newstime/index.m3u8
+Pratidin Time (576p) [Not 24/7],https://yuppftalive.akamaized.net/080823/protidintime/playlist.m3u8
+Prensa Latina TV (1080p),https://eu1.servers10.com:8081/8192/index.m3u8
+Press TV (720p),#EXTVLCOPT:http-referrer=https://odysee.com/
+Press TV French (1080p),https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
+Prime News TV (720p),https://vdo.alphaserver.gr:3411/stream/play.m3u8
+Pro TV News (1080p),https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+Probashi TV News (720p),http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
+Profit News (404p) [Not 24/7],https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+Prudent Media (1080p),https://prudentmcdn.rixcast.com/prudentm.m3u8
+PSM News,https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8
+PTC News (720p),https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8
+PTV (720p),https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8
+PublicSn TV (720p),https://goccn.cloud/hls/publictv/index.m3u8
+Publika TV (720p),https://livebeta.publika.press/LIVE/P/6810.m3u8
+Puranoticia TV (720p),https://pnt.janusmedia.tv/hls/pnt.m3u8
+Puthiya Thalaimurai (576p),https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+Quantica TV,https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+Raajje TV (480p),https://stream.raajje.mv/live/rtv_live/index.m3u8
+Radio Ancón (720p),https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
+Radio Isla TV (720p),https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
+Rai News 24 (720p),https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+Rai News 24 HD,https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+Raj News Malayalam,https://rajnewsmalayalam.ylivestream.com/rajnewsmalayalam/index.m3u8
+Raj News Telugu (1080p) [Not 24/7],https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_News_Telugu/master_1.m3u8
+RCV TV (712p),https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
+RDN (720p),https://vdo2.streamgato.us:3278/live/rdntvlive.m3u8
+RDX Goa (720p),https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+Real News Kerala (1080p) [Not 24/7],https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+Record News (720p),https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+Red de Comunicación Regional (RCR) (720p) [Not 24/7],https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+Red TV Lebanon (1080p),https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
+Redseat The First (720p),https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8
+Relevant TV (1080p),https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
+Report TV (720p),https://deb10stream.duckdns.org/hls/stream.m3u8
+Reporter TV (576p),https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
+Republic Kannada (1080p),https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8
+Reuters,https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+Rlive TV (406p),https://realitatealive.md/tv/rlive.m3u8
+RNN (720p) [Not 24/7],https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/playlist.m3u8
+RSelvaTV,https://live.obslivestream.com/selvatv/index.m3u8
+RT Arabic (1080p) [Geo-blocked],https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+RT DE (1080p) [Not 24/7],https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+RT en Español (1080p),#EXTVLCOPT:http-referrer=https://odysee.com/
+RT France (1080p) [Geo-blocked],https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+RT News (1080p) [Geo-blocked],https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+RTM ASEAN,https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+RTP 3 (720p) [Not 24/7],#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+RTU (1080p) [Not 24/7],https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
+Rudaw TV (1080p),https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+SABC Lehae [Geo-blocked],https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
+SABC News (720p) [Geo-blocked],https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+Sadhna Plus News (720p),https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
+Samachar Plus (1080p),https://samacharplus.livebox.co.in/samacharplushls/live.m3u8
+Samay Kolkata (720p),https://5dd3981940faa.streamlock.net/kbcration/kbcration/playlist.m3u8
+Saraounia TV,https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8
+SC Currents,https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
+Scripps News,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8986-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20db7334-405e-4c4e-abea-fa620b2d19fb
+SET News (三立新聞) (1080p) [Geo-blocked],http://seb.sason.top/sc/sllive_fhd.m3u8
+Shams TV (1080p),https://stream.shams.tv/hls/stream.m3u8
+SIC Notícias (1080p),https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+Silverbird News 24 (576p),https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8
+SK 1 (720p),http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+Sky News Arabia (1080p) [Not 24/7],https://stream.skynewsarabia.com/ott/ott.m3u8
+Sky News Arabia (Portrait) (1280p) [Not 24/7],https://stream.skynewsarabia.com/vertical/vertical.m3u8
+Sky News Extra 1 (540p),https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+Sky News Extra 2 (540p) [Not 24/7],https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+Sky News Extra 3 (1080p),https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+SNN TV [Not 24/7],https://live2.snn.ir/hls/snn2_hd720/index.m3u8
+Start TV (480p),https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+Sterk TV,https://trn09.bozztv.com/gin-sterk/index.m3u8
+Suceso TV [Not 24/7],https://live.enhdtv.com:8081/8060/index.m3u8
+Such TV,https://video.primexsports.com/suchnews/live/playlist.m3u8
+Sudarshan News (1080p),https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
+Suno News HD (720p),https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8
+Sunu Label TV (480p) [Not 24/7],https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8
+Super Express TV (1080i),https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
+Swadesh News (720p),https://cdn-2.pishow.tv/live/465/master.m3u8
+Syria TV (1080p),https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+T13 (720p),https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+T News (720p),https://cdn-1.pishow.tv/live/385/master.m3u8
+TCF TV (720p),http://live.sloode.com:1935/tcf_live/telecineforum/playlist.m3u8
+TCM 10 HD (1080p),https://live.tcm10.com.br/tcm10hd/stream.m3u8
+TDM Info. Macau (720p) [Not 24/7],https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+Tele Sondrio News (480p) [Not 24/7],https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
+Telegela 647 (720p),http://live.sloode.com:1935/qdg_live/AF74-FF2C-7350-41F2/playlist.m3u8
+Telejato (720p),https://telejato.liberotratto.com/hls/0/stream.m3u8
+TeleMoldova + [Geo-blocked],https://vdo.ssl-stream.com:3247/stream/play.m3u8
+TeleSUR (1080p),https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+Telesur English (1080p) [Not 24/7],https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
+Televisión del Este (720p),https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
+Tempo Afric TV (720p),https://streamspace.live/hls/tempoafrictv/livestream.m3u8
+TGCom 24 [Geo-blocked],https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+TGRT Haber (720p),https://canli.tgrthaber.com/tgrt.m3u8
+Thanthi TV (396p),https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8
+The First TV (1080p),https://thefirst-oando.amagi.tv/playlist.m3u8
+The Reuters 60,https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+The Young Turks (1080p) [Geo-blocked],https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/playlist.m3u8
+Time Vision News (720p),http://rtmp.logichost.in:1935/timevision/timevision/playlist.m3u8
+Times Brasil (1080p),https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
+Times Now (480p) [Geo-blocked],https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+Times Now Navbharat (1080p) [Geo-blocked],https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
+TN 23 (480p) [Not 24/7],https://dy434h3s52eoj.cloudfront.net/Canal23GT/235557e601489a53ece741671338603f.sdp/playlist.m3u8
+TODAY All Day,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b9a9385-79d0-48ba-8524-7334c82add93
+Tolo News (720p),https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
+Tonghua TV,http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+Top News (720p),https://live.topnews.co.th/hls/topnews_a_720.m3u8
+Top Stories by Newsy (720p),https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
+TRA 2 (576p),https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8
+TRA Noticias (576p),hhttps://fl1002.bozztv.com/ssh101/rctvhdtra/tracks-v1a1/mono.m3u8
+TribunaTV (720p) [Not 24/7],https://cloudflare.streamgato.us:3204/live/tribunatvlive.m3u8
+TRT (360p),https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
+TRT Arabi (1080p) [Not 24/7],https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+TRT Haber (720p),https://tv-trthaber.medya.trt.com.tr/master.m3u8
+TRT World (1080p),http://92.114.85.72:8000/play/a02v
+Truso TV (576p) [Not 24/7],https://stream.truso.tv/elblag/myStream_aac/playlist.m3u8
+TürkHaber (720p),https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+TV3 Algeria (576p),http://149.62.177.98:8000/play/a01z/index.m3u8
+TV5Monde Info (1080p) [Geo-blocked],https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+TV5 News (576p),https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
+TV9 Kannada (720p) [Not 24/7],https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
+tv9 Telemaremma (576p),https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8
+TV A Folha (720p),https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+TV Arta,https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+TV Brusque (720p),https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+TV do Povo (540p),https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+TV Jadran (720p) [Not 24/7],https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+TV Perú Noticias,https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+TV Punjab (720p),https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
+TV Sim Cachoeiro (720p),https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+TV Sim Colatina (720p),https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+TV Sim São Mateus (720p),https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+TV-Nord (1080p),https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8
+TVBS News (TVBS新聞台) [Geo-blocked],http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+TVC News (576p),https://viamotionhsi.netplus.ch/live/eds/tvcnews/browser-HLS8/tvcnews.m3u8
+TVídeoNews (720p) [Not 24/7],https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+TVM El Salvador,http://201.247.102.189/tmp_hls/stream/index.m3u8
+TVM News+ [Geo-blocked],http://80.79.6.221:25461/smash/public/20
+TVN24 (720p),https://ss2.tvrdomi.com:1936/vozzmedianetwork/vozzmedianetwork/playlist.m3u8
+TVN-Bulgaria (1080p),https://obs.friendshipchurch.eu/tvn/mystream.m3u8
+TVR Info (1080p) [Geo-blocked],#EXTVLCOPT:http-referrer=https://www.tvrplus.ro/
+Twenty Four News (396p),https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+UN24 (720p),#EXTVLCOPT:http-referrer=https://un24.tv/
+UN Web TV (540p),https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+UNews,https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
+USA Today News [Geo-blocked],https://usatodaynews-xumo.amagi.tv/playlist.m3u8
+UzReport TV (1080p),https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
+V6 News (576p),https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
+VBC News (576p),https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
+Venad News (360p),https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
+Vísir (1080p),https://live.visir.is/hls-live/visir.smil/playlist.m3u8
+VNP,https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+VOA Persian,https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+VOA TV Africa (1080p),https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+Voice News (720p),https://cdn.bmstudiopk.com/vop/live/playlist.m3u8
+Voice of Lebanon (1080p),https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+Vouli TV (1080p) [Not 24/7],https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
+VPItv (1080p),https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+VTV (1080p) [Not 24/7],https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
+VTV News (720p),https://5b48d7e1b4bce.streamlock.net/myapp/vtvlive/playlist.m3u8
+W14DK-D 14.2 NEWSNET,https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
+WAGA-DT1,https://dvrfl03.bozztv.com/hondu/hondu-rick-fox5/index.m3u8
+WBZ-DT1 (720p),http://143.244.60.30/CBSEAST/index.m3u8
+WeatherNation New York,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61e71d5931746f0007ca3e68/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1029-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7473f3ad-8ef5-46e9-98b7-8a551289db64
+Weihai Comprehensive News Channel,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
+Welat TV (1080i),http://stream.welattv.net:1935/welat/tv/.m3u8
+WELT,https://s6.hopslan.com/n24X/index.m3u8
+WFTS-DT1,https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+WION (1080p),https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+WLS ABC 7 News (Chicago IL) (720p),https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
+WPVI ABC 6 News (Philadelphia PA) (720p),https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
+WTVD ABC 11 News (Raleigh-Durham NC) (720p),https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
+YES,https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
+Yoganadam News (720p),https://yoganadam.cinesoftcdn.com/yoganadam/live/index.m3u8
+Zee Delhi NCR Haryana (720p),https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
+Zee Kannada News (720p),https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
+Zee News (1080p),https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+Zee News Malayalam (720p),https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
+Zerouno TV News (720p),https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8
+Zoom TV Kurdish (720p),#EXTVLCOPT:http-referrer=https://zoomnews.info/
+Астрахань 24 (720p),https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+Беларусь 24 (1080p),https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+Вести ФМ,https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
+Дон 24,https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
+Донбас Online (1080p) [Not 24/7],http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
+Известия,http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+КРИК-ТВ (Екатеринбург),http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
+Крым 24,https://streaming.televizor-24-tochka.ru/live/28.m3u8
+Легендарный 24,https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+Миллет (540p) [Not 24/7],https://live.trkmillet.ru/millet/index.m3u8
+Мир 24 (1080p),http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+Настоящее Время,https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+Общественное Независимое Телевидение (576p),http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+Первый информационный (1080p),https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+Первый Республиканский,https://streaming.televizor-24-tochka.ru/live/27.m3u8
+Радио Говорит Москва (404p) [Not 24/7],http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
+Россия 24 (576p) [Not 24/7],https://uiptv.do.am/1ufc/000000006/playlist.m3u8
+Телеканал Репортер Одесса (720p),http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+Тернопіль 1 (720p),https://ott.columbus.te.ua/ternopil1/index.m3u8
+
+
+
+News;Public,#genre#
+3/24 (1080p),https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+24 Horas (1080p),https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
+24 Horas Internacional,https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
+Canal 24 Horas Canarias (720p),https://ztnr.rtve.es/ztnr/5473142.m3u8
+Canal 24 Horas Catalunya (720p),https://ztnr.rtve.es/ztnr/4952053.m3u8
+Canal Sur Noticias,https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+
+Entertainment;News,#genre#
+30A Georgia Hollywood Review TV,https://30a-tv.com/gh.m3u8
+Entertainment Tonight (720p),https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8
+HollyWire (720p),https://bozztv.com/hwotta/playlist/playlist.m3u8
+PSN,https://srspsn.live/live/livestream.m3u8
+TV Zoom (720p),https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+Vergina TV (1080p),https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/verginachannel.m3u8
+
+Documentary;News,#genre#
+30A Loomered TV,https://30a-tv.com/loomer.m3u8
+Al Arabiya Programs (1080p),https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
+The Guardian,https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8
+
+Business;News,#genre#
+100% News (576p),http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+Asharq News (1080p),https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
+Asharq News Portrait (1280p),https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
+Asharq Radio (1080p),https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
+BFM Business (576p),https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+Canal E (720p),https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
+News;Weather,#genre#
+ABC 9 Manchester NH (WMUR-TV) (720p),https://livetv-fa.tubi.video/wmur/playlist.m3u8
+WBRZ Weather Channel Baton Rouge LA (480p),https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8
+
+Business;Legislative;News,#genre#
+ADOCCO TV (720p),https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+
+
+News;Science,#genre#
+BFM Tech & Co (1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
+
+
+🇰🇷韩国,#genre#
+KBS 1TV [Not 24/7],http://mytv.dothome.co.kr/ch/public/1.php
+KBS 2TV [Not 24/7],http://mytv.dothome.co.kr/ch/public/3.php
+KBS Drama (480p),http://mytv.dothome.co.kr/ch/catv/2.php
+KBS Life (480p),http://mytv.dothome.co.kr/ch/catv/5.php
+ABN TV (720p),https://vod2.abn.co.kr/IPHONE/abn.m3u8
+Arirang Radio (720p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+BBS Buddhist Broadcasting (1080p),http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+CGNTV South Korea (1080p),https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
+GoodTV (1080p),http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+KCTV 광주 CH05 (720p) [Not 24/7],http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+MBC Jeju (제주 MBC) (352p) [Not 24/7],https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+tvchosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+EBSe,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+tvN1,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
+tvN2,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
+tvN3,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
+tvN5,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?tvN Movies
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+BTN,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
+EBS-KIDS,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+MBN,http://mytv.dothome.co.kr/ch/catv/54.php
+韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
+韩国中央台,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+韩国|CJB|SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+韩国|MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
+
+
+tvchosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+EBSe,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+tvN1,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
+tvN2,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
+tvN3,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
+tvN5,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?tvN Movies
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+BTN,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
+EBS-KIDS,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+MBN,http://mytv.dothome.co.kr/ch/catv/54.php
+韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
+韩国中央台,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+韩国|CJB|SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+韩国|MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
+
+
+港台频道1,#genre# 
+凤凰卫视中文台,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+凤凰卫视资讯台,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+凤凰卫视香港台,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
+TVB翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
+TVB无线新闻台,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
+TVB Plus,http://t.061899.xyz/tl/js/js.php?id=tvbplus
+TVB明珠台,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
+香港有线新闻台,http://t.061899.xyz/tl/js/js.php?id=xgyxxwt
+香港有线18台,http://t.061899.xyz/tl/js/js.php?id=18xgyxt
+香港有线18台(备),http://t.061899.xyz/tl/js/js.php?id=18xgyxtb
+NOW直播台,http://t.061899.xyz/tl/js/js.php?id=nowzbt
+NOW新闻台,http://t.061899.xyz/tl/js/js.php?id=nowxwt
+NOW财经台,http://t.061899.xyz/tl/js/js.php?id=nowcjt
+ViuTV,http://t.061899.xyz/tl/js/js.php?id=viutv
+ViuTV6,http://t.061899.xyz/tl/js/js.php?id=6viutv
+HOY国际财经台,http://t.061899.xyz/tl/js/js.php?id=hoygjcjt
+HOY资讯台,http://t.061899.xyz/tl/js/js.php?id=hoyzxt
+HOY TV,http://t.061899.xyz/tl/js/js.php?id=hoytv
+港台电视31,http://t.061899.xyz/tl/js/js.php?id=31gtds
+港台电视32,http://t.061899.xyz/tl/js/js.php?id=32gtds
+中天新闻台,http://t.061899.xyz/tl/js/js.php?id=ztxwt
+东森新闻台,http://t.061899.xyz/tl/js/js.php?id=dsxwt
+东森财经新闻台,http://t.061899.xyz/tl/js/js.php?id=dscjxwt
+中视新闻台,http://t.061899.xyz/tl/js/js.php?id=zsxwt
+台视新闻台,http://t.061899.xyz/tl/js/js.php?id=tsxwt
+三立新闻台,http://t.061899.xyz/tl/js/js.php?id=slxwt
+民视新闻台,http://t.061899.xyz/tl/js/js.php?id=msxwt
+华视新闻台,http://t.061899.xyz/tl/js/js.php?id=hsxwt
+镜电视新闻台,http://t.061899.xyz/tl/js/js.php?id=jdsxwt
+寰宇新闻台,http://t.061899.xyz/tl/js/js.php?id=hyxwt
+寰宇新闻台湾台,http://t.061899.xyz/tl/js/js.php?id=hyxwtwt
+TVBS新闻台,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt
+TVBS HD,http://t.061899.xyz/tl/js/js.php?id=tvbshd
+中视HD,http://t.061899.xyz/tl/js/js.php?id=hdzs
+台视HD,http://t.061899.xyz/tl/js/js.php?id=hdts
+民视HD,http://t.061899.xyz/tl/js/js.php?id=hdms
+华视HD,http://t.061899.xyz/tl/js/js.php?id=hdhs
+三立台湾台,http://t.061899.xyz/tl/js/js.php?id=sltwt
+緯來體育台,http://t.061899.xyz/tl/js/js.php?id=wltyt
+纬来日本台,http://t.061899.xyz/tl/js/js.php?id=wlrbt
+纬来育乐台,http://t.061899.xyz/tl/js/js.php?id=wlylt
+DAZN 1,http://t.061899.xyz/tl/js/js.php?id=1dazn
+DAZN 2,http://t.061899.xyz/tl/js/js.php?id=2dazn
+爱尔达体育1台,http://t.061899.xyz/tl/js/js.php?id=1aedtyt
+爱尔达体育2台,http://t.061899.xyz/tl/js/js.php?id=2aedtyt
+爱尔达体育3台,http://t.061899.xyz/tl/js/js.php?id=3aedtyt
+爱尔达体育4台,http://t.061899.xyz/tl/js/js.php?id=4aedtyt
+大爱一台,http://t.061899.xyz/tl/js/js.php?id=dayt
+大爱二台,http://t.061899.xyz/tl/js/js.php?id=daet
+HBO HD,http://t.061899.xyz/tl/js/js.php?id=hbohd
+好莱坞电影,http://t.061899.xyz/tl/js/js.php?id=hlwdy
+FOX新聞,http://t.061899.xyz/tl/js/js.php?id=foxxw
+CNN新闻,http://t.061899.xyz/tl/js/js.php?id=cnnxw
+BBC新闻,http://t.061899.xyz/tl/js/js.php?id=bbcxw
+Discovery,http://t.061899.xyz/tl/js/js.php?id=discovery
+TVBS HD,http://t.061899.xyz/tl/js/js.php?id=tvbshd1
+TVBS新闻台,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt1
+中天新闻,http://t.061899.xyz/tl/js/js.php?id=ztxw
+中天亚洲台,http://t.061899.xyz/tl/js/js.php?id=ztyzt
+台视新闻,http://t.061899.xyz/tl/js/js.php?id=tsxw
+华视新闻,http://t.061899.xyz/tl/js/js.php?id=hsxw
+台视财经,http://t.061899.xyz/tl/js/js.php?id=tscj
+中视新闻,http://t.061899.xyz/tl/js/js.php?id=zsxw
+非凡新闻,http://t.061899.xyz/tl/js/js.php?id=ffxw
+镜新闻,http://t.061899.xyz/tl/js/js.php?id=jxw
+东森新闻,http://t.061899.xyz/tl/js/js.php?id=dsxw
+东森财经新闻,http://t.061899.xyz/tl/js/js.php?id=dscjxw
+半岛新闻,http://t.061899.xyz/tl/js/js.php?id=bdxw
+民视新闻台,http://t.061899.xyz/tl/js/js.php?id=msxwt1
+民视台湾台,http://t.061899.xyz/tl/js/js.php?id=mstwt
+寰宇新闻台,http://t.061899.xyz/tl/js/js.php?id=hyxwt1
+寰宇新闻台湾台,http://t.061899.xyz/tl/js/js.php?id=hyxwtwt1
+寰宇財經台,http://t.061899.xyz/tl/js/js.php?id=hycjt
+台视,http://t.061899.xyz/tl/js/js.php?id=ts
+民视,http://t.061899.xyz/tl/js/js.php?id=ms
+中视,http://t.061899.xyz/tl/js/js.php?id=zs
+华视,http://t.061899.xyz/tl/js/js.php?id=hs
+影迷數位電影台,http://t.061899.xyz/tl/js/js.php?id=ymswdyt
+AMC电影台,http://t.061899.xyz/tl/js/js.php?id=amcdyt
+靖天电影台,http://t.061899.xyz/tl/js/js.php?id=jtdyt
+龙华电影,http://t.061899.xyz/tl/js/js.php?id=lhdy
+采昌影剧,http://t.061899.xyz/tl/js/js.php?id=ccyj
+民视影剧,http://t.061899.xyz/tl/js/js.php?id=msyj
+龙华经典,http://t.061899.xyz/tl/js/js.php?id=lhjd
+中视经典,http://t.061899.xyz/tl/js/js.php?id=zsjd
+台湾戏剧台,http://t.061899.xyz/tl/js/js.php?id=twxjt
+靖洋戏剧台,http://t.061899.xyz/tl/js/js.php?id=jyxjt
+靖天戏剧台,http://t.061899.xyz/tl/js/js.php?id=jtxjt
+公视戏剧,http://t.061899.xyz/tl/js/js.php?id=gsxj
+龙华戏剧,http://t.061899.xyz/tl/js/js.php?id=lhxj
+智林体育台,http://t.061899.xyz/tl/js/js.php?id=zltyt
+时尚运动X,http://t.061899.xyz/tl/js/js.php?id=xssyd
+靖天育乐台,http://t.061899.xyz/tl/js/js.php?id=jtylt
+博斯魅力,http://t.061899.xyz/tl/js/js.php?id=bsml
+博斯高球1,http://t.061899.xyz/tl/js/js.php?id=1bsgq
+博斯高球2,http://t.061899.xyz/tl/js/js.php?id=2bsgq
+博斯运动1,http://t.061899.xyz/tl/js/js.php?id=1bsyd
+博斯运动2,http://t.061899.xyz/tl/js/js.php?id=2bsyd
+博斯网球,http://t.061899.xyz/tl/js/js.php?id=bswq
+博斯无限,http://t.061899.xyz/tl/js/js.php?id=bswx
+博斯无限2,http://t.061899.xyz/tl/js/js.php?id=2bswx
+TRACE SPORTS STARS,http://t.061899.xyz/tl/js/js.php?id=tracesportsstars
+視納華仁紀實頻道,http://t.061899.xyz/tl/js/js.php?id=snhrjspd
+中视菁采,http://t.061899.xyz/tl/js/js.php?id=zsjc
+八大综艺台,http://t.061899.xyz/tl/js/js.php?id=bdzyt
+TVBS欢乐台,http://t.061899.xyz/tl/js/js.php?id=tvbshlt
+靖天欢乐台,http://t.061899.xyz/tl/js/js.php?id=jthlt
+靖天综合台,http://t.061899.xyz/tl/js/js.php?id=jtzht
+靖天资讯台,http://t.061899.xyz/tl/js/js.php?id=jtzxt
+靖天卡通台,http://t.061899.xyz/tl/js/js.php?id=jtktt
+靖天日本台,http://t.061899.xyz/tl/js/js.php?id=jtrbt
+靖洋卡通台,http://t.061899.xyz/tl/js/js.php?id=jyktt
+靖天国际台,http://t.061899.xyz/tl/js/js.php?id=jtgjt
+靖天映画,http://t.061899.xyz/tl/js/js.php?id=jtyh
+爱尔达娱乐,http://t.061899.xyz/tl/js/js.php?id=aedyl
+龙华卡通,http://t.061899.xyz/tl/js/js.php?id=lhkt
+龙华日韩,http://t.061899.xyz/tl/js/js.php?id=lhrh
+龙华偶像,http://t.061899.xyz/tl/js/js.php?id=lhox
+民视综艺,http://t.061899.xyz/tl/js/js.php?id=mszy
+民视第一台,http://t.061899.xyz/tl/js/js.php?id=msdyt
+民视旅游,http://t.061899.xyz/tl/js/js.php?id=msly
+亚洲旅游台,http://t.061899.xyz/tl/js/js.php?id=yzlyt
+客家电视台,http://t.061899.xyz/tl/js/js.php?id=kjdst
+爱放动漫,http://t.061899.xyz/tl/js/js.php?id=afdm
+古典音乐台,http://t.061899.xyz/tl/js/js.php?id=gdyyt
+猪哥亮歌厅秀,http://t.061899.xyz/tl/js/js.php?id=zglgtx
+Smart知识台,http://t.061899.xyz/tl/js/js.php?id=smartzst
+达文西频道,http://t.061899.xyz/tl/js/js.php?id=dwxpd
+阿里郎,http://t.061899.xyz/tl/js/js.php?id=all
+生活英语台,http://t.061899.xyz/tl/js/js.php?id=shyyt
+国际财经,http://t.061899.xyz/tl/js/js.php?id=gjcj
+美国之音,http://t.061899.xyz/tl/js/js.php?id=mgzy
+好消息,http://t.061899.xyz/tl/js/js.php?id=hxx
+好消息2台,http://t.061899.xyz/tl/js/js.php?id=2hxxt
+非凡商业,http://t.061899.xyz/tl/js/js.php?id=ffsy
+国会频道1,http://t.061899.xyz/tl/js/js.php?id=1ghpd
+国会频道2,http://t.061899.xyz/tl/js/js.php?id=2ghpd
+TRACE URBAN,http://t.061899.xyz/tl/js/js.php?id=traceurban
+MEZZO LIVE,http://t.061899.xyz/tl/js/js.php?id=mezzolive
+韩国娱乐台,http://t.061899.xyz/tl/js/js.php?id=hgylt
+GinxTV,http://t.061899.xyz/tl/js/js.php?id=ginxtv
+八大精彩台,http://t.061899.xyz/tl/js/js.php?id=bdjct
+TVBS精采台,http://t.061899.xyz/tl/js/js.php?id=tvbsjct
+港台频道2,#genre#
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklistw70581102.m3u8
+民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-17.m3u8
+民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-20.m3u8
+民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-3.m3u8
+民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-5.m3u8
+有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+49号频道,http://61.221.215.25:8800/hls/49/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+D-box,http://61.221.215.25:8800/hls/54/index.m3u8
+CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+香港有線新聞台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+香港有線財經資訊,http://61.10.2.141/live_freedirect/freehd208_h.live/playlist.m3u8
+台视,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+东森新闻美洲台,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+八大第1台http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+TVBS亚洲台,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+超视34.5,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
+ETRV美国,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
+東森美洲,http://38.64.72.148:80/hls/modn/list/20158
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-17.ctv
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
+有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+
+
+咪咕频道1,#genre# 
+
+CCTV1咪咕,http://go.bkpcp.top/mg/cctv1 
+CCTV2咪咕,http://go.bkpcp.top/mg/cctv2 
+CCTV3咪咕,http://go.bkpcp.top/mg/cctv3 
+CCTV4咪咕,http://go.bkpcp.top/mg/cctv4 
+CCTV5咪咕,http://go.bkpcp.top/mg/cctv5 
+CCTV-5+咪咕,http://go.bkpcp.top/mg/cctv5p 
+CCTV6咪咕,http://go.bkpcp.top/mg/cctv6 
+CCTV7咪咕,http://go.bkpcp.top/mg/cctv7 
+CCTV8咪咕,http://go.bkpcp.top/mg/cctv8 
+CCTV9咪咕,http://go.bkpcp.top/mg/cctv9 
+CCTV10咪咕,http://go.bkpcp.top/mg/cctv10 
+CCTV11咪咕,http://go.bkpcp.top/mg/cctv11 
+CCTV12咪咕,http://go.bkpcp.top/mg/cctv12 
+CCTV13咪咕,http://go.bkpcp.top/mg/cctv13 
+CCTV14咪咕,http://go.bkpcp.top/mg/cctv14 
+CCTV15咪咕,http://go.bkpcp.top/mg/cctv15 
+CCTV16咪咕,http://go.bkpcp.top/mg/cctv16 
+CCTV17咪咕,http://go.bkpcp.top/mg/cctv17 
+cct4欧洲咪咕,http://go.bkpcp.top/mg/cctv4o 
+美洲咪咕,http://go.bkpcp.top/mg/cctv4m 
+CGTN-西咪咕,http://go.bkpcp.top/mg/cgtne 
+CGTN-阿咪咕,http://go.bkpcp.top/mg/cgtna 
+CGTN-法咪咕,http://go.bkpcp.top/mg/cgtnf 
+北京卫视咪咕,http://go.bkpcp.top/mg/bjws 
+东方卫视咪咕,http://go.bkpcp.top/mg/dfws 
+浙江卫视咪咕,http://go.bkpcp.top/mg/zjws 
+江苏卫视咪咕,http://go.bkpcp.top/mg/jsws 
+湖南卫视咪咕,http://go.bkpcp.top/mg/hunws 
+广东卫视咪咕,http://go.bkpcp.top/mg/gdws 
+深圳卫视咪4k,http://go.bkpcp.top/mg/szws 
+山东卫视咪咕,http://go.bkpcp.top/mg/sdws 
+河南卫视咪咕,http://go.bkpcp.top/mg/hnws 
+江西卫视咪咕,http://go.bkpcp.top/mg/jxws 
+湖北卫视咪咕,http://go.bkpcp.top/mg/hubws 
+海南卫视咪咕,http://go.bkpcp.top/mg/hinws
+陕西卫视咪咕,http://go.bkpcp.top/mg/sxws 
+兵团卫视咪咕,http://go.bkpcp.top/mg/btws 
+黑龙江视咪咕,http://go.bkpcp.top/mg/hljws
+兵团卫视高清,http://go.bkpcp.top/mg/btws 
+西藏卫视高清,http://k.061899.xyz/m.php?id=xzws
+内蒙古视高清,http://t.061899.xyz/tl/tl.php?id=nmgws
+新疆卫视高清,http://t.061899.xyz/tl/tl.php?id=xjws

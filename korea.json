@@ -6353,16 +6353,7 @@
       "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8"
     ]
   },
-{
-		"group": "한국-종합편성",
-		"logo": "https://pjytv.760515.xyz/logo/중화TV.png",
-		"name": "중화TV1",
-		"title": "중화TV",
-		"uris": ["https://sogne-live.tving.com/zhtv/live.smil/chunklist_b2128000.m3u8?sgn.pf=chrome%20headless_2.18.12_hlsjs&sgn.osn=linux&sgn.osv=aarch64&sgn.brn=Chrome%20Headless&sgn.brv=120.0.6099.28&sgn.pln=Hls.js&sgn.plv=2.18.12&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzc2MzU4NzgsInN1YiI6Ii96aHR2LyoiLCJ2eHIiOjYwMCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiT3JhY2xlIENsb3VkIiwibWRsIjoibGludXhfY2hyb21lIGhlYWRsZXNzXzEyMC4wLjYwOTkuMjgifQ.cnx-cloHY9MFXrzEXhA4g-n5ADjifHiQtqyjNE426VI&ads.age=0&ads.asn=31898&ads.channel_code=C00544&ads.floor_price=7900&ads.gender=2&ads.grade_code=CPTG0400&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=272799212&ads.program_code=P000360537&ads.targeting=1&ads.tier_group=non_tier"],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
+
 {
 		"group": "中国-港台",
 		"logo": "https://pjytv.760515.xyz/logo/凤凰中文.png",

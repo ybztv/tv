@@ -6353,6 +6353,152 @@
       "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8"
     ]
   },
+{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/중화TV.png",
+		"name": "중화TV1",
+		"title": "중화TV",
+		"uris": ["https://sogne-live.tving.com/zhtv/live.smil/chunklist_b2128000.m3u8?sgn.pf=chrome%20headless_2.18.12_hlsjs&sgn.osn=linux&sgn.osv=aarch64&sgn.brn=Chrome%20Headless&sgn.brv=120.0.6099.28&sgn.pln=Hls.js&sgn.plv=2.18.12&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzc2MzU4NzgsInN1YiI6Ii96aHR2LyoiLCJ2eHIiOjYwMCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiT3JhY2xlIENsb3VkIiwibWRsIjoibGludXhfY2hyb21lIGhlYWRsZXNzXzEyMC4wLjYwOTkuMjgifQ.cnx-cloHY9MFXrzEXhA4g-n5ADjifHiQtqyjNE426VI&ads.age=0&ads.asn=31898&ads.channel_code=C00544&ads.floor_price=7900&ads.gender=2&ads.grade_code=CPTG0400&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=272799212&ads.program_code=P000360537&ads.targeting=1&ads.tier_group=non_tier"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+{
+		"group": "中国-港台",
+		"logo": "https://pjytv.760515.xyz/logo/凤凰中文.png",
+		"name": "凤凰中文",
+		"title": "凤凰中文",
+		"uris": ["http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "TVB无线新闻",
+		"title": "TVB无线新闻",
+		"uris": ["http://74.91.26.218:82/live/inews.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "TVB翡翠",
+		"title": "TVB翡翠",
+		"uris": ["https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "TVB明珠",
+		"title": "TVB明珠",
+		"uris": ["http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG6N_9Sxh8KQOfU_hyixKd9p3RIjy9Vegh_fQh33K2M2NZraQQ1HZdgnhMv-nAGJ-d4MbxOxzqnvZPnAic8L4i1ZYyIUsjL0Mb_JYCTfOEeYG4a4ZmNxH1PapVrrrSAMArc5rJg-WYPBvhMY1MKjlc6-X5SNSqoDF5Tup-0St4sKsbOeHdQlunrOCJHDiDSYN2nf8xW_Lta052t6RMBoKETw.m3u8?u=1757123819"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "TVBS亚洲",
+		"title": "TVBS亚洲",
+		"uris": ["http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "台视新闻",
+		"title": "台视新闻",
+		"uris": ["http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "中视新闻",
+		"title": "中视新闻",
+		"uris": ["http://74.91.26.218:82/live/ctvnews.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "华视",
+		"title": "华视",
+		"uris": ["http://74.91.26.218:82/live/cts.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "华视新闻",
+		"title": "华视新闻",
+		"uris": ["http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "民视",
+		"title": "民视",
+		"uris": ["http://74.91.26.218:82/live/ftv.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "民视第一",
+		"title": "民视第一",
+		"uris": ["http://74.91.26.218:82/live/ftvdy.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "民视新闻",
+		"title": "民视新闻",
+		"uris": ["http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "东森美洲",
+		"title": "东森美洲",
+		"uris": ["http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "东森美洲新闻",
+		"title": "东森美洲新闻",
+		"uris": ["http://38.64.72.148:80/hls/modn/list/2016/chunklist0.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "东森超视",
+		"title": "东森超视",
+		"uris": ["http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "东森美洲中国",
+		"title": "东森美洲中国",
+		"uris": ["http://38.64.72.148:80/hls/modn/list/2003/chunklist0.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "纬来体育",
+		"title": "纬来体育",
+		"uris": ["http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyovE6oGaC1PKnrjeaNxE0NJWRPjFClfaMW4SEVeYtCQbLhiB3WPPepMATAHfUOZlkgWW0vAwIwy5bOIXv7889x_3qi3OgGQuH6k8OeAX6HrFQ7vZhBVtcJo_VATmB9RIaebmQ4oLRHlUr70aUtC19_XJC64D_Vpx6ZcuklPt-WNukf0zYr47g_wBBsnqqxlE6w.m3u8?u=1756878715"]
+	},
+
+{
+		"group": "한국-지상파",
+		"logo": "https://pjytv.760515.xyz/logo/KBS1.png",
+		"name": "KBS1",
+		"title": "KBS11",
+		"uris": ["https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzgwNDcxNzh9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=l0mtGUydyF4qjqAKtoS3v4XT9hnWhja9CYqH73A4a2TMqUqlyNPGNEPmoOkcR7dqrV8Yq~glt1Ewg9lcfHFWFU3ZNA72qKGLXE2LmlXYf7-zjmGkftkikMsDj7ui8o4UOIEAewF5ueZIaic9cyrgPEZq~6n2i1MPb5aubgOuIAIC8Z0SSDazkhtLAH6w6iBKJ7CBDDmYWQwCl9rUsHRXRvrlOcIBXA7KRAi~B9bJ7BkxvNbMHq59AkFdLzBh3GlzIvJro1OtaWqRHGX-V2oy4vKDA~N1tuAtwH1qwxeYdYHsDgbTQwwQxyFfTfT54D5HPs1XeDrjOY3j-JJoGshsFQ__"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://pjytv.760515.xyz/logo/KBS2.png",
+		"name": "KBS2",
+		"title": "KBS22",
+		"uris": ["https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzgwNDcxMjB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Zort9gUEUyWhTLlK6GZQZ-5lg1-pODmXsZis4z0M57QNLSV1zVMRoFkq8fPha9biV1rnz7AlPl5kNiZihcAz-Nnc~qyWC6RXmJXJkd2U89u7OkaXa4qPDNg1cq45RPO-B~munO0-eyaX-mGF4uzonJYDKUz~dXn0732lDlM5TdZ40hh2CXr4qwUHvJBNqD9tlmf7Y0xC9hycqI0bJr8kgmczQcZiRZst1bLxbdxZ~QyB1c01T-8-2LywYZsc8F7bOyNcHw1T0MpXXDwbNSXD3pvSRoaWWnudQ08yYK7CYQkQEM~maH1RiH7lU7IRLTFW8YdFJk4G-BTcaGAHd~Dctg__"]
+	},
+
+	
   {
     "group": "中国电视",
     "logo": "",

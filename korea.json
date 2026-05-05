@@ -418,7 +418,7 @@
   {
     "group": "한국-생방송",
     "logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/중화TV.png",
-    "name": "중화TV",
+    "name": "중화1TV",
     "title": "중화TV",
     "uris": [
       "https://sogne-live.tving.com/zhtv/live.smil/chunklist_b2128000.m3u8?sgn.pf=chrome_2.18.12_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=146.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.12&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzc5Nzg0OTYsInN1YiI6Ii96aHR2LyoiLCJ2eHIiOjc1MCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiTEcgVXBsdXMiLCJtZGwiOiJ3aW5kb3dzX2Nocm9tZV8xNDYuMC4wLjAifQ.DuOAv2mEuuWEfnbvI_Nev7HZTb6vdt9gQhUR9PTwxhE&ads.asn=17858&ads.channel_code=C00544&ads.floor_price=7900&ads.grade_code=CPTG0400&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P000360537&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier"

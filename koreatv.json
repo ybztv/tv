@@ -1,0 +1,1292 @@
+[
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/YTN.png",
+		"name": "YTN",
+		"title": "YTN",
+		"uris": ["https://backup.760515.xyz/playlist/YTN-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/YTN2.png",
+		"name": "YTN2",
+		"title": "YTN2",
+		"uris": ["https://backup.760515.xyz/playlist/YTN2-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/YTN사이언스.png",
+		"name": "YTN사이언스",
+		"title": "YTN사이언스",
+		"uris": ["https://backup.760515.xyz/playlist/YTN%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/연합뉴스TV.png",
+		"name": "연합뉴스TV",
+		"title": "연합뉴스TV",
+		"uris": ["https://backup.760515.xyz/playlist/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4TV-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/JTBC.png",
+		"name": "JTBC",
+		"title": "JTBC",
+		"uris": ["https://backup.760515.xyz/playlist/JTBC-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/JTBC2.png",
+		"name": "JTBC2",
+		"title": "JTBC2",
+		"uris": ["https://backup.760515.xyz/playlist/JTBC2-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/JTBC4.png",
+		"name": "JTBC4",
+		"title": "JTBC4",
+		"uris": ["https://backup.760515.xyz/playlist/JTBC4-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/tvN.png",
+		"name": "tvN",
+		"title": "tvN",
+		"uris": ["https://backup.760515.xyz/playlist/tvN-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/tvN SHOW.png",
+		"name": "tvN SHOW",
+		"title": "tvN SHOW",
+		"uris": ["https://backup.760515.xyz/playlist/tvN%20SHOW-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/tvN DRAMA.png",
+		"name": "tvN DRAMA",
+		"title": "tvN DRAMA",
+		"uris": ["https://backup.760515.xyz/playlist/tvN%20DRAMA-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/tvN STORY.png",
+		"name": "tvN STORY",
+		"title": "tvN STORY",
+		"uris": ["https://backup.760515.xyz/playlist/tvN%20STORY-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/채널A.png",
+		"name": "채널A",
+		"title": "채널A",
+		"uris": ["https://backup.760515.xyz/playlist/%EC%B1%84%EB%84%90A-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/채널A플러스.png",
+		"name": "채널A플러스",
+		"title": "채널A플러스",
+		"uris": ["https://backup.760515.xyz/playlist/%EC%B1%84%EB%84%90A%ED%94%8C%EB%9F%AC%EC%8A%A4-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/TV CHOSUN.png",
+		"name": "TV CHOSUN",
+		"title": "TV CHOSUN",
+		"uris": ["https://backup.760515.xyz/playlist/TV%20CHOSUN-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/TV CHOSUN 2.png",
+		"name": "TV CHOSUN 2",
+		"title": "TV CHOSUN 2",
+		"uris": ["https://backup.760515.xyz/playlist/TV%20CHOSUN%202-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/Mnet.png",
+		"name": "Mnet",
+		"title": "Mnet",
+		"uris": ["https://backup.760515.xyz/playlist/Mnet-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/MBN.png",
+		"name": "MBN",
+		"title": "MBN",
+		"uris": ["https://backup.760515.xyz/playlist/MBN-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/MBN 플러스.png",
+		"name": "MBN 플러스",
+		"title": "MBN 플러스",
+		"uris": ["https://backup.760515.xyz/playlist/MBN%20%ED%94%8C%EB%9F%AC%EC%8A%A4-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/LIFETIME.png",
+		"name": "LIFETIME",
+		"title": "LIFETIME",
+		"uris": ["https://backup.760515.xyz/playlist/LIFETIME-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/중화TV.png",
+		"name": "중화TV",
+		"title": "중화TV",
+		"uris": ["https://backup.760515.xyz/playlist/%EC%A4%91%ED%99%94TV-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/히스토리.png",
+		"name": "히스토리",
+		"title": "히스토리",
+		"uris": ["https://backup.760515.xyz/playlist/%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/EBS1.png",
+		"name": "EBS1",
+		"title": "EBS1",
+		"uris": ["https://backup.760515.xyz/playlist/EBS1-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/국회방송(NATV).png",
+		"name": "국회방송(NATV)",
+		"title": "국회방송(NATV)",
+		"uris": ["https://backup.760515.xyz/playlist/%EA%B5%AD%ED%9A%8C%EB%B0%A9%EC%86%A1(NATV)-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/ANIBOX.png",
+		"name": "ANIBOX",
+		"title": "ANIBOX",
+		"uris": ["https://backup.760515.xyz/playlist/ANIBOX-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/애니맥스.png",
+		"name": "애니맥스",
+		"title": "애니맥스",
+		"uris": ["https://backup.760515.xyz/playlist/%EC%95%A0%EB%8B%88%EB%A7%A5%EC%8A%A4-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://pjytv.760515.xyz/logo/투니버스.png",
+		"name": "투니버스",
+		"title": "투니버스",
+		"uris": ["https://backup.760515.xyz/playlist/%ED%88%AC%EB%8B%88%EB%B2%84%EC%8A%A4-playlist.m3u8"],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/KBS1.png",
+		"name": "KBS1",
+		"title": "KBS1",
+		"uris": ["https://backup.760515.xyz/playlist/KBS1-playlist.m3u8"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/KBS2.png",
+		"name": "KBS2",
+		"title": "KBS2",
+		"uris": ["https://backup.760515.xyz/playlist/KBS2-playlist.m3u8"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/KBS드라마.png",
+		"name": "KBS드라마",
+		"title": "KBS드라마",
+		"uris": ["https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-01/kbsndrama-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MTk3NTU4fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=EwxRslBP08-M~ZGhTlc-JeiT1-rtbVBSUjm8ktYTcUnlSA~bTm~V5maX4B25ZabJn3iTKjsAO6SviUO7xvaBY7LlUh53yIWutWtU5M2-uK7yKNDqqrBEdPtOeAaKH1~AhamGR5pMLhFClz8ie8-hQq2BMQCQqCdywEv6l3XR8rfdLbtCsQOp~qrf7r2dzXv2a695M5JLJurOXNgAQ13QMPxMHp7uEtVKWARRTK9kNyUIRcRRIV6dsGPHyLPDe0Ui9L~Ur2hBKhSoP55UIuC4~jfnMsPBDiZlCBIpmykon9K76nL5q2Gt~8QJrInbnT~xzyxYp9uc7e-aU~HqpCjT8w__"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/KBS조이.png",
+		"name": "KBS조이",
+		"title": "KBS조이",
+		"uris": ["https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTUxOTc1OTN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=WWKhajq6HiAuOqcaug0gjIWtAZQmAP5HDaG79QzWrS8FMmt-vetqGY0vVVSm-t8ebvqsDHckKdmvFSea9dOgjWdkRf9AcTtK-JTLcqP2oW~XhjN16HMgLuRsOY~6DBVnmSE5cbif8zeoxXmpHeBrxipVUkiDybbLpI5NnenME2ltBEISZ8qYEli0Rte-8FyVAGFrAmSxkZFk88dLmVBJFhzDkLC-GcwT3nRvqhwKZzpOWytyoLhFHOSXvVtsmxY3t1jG3ynEii~R5hrtOWkTxXkuKy7Ia7xe-l0uWz9a5cE8XUHlJC47z6-9U-0CFLW2P7jMsywVD8fGpT~H8bLJXQ__"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/KBS키즈.png",
+		"name": "KBS키즈",
+		"title": "KBS키즈",
+		"uris": ["https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-01/kbsnkids-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTE5NzU2N319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=YdvyLF0B6anQms~HI8CR4bi~CJaY1uJOrnQG8Itt6q0LTaIlp5f6jd7k7cN~YtEpI7RVXgExp1qMCPhHJ8i92S3J4zMvuS8w72Le8LIZ~E5-g815Zq4eWD7h2UQXB9DzunpfXptnEhBbVYUTl3oshpUVEl2tMQ8hQTWyDjdC-1gO~0-FTtVJgbLPWop5JxuOieCS9IJH0gQSGRWVtd2lSiW6m3SMSZq7xuZQABX2ZZAQFc~E1uaSqPvvhbUykFe-obGl8mL-F20I4LooGC3cayRTux4qb3mK4NLI-B5RWvuZV0NcGE9sgwBafugXSZdvanEUzU0faSA5r~OXZXapEg__"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/KBS LIFE.png",
+		"name": "KBS LIFE",
+		"title": "KBS LIFE",
+		"uris": ["https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-01/kbsnlife-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTE5NzYwM319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=i4ZKqzX8sJ5zFyKzQrDCQQSpNB-D3drdE-EJ5hJ38ot2XwpqAolmSe-oeakpMkTp~W8PFBUA473HxJV4G9eML1Lm5luYoxwcYYO-qaSgtuByZmW4FRC0aTeiIW1swjYdcUD0le0Qx~m-oT1mQpOwthYMd2doOT5x90QT-LqjREItdY~ASmdFNw6z98MA-k-RRqv7MjRDahmvAhCT5YmTDOkPGgcVOsLrDakWmodGkFhbnkFbgmDSuquz0DEPjwCzJxwG9nKdZeZ5KUu5ote3LQdzPUTfWYtIz0tlmU6hKv9-Y2Jmlsqpq5AvnL43~Ed7Zay5T2pSgoqkmZ3N-xssLg__"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/KBS Story.png",
+		"name": "KBS Story",
+		"title": "KBS Story",
+		"uris": ["https://kbsnw.gscdn.kbs.co.kr/kbsnw-01/kbsnw-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTE5NzU4M319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=C4JiUt1PwM7FeFwRDle1P8Y1k2RlNXrieKRpULD1Uz5EXuQZFpSCbsCBicuG9PcmnaEgs-rKv-jTXAXlBpwDAtBK9e1W394FKcVQcrq-KZA9cIihvTTq9QuS183E9BeApj9cX48067pwa8DkNd-3L61pr9v4t4i1a3kso70xrlpNe4s8GU02WX27rc7EXCl0ZBbmo6VLmL8gprvTBrQ17CD5QcdYnxt-evbszswC8CUZR3apafPlmUZ-GqED1tGmvJvwymsC7EyETLhFUpO8-By1WqcdJW-Qw0Rqxl80oWXkCpszzhYH8sUqPt0~C9r5uyzJ5HKJXEQ4GrBv1BFxhg__"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/KBS WORLD.png",
+		"name": "KBS WORLD",
+		"title": "KBS WORLD",
+		"uris": ["https://world.gscdn.kbs.co.kr/world-01/world-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTE5NzU2Mn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=J-7rtSFDmMQgSnDmsZGOO2fhd7Hjh0ZCa~H3aMV1c3cnLqOAHfEasigXIdyVAvO31Xffz7~6xzr0ycl9-69cGq19eO9FCE7zJKqk5W6rNkWHR8ZXb4ich6qUfr9zzoDistEUFxuTrFmZxofr6e36WmGEep8S4R9hkCmY-SxUyFgX1YECL-hETmbZNaAfFe~b7G1Je-woNDQhrp9NaeL5oJfe8T49ypIrg9gTHzBxhMk576s70njMTE1M4wZb~ysn0vEoP9IfJJh-~7zAo0zWfwyGTK8dznZwuHCLsyXgpnpDlLy6IuSOfnC35yBkgdfpW3fvn3-fr8LXMjhlDxm7kw__"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/KBS뉴스.png",
+		"name": "KBS뉴스",
+		"title": "KBS뉴스",
+		"uris": ["https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MTk3NTgzfX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=l~xdL7umUBl7639jlbQv91aWWloq9qnE7yYpw0DcssjqeQD82-K5MUXKzGWiD~rKAz8cE99voj6~QFV-VakoxTAzom06pDhMWIrg-N-XAD9xkF1lA3OLUgIcG4ENEdly8I~JLcWpuAsxiJWO69lufEIvZzPd1JOh94BJin8dDXHkTmYMiv0kjbKUZRgYTOu7gaeOn4kDkQZ5XDnL~yAEngTyFaIF9Oyx3NFK0V6zVK5ZKFs3ZyRrk4FVEGKA~8YPE-R-cBTT6rq-ZgyZSwrL8in1BQ78odpXd5KaAfuqwUWcc57YtAzHOfjQVMGaLCegE3btiF-KZRTrFzDNFU-DGg__"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/SBS.png",
+		"name": "SBS",
+		"title": "SBS",
+		"uris": ["https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTUwNDY0MDIsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjJjMzM0NDMxLWNmOTMtNDI3Yi04YjMwLWM3NTg1M2FhODdmYSIsImlhdCI6MTc5NTAzOTIwMn0.rT6xIoJmrOvth4Gx44JUqvQvJM9VDrAOQ2CTg0VVCvs"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/SBS플러스.png",
+		"name": "SBS플러스",
+		"title": "SBS플러스",
+		"uris": ["https://tvlive.sbs.co.kr/sbspluspc/sbsplus1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTUwNDY0MDUsInBhdGgiOiIvc2JzcGx1czEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIwYTU1OTdlMi04Nzc5LTQ5MmUtYWQ4NC02OGJhN2FlOWVlOGYiLCJpYXQiOjE3OTUwMzkyMDV9.B-vufWfAF1Wwk6kl_EtLtWc1XWOODP51gyDfglWGTqI"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/SBS퍼니.png",
+		"name": "SBS퍼니",
+		"title": "SBS퍼니",
+		"uris": ["https://tvlive.sbs.co.kr/sbsetvpc/sbsetv1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTUwNDY0MTIsInBhdGgiOiIvc2JzZXR2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjIyZGJhODhlLWZhNDYtNDZhMy1iOGRiLTY1MjFjYTQ5YjBiMyIsImlhdCI6MTc5NTAzOTIxMn0.g0bL_-9H-Q33p8i44zPf0SXmpAYHGyv51sVXwS64dME"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/SBS LIFE.png",
+		"name": "SBS LIFE",
+		"title": "SBS LIFE",
+		"uris": ["https://tvlive.sbs.co.kr/sbsfil/sbsfil1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTUwNDY0MTUsInBhdGgiOiIvc2JzZmlsMS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImRjMDY4YjA0LWVkMTktNDEwMi1iZmE3LWRhMmViZjkyZjAzYSIsImlhdCI6MTc5NTAzOTIxNX0.B4izfMqN6bs9TR0zzZDKCszsQRaBOcfRu8_Au2XqA50"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/SBS KPOP.png",
+		"name": "SBS KPOP",
+		"title": "SBS KPOP",
+		"uris": ["https://tvlive.sbs.co.kr/sbskpop/sbskpop1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTA3NTUyNzcsInBhdGgiOiIvc2Jza3BvcDEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI2YWNiOTJkNC05OGE0LTQ3NmUtODZlMC0wM2QzOTEwYjMwMmYiLCJpYXQiOjE3OTA3NDgwNzd9.8VWWfCCv2KNbqSzOX2r7gSnQAH7VeDeHijaL2lysBKk"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/SBS골프.png",
+		"name": "SBS골프",
+		"title": "SBS골프",
+		"uris": ["https://tvlive.sbs.co.kr/sbsgolf/sbsgolf1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTUwNDY0MjIsInBhdGgiOiIvc2JzZ29sZjEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI4YWM2MmY0OS0zNjExLTRkZDAtYjUzOS1hOGNhMGY0MjcyNjciLCJpYXQiOjE3OTUwMzkyMjJ9.KoNJgGuKnbxc-lwz4Ejfu2_mqQzK-3HKRSJpqJeQST0"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/SBS Golf2.png",
+		"name": "SBS Golf2",
+		"title": "SBS Golf2",
+		"uris": ["https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf21.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTUwNDY0MjUsInBhdGgiOiIvc2JzZ29sZjIxLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiNTkzYmMyYjItYmQyYS00ZTMxLWI0NGUtMWZiYjAxNDMzZTk3IiwiaWF0IjoxNzk1MDM5MjI1fQ.PqTQpHm86KWvKFFp6ObgMgfBVcfbXgd6gSrUy6UJlyk"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/SBS스포츠.png",
+		"name": "SBS스포츠",
+		"title": "SBS스포츠",
+		"uris": ["https://tvlive.sbs.co.kr/sbsespn/sbsespn1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTUwMzkyMTgsInBhdGgiOiIvc2JzZXNwbjEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI3OGNkNzA0MC1jODU4LTQ1ZTktYjAyZi01ZDliMDgzMjM5OTkiLCJpYXQiOjE3OTUwMzIwMTh9.hvNW94Kk82IkXsTkLXNV8CmNkaw6Y-kz8TZ2MYvwMFw"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/SBS Biz.png",
+		"name": "SBS Biz",
+		"title": "SBS Biz",
+		"uris": ["https://tvlive.sbs.co.kr/sbscnbc/sbscnbc1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTUwNDY0MDksInBhdGgiOiIvc2JzY25iYzEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI3ZmQwOGRjNS1lMDk1LTQxZWMtOGI1NS0wNGZjMzRmMGZiNmYiLCJpYXQiOjE3OTUwMzkyMDl9.bAJynyLLSonM5MM-CSNCEi8WNO3FuZP_RK7_P0VoE3c"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/MBC.png",
+		"name": "MBC",
+		"title": "MBC",
+		"uris": ["https://backup.760515.xyz/playlist/MBC-playlist.m3u8"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/MBC드라마넷.png",
+		"name": "MBC드라마넷",
+		"title": "MBC드라마넷",
+		"uris": ["https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=6791F119A3483CA4754365AC31312244A5633A85B403E2993C1057aB56713D168BaA734133C28144A07033E17Ab081B0C9736634490F12C382E7A1D7CDA8D92E752E6B860467FFD75372DCC445ACE7AD34D9229B23B8BE1094606C10496847A30B13E4698987338B15C470E497B3985E8E31ED56C2900E6C36B1B71A4646C342&v=3"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/MBC에브리원.png",
+		"name": "MBC에브리원",
+		"title": "MBC에브리원",
+		"uris": ["https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=6A718B1EA3803204F94A55C73581C741F57437E5AD0D12BE3950E0aA069F36966CaA43373CD24646206932F1D8b0411466F7771B53A7AFF4C2BD4BAA1FD306284B5EBBA05A64FFEF44C9FFE2691A0294AE61BAA32EE03D6BA7B713FCE0414C54967309B6F7C462B8121F0991B89E24D7DCB44E6C9B93841F8CE175796A2464F8&v=3"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/MBC M.png",
+		"name": "MBC M",
+		"title": "MBC M",
+		"uris": ["https://mbcmottsd.imbc.com/plus_mbcm_sd/_definst_/mbcm_sd.stream/chunklist.m3u8?_lsu_sa_=6441CF1B33B33F94774C35FE37F19D4A55863EA5530402F932B0A8a006033DF6ABaF23A334E2304630633531C3b761819BBBF16676ED915805015496579CBC49334FBF4DD0CC86A5548D3D7E2551EE5525D24185ACD8B2DE2272B72798AA3A8B9796B5BB8B5198712697387115DB1A9E&v=3"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/MBC ON.png",
+		"name": "MBC ON",
+		"title": "MBC ON",
+		"uris": ["https://mbconottsd.imbc.com/plus_mbcon_sd/_definst_/mbcon_sd.stream/chunklist.m3u8?_lsu_sa_=6231C118534838543C4CD5A73DB1F14DD5E03AC59905422E32F020aC569F382631aD63A03BA2DF4530DE34C13Eb5C199AAE51FA099F04E552F6A8831E7B97CFA30D7624BEBAD5C9FE3082E8AD0C6468BDFCB2C4086C5128A12C1423A3DD197E1CC77993A06B43AB41E30B80C5F9721E7FF4E3ABCBD5FE767BFB1BA1D11B1F713&v=3"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "https://backup.760515.xyz/logo/MBCNET.png",
+		"name": "MBCNET",
+		"title": "MBCNET",
+		"uris": ["https://m-mbcnetlive.imbc.com/mbcnet_onair/_definst_/mbcnet_500k.stream/chunklist.m3u8?_lsu_sa_=6EB1D81A433F3844324D153936D1014D153F34B5850F92AA379024aD66C53EC615a8232F3C32BC4700293C41C1b981A0F1A0B09FBD2DA6CA0C3F2B55DFF614FE2521C40D326DC7536A61E922DE102D15F865A7A4A1661D9DA0CBB4FB89A003DE69E29524BBAA9890DA3A572358CDBEF750273C9DBE09F4A5E7B4A71886681959&v=3"]
+	},
+	{
+		"group": "한국-기타",
+		"logo": "",
+		"name": "아리랑TV",
+		"title": "아리랑TV",
+		"uris": ["https://epg.pw/stream/f71b00bffdc25476502479870351e7f801879a9b7bbce6bc77332b7f8b0dbd7a.m3u8"]
+	},
+	{
+		"group": "한국-기타",
+		"logo": "",
+		"name": "TBSTV",
+		"title": "TBSTV",
+		"uris": ["https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8"]
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://backup.760515.xyz/logo/ABN.png",
+		"name": "ABN",
+		"title": "ABN",
+		"uris": ["https://vod2.abn.co.kr/IPHONE/abn.m3u8"]
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://backup.760515.xyz/logo/농협TV.png",
+		"name": "농협TV",
+		"title": "농협TV",
+		"uris": ["http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8"]
+	},
+	{
+		"group": "한국-기타",
+		"logo": "",
+		"name": "복지TV",
+		"title": "복지TV",
+		"uris": ["https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8"]
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://backup.760515.xyz/logo/국민방송.png",
+		"name": "국민방송",
+		"title": "국민방송",
+		"uris": ["https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8"]
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://backup.760515.xyz/logo/문화유산채널.png",
+		"name": "문화유산채널",
+		"title": "문화유산채널",
+		"uris": ["https://stream.ads.ottera.tv/playlist.m3u8?network_id=14"]
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://backup.760515.xyz/logo/방송대학TV.png",
+		"name": "방송대학TV",
+		"title": "방송대학TV",
+		"uris": ["https://live.knou.ac.kr/knou1/live1/playlist.m3u8"]
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://backup.760515.xyz/logo/EBS1.png",
+		"name": "EBS1",
+		"title": "EBS1",
+		"uris": ["https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8"]
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://backup.760515.xyz/logo/EBS2.png",
+		"name": "EBS2",
+		"title": "EBS2",
+		"uris": ["https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8"]
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://backup.760515.xyz/logo/EBS+1.png",
+		"name": "EBS+1",
+		"title": "EBS+1",
+		"uris": ["https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8"]
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://backup.760515.xyz/logo/EBS+2.png",
+		"name": "EBS+2",
+		"title": "EBS+2",
+		"uris": ["https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8"]
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://backup.760515.xyz/logo/EBS English.png",
+		"name": "EBS English",
+		"title": "EBS English",
+		"uris": ["https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"]
+	},
+	{
+		"group": "한국-영화",
+		"logo": "",
+		"name": "한국영화1",
+		"title": "한국영화1",
+		"uris": ["https://stream.ads.ottera.tv/playlist.m3u8?network_id=595"]
+	},
+	{
+		"group": "한국-영화",
+		"logo": "",
+		"name": "한국영화2",
+		"title": "한국영화2",
+		"uris": ["https://stream.ads.ottera.tv/playlist.m3u8?network_id=743"]
+	},
+	{
+		"group": "한국-영화",
+		"logo": "",
+		"name": "한국영화3",
+		"title": "한국영화3",
+		"uris": ["https://stream.ads.ottera.tv/playlist.m3u8?network_id=742"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://backup.760515.xyz/logo/CCTV-1 综合.png",
+		"name": "CCTV1",
+		"title": "CCTV-1 综合",
+		"uris": ["http://74.91.26.218:82/live/cctv1hd.m3u8"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://backup.760515.xyz/logo/CCTV-2 财经.png",
+		"name": "CCTV2",
+		"title": "CCTV-2 财经",
+		"uris": ["http://175.24.134.198:1234/631780532"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://backup.760515.xyz/logo/CCTV-3 综艺.png",
+		"name": "CCTV3",
+		"title": "CCTV-3 综艺",
+		"uris": ["http://116.237.170.51:7788/624878271"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://backup.760515.xyz/logo/CCTV-4 中文国际.png",
+		"name": "CCTV4",
+		"title": "CCTV-4 中文国际",
+		"uris": ["http://116.237.170.51:7788/608807416"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://backup.760515.xyz/logo/CCTV-5 体育.png",
+		"name": "CCTV5",
+		"title": "CCTV-5 体育",
+		"uris": ["http://173.208.234.146/live/cctv5.m3u8"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://backup.760515.xyz/logo/CCTV-5+ 体育赛事.png",
+		"name": "CCTV5+",
+		"title": "CCTV-5+ 体育赛事",
+		"uris": ["http://113.124.186.195:7788/641886773"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://backup.760515.xyz/logo/CCTV-6 电影.png",
+		"name": "CCTV6",
+		"title": "CCTV-6 电影",
+		"uris": ["http://173.208.234.146/live/cctv6.m3u8"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://backup.760515.xyz/logo/CCTV-7 国防军事.png",
+		"name": "CCTV7",
+		"title": "CCTV-7 国防军事",
+		"uris": ["http://116.237.170.51:7788/673168121"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://backup.760515.xyz/logo/CCTV-8 电视剧.png",
+		"name": "CCTV8",
+		"title": "CCTV-8 电视剧",
+		"uris": ["http://116.237.170.51:7788/624878356"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://backup.760515.xyz/logo/CCTV-9 纪录.png",
+		"name": "CCTV9",
+		"title": "CCTV-9 纪录",
+		"uris": ["http://192.151.150.154/live/cctv9hd.m3u8"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://backup.760515.xyz/logo/CCTV-10 科教.png",
+		"name": "CCTV10",
+		"title": "CCTV-10 科教",
+		"uris": ["http://116.237.170.51:7788/624878405"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://backup.760515.xyz/logo/CCTV-11 戏曲.png",
+		"name": "CCTV11",
+		"title": "CCTV-11 戏曲",
+		"uris": ["http://116.237.170.51:7788/667987558"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://backup.760515.xyz/logo/CCTV-12 社会与法.png",
+		"name": "CCTV12",
+		"title": "CCTV-12 社会与法",
+		"uris": ["http://107.150.60.122/live/cctv12hd.m3u8"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://backup.760515.xyz/logo/CCTV-13 新闻.png",
+		"name": "CCTV13",
+		"title": "CCTV-13 新闻",
+		"uris": ["http://113.124.186.195:7788/608807423"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://backup.760515.xyz/logo/CCTV-14 少儿.png",
+		"name": "CCTV14",
+		"title": "CCTV-14 少儿",
+		"uris": ["http://175.24.134.198:1234/624878440"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://backup.760515.xyz/logo/CCTV-15 音乐.png",
+		"name": "CCTV15",
+		"title": "CCTV-15 音乐",
+		"uris": ["http://198.204.228.26/live/cctv15hd.m3u8"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://backup.760515.xyz/logo/CCTV-16 奥林匹克.png",
+		"name": "CCTV16",
+		"title": "CCTV-16 奥林匹克",
+		"uris": ["http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://backup.760515.xyz/logo/CCTV-17 农业农村.png",
+		"name": "CCTV17",
+		"title": "CCTV-17 农业农村",
+		"uris": ["http://113.124.186.195:7788/673168256"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "",
+		"name": "CCTV4K",
+		"title": "CCTV4K",
+		"uris": ["http://107.150.52.50:82/live/cctv4k.m3u8"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "",
+		"name": "CCTV8K",
+		"title": "CCTV8K",
+		"uris": ["http://107.150.60.122/live/cctv8k.m3u8"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "",
+		"name": "CCTV风云足球",
+		"title": "CCTV风云足球",
+		"uris": ["http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "",
+		"name": "CCTV高尔夫网球",
+		"title": "CCTV高尔夫网球",
+		"uris": ["http://47.97.252.137:8088/daili/gefwq.m3u8?line=0"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "",
+		"name": "CCTV央视台球",
+		"title": "CCTV央视台球",
+		"uris": ["http://192.151.150.154/live/ystq.m3u8"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "",
+		"name": "CCTV风云剧场",
+		"title": "CCTV风云剧场",
+		"uris": ["http://47.97.252.137:8088/daili/fyjc.m3u8?line=0"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "",
+		"name": "CCTV第一剧场",
+		"title": "CCTV第一剧场",
+		"uris": ["http://47.97.252.137:8088/daili/dyjc.m3u8?line=0"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "",
+		"name": "CCTV怀旧剧场",
+		"title": "CCTV怀旧剧场",
+		"uris": ["http://47.97.252.137:8088/daili/hjjc.m3u8?line=0"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "",
+		"name": "CCTV世界地理",
+		"title": "CCTV世界地理",
+		"uris": ["http://47.97.252.137:8088/daili/sjdl.m3u8?line=0"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "",
+		"name": "CCTV女性时尚",
+		"title": "CCTV女性时尚",
+		"uris": ["http://47.97.252.137:8088/daili/nxss.m3u8?line=0"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "",
+		"name": "CCTV风云音乐",
+		"title": "CCTV风云音乐",
+		"uris": ["http://47.97.252.137:8088/daili/fyyy.m3u8?line=0"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "",
+		"name": "CCTV卫生健康",
+		"title": "CCTV卫生健康",
+		"uris": ["http://47.97.252.137:8088/daili/wsjk.m3u8?line=0"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "",
+		"name": "CCTV兵器科技",
+		"title": "CCTV兵器科技",
+		"uris": ["http://107.150.60.122/live/gfjs.m3u8"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "",
+		"name": "CCTV文化精品",
+		"title": "CCTV文化精品",
+		"uris": ["http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "",
+		"name": "CCTV电视指南",
+		"title": "CCTV电视指南",
+		"uris": ["http://47.97.252.137:8088/daili/dszn.m3u8?line=0"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "",
+		"name": "CGTN",
+		"title": "CGTN",
+		"uris": ["http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "",
+		"name": "CGTN纪录",
+		"title": "CGTN纪录",
+		"uris": ["https://0472.org/hls/cgtn.m3u8"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "",
+		"name": "CGTN法语",
+		"title": "CGTN法语",
+		"uris": ["http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8"]
+	},
+	{
+		"group": "中国-央视",
+		"logo": "",
+		"name": "CGTN俄语",
+		"title": "CGTN俄语",
+		"uris": ["http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/延边1台(朝鲜语综合).png",
+		"name": "延边卫视",
+		"title": "延边1台(朝鲜语综合)",
+		"uris": ["https://srs.iyb983.cn/video/ybtv1/index.m3u8"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/延边2台(汉语综合).png",
+		"name": "延边2台",
+		"title": "延边2台(汉语综合)",
+		"uris": ["https://srs.iyb983.cn/video/ybtv2/index.m3u8"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/延边卫视.png",
+		"name": "延边1台",
+		"title": "延边卫视",
+		"uris": ["https://srs.iyb983.cn/video/CYS/index.m3u8"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/北京卫视.png",
+		"name": "北京卫视",
+		"title": "北京卫视",
+		"uris": ["http://192.151.150.154/live/bjwshd.m3u8"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "",
+		"name": "北京体育",
+		"title": "北京体育",
+		"uris": ["http://114.242.62.109:888/hls/22/index.m3u8"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/湖南卫视.png",
+		"name": "湖南卫视",
+		"title": "湖南卫视",
+		"uris": ["http://74.91.26.218:82/live/hnwshd.m3u8"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/浙江卫视.png",
+		"name": "浙江卫视",
+		"title": "浙江卫视",
+		"uris": ["http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/东方卫视.png",
+		"name": "东方卫视",
+		"title": "东方卫视",
+		"uris": ["http://116.237.170.51:7788/651632648"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/江苏卫视.png",
+		"name": "江苏卫视",
+		"title": "江苏卫视",
+		"uris": ["http://113.124.186.195:7788/623899368"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/天津卫视.png",
+		"name": "天津卫视",
+		"title": "天津卫视",
+		"uris": ["http://sagrad.org:8181/3m1080p/tjws.m3u8"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/深圳卫视.png",
+		"name": "深圳卫视",
+		"title": "深圳卫视",
+		"uris": ["http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/重庆卫视.png",
+		"name": "重庆卫视",
+		"title": "重庆卫视",
+		"uris": ["http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/黑龙江卫视.png",
+		"name": "黑龙江卫视",
+		"title": "黑龙江卫视",
+		"uris": ["http://175.24.134.198:1234/738906901"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/辽宁卫视.png",
+		"name": "辽宁卫视",
+		"title": "辽宁卫视",
+		"uris": ["http://175.24.134.198:1234/630291707"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/山东卫视.png",
+		"name": "山东卫视",
+		"title": "山东卫视",
+		"uris": ["http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/安徽卫视.png",
+		"name": "安徽卫视",
+		"title": "安徽卫视",
+		"uris": ["http://sagrad.org:8181/3m1080p/ahws.m3u8"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/广东卫视.png",
+		"name": "广东卫视",
+		"title": "广东卫视",
+		"uris": ["http://175.24.134.198:1234/608831231"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/广西卫视.png",
+		"name": "广西卫视",
+		"title": "广西卫视",
+		"uris": ["http://192.151.150.154/live/gxwshd.m3u8"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/四川卫视.png",
+		"name": "四川卫视",
+		"title": "四川卫视",
+		"uris": ["http://192.151.150.154/live/scwshd.m3u8"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/湖北卫视.png",
+		"name": "湖北卫视",
+		"title": "湖北卫视",
+		"uris": ["http://116.237.170.51:7788/947472496"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/江西卫视.png",
+		"name": "江西卫视",
+		"title": "江西卫视",
+		"uris": ["http://113.124.186.195:7788/783847495"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/河北卫视.png",
+		"name": "河北卫视",
+		"title": "河北卫视",
+		"uris": ["http://116.237.170.51:7788/962042070"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/河南卫视.png",
+		"name": "河南卫视",
+		"title": "河南卫视",
+		"uris": ["http://175.24.134.198:1234/790187291"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/海南卫视.png",
+		"name": "海南卫视",
+		"title": "海南卫视",
+		"uris": ["http://sagrad.org:8181/3m1080p/lyws.m3u8"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/东南卫视.png",
+		"name": "东南卫视",
+		"title": "东南卫视",
+		"uris": ["http://204.12.221.218:8181/3m1080p/dnws.m3u8"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/贵州卫视.png",
+		"name": "贵州卫视",
+		"title": "贵州卫视",
+		"uris": ["http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/吉林卫视.png",
+		"name": "吉林卫视",
+		"title": "吉林卫视",
+		"uris": ["http://113.98.11.46:3000/947472500"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/甘肃卫视.png",
+		"name": "甘肃卫视",
+		"title": "甘肃卫视",
+		"uris": ["http://192.151.150.154/live/gswshd.m3u8"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/山西卫视.png",
+		"name": "山西卫视",
+		"title": "山西卫视",
+		"uris": ["http://204.12.221.218:8181/3m1080p/sxws.m3u8"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/内蒙古卫视.png",
+		"name": "内蒙古卫视",
+		"title": "内蒙古卫视",
+		"uris": ["http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/陕西卫视.png",
+		"name": "陕西卫视",
+		"title": "陕西卫视",
+		"uris": ["http://175.24.134.198:1234/738910838"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/云南卫视.png",
+		"name": "云南卫视",
+		"title": "云南卫视",
+		"uris": ["http://153.0.171.163:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/宁夏卫视.png",
+		"name": "宁夏卫视",
+		"title": "宁夏卫视",
+		"uris": ["http://113.98.11.46:3000/738910535"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/青海卫视.png",
+		"name": "青海卫视",
+		"title": "青海卫视",
+		"uris": ["http://103.236.77.86:29824/947472506"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/新疆卫视.png",
+		"name": "新疆卫视",
+		"title": "新疆卫视",
+		"uris": ["http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd%3Bhttp://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/三沙卫视.png",
+		"name": "三沙卫视",
+		"title": "三沙卫视",
+		"uris": ["http://192.151.150.154/live/ssws.m3u8"]
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://backup.760515.xyz/logo/兵团卫视.png",
+		"name": "兵团卫视",
+		"title": "兵团卫视",
+		"uris": ["http://113.124.186.195:7788/956923145"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "https://backup.760515.xyz/logo/凤凰中文.png",
+		"name": "凤凰中文",
+		"title": "凤凰中文",
+		"uris": ["http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=fhzw"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "https://backup.760515.xyz/logo/凤凰资讯.png",
+		"name": "凤凰资讯",
+		"title": "凤凰资讯",
+		"uris": ["http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=fhzx"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "https://backup.760515.xyz/logo/凤凰香港.png",
+		"name": "凤凰香港",
+		"title": "凤凰香港",
+		"uris": ["http://173.208.234.146/live/fhxg.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "TVB无线新闻",
+		"title": "TVB无线新闻",
+		"uris": ["http://74.91.26.218:82/live/inews.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "TVB翡翠",
+		"title": "TVB翡翠",
+		"uris": ["http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "TVB明珠",
+		"title": "TVB明珠",
+		"uris": ["http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG6N_9Sxh8KQOfU_hyixKd9p3RIjy9Vegh_fQh33K2M2NZraQQ1HZdgnhMv-nAGJ-d4MbxOxzqnvZPnAic8L4i1ZYyIUsjL0Mb_JYCTfOEeYG4a4ZmNxH1PapVrrrSAMArc5rJg-WYPBvhMY1MKjlc6-X5SNSqoDF5Tup-0St4sKsbOeHdQlunrOCJHDiDSYN2nf8xW_Lta052t6RMBoKETw.m3u8?u=1757123819"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "TVBS亚洲",
+		"title": "TVBS亚洲",
+		"uris": ["http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "台视新闻",
+		"title": "台视新闻",
+		"uris": ["http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "中视新闻",
+		"title": "中视新闻",
+		"uris": ["http://38.64.72.148/hls/modn/list/4010/playlist.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "华视",
+		"title": "华视",
+		"uris": ["http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "华视新闻",
+		"title": "华视新闻",
+		"uris": ["https://ha.msbot.dpdns.org/4gtv_api.php?id=34"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "民视",
+		"title": "民视",
+		"uris": ["http://183.239.108.37:1698/hls/133/index.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "民视第一",
+		"title": "民视第一",
+		"uris": ["http://74.91.26.218:82/live/ftvdy.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "民视新闻",
+		"title": "民视新闻",
+		"uris": ["http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "东森美洲",
+		"title": "东森美洲",
+		"uris": ["http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "东森美洲新闻",
+		"title": "东森美洲新闻",
+		"uris": ["http://38.64.72.148:80/hls/modn/list/2016/chunklist0.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "东森超视",
+		"title": "东森超视",
+		"uris": ["http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "东森美洲中国",
+		"title": "东森美洲中国",
+		"uris": ["http://38.64.72.148:80/hls/modn/list/2003/chunklist0.m3u8"]
+	},
+	{
+		"group": "中国-港台",
+		"logo": "",
+		"name": "纬来体育",
+		"title": "纬来体育",
+		"uris": ["http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyovE6oGaC1PKnrjeaNxE0NJWRPjFClfaMW4SEVeYtCQbLhiB3WPPepMATAHfUOZlkgWW0vAwIwy5bOIXv7889x_3qi3OgGQuH6k8OeAX6HrFQ7vZhBVtcJo_VATmB9RIaebmQ4oLRHlUr70aUtC19_XJC64D_Vpx6ZcuklPt-WNukf0zYr47g_wBBsnqqxlE6w.m3u8?u=1756878715"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "CNN",
+		"title": "CNN",
+		"uris": ["https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "CBS News",
+		"title": "CBS News",
+		"uris": ["https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "BBC",
+		"title": "BBC",
+		"uris": ["https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "Bloomberg",
+		"title": "Bloomberg",
+		"uris": ["https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "Fox",
+		"title": "Fox",
+		"uris": ["https://jmp2.uk/sam-USBA300024TN.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "NHKWorld",
+		"title": "NHKWorld",
+		"uris": ["https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "ANTV",
+		"title": "ANTV",
+		"uris": ["http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "NDTV",
+		"title": "NDTV",
+		"uris": ["https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "FashionTV",
+		"title": "FashionTV",
+		"uris": ["http://lb.streaming.sk/fashiontv/stream/playlist.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "MOVIE1",
+		"title": "MOVIE1",
+		"uris": ["https://stream.ads.ottera.tv/playlist.m3u8?network_id=65"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "MOVIE2",
+		"title": "MOVIE2",
+		"uris": ["https://stream.ads.ottera.tv/playlist.m3u8?network_id=181"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "F1",
+		"title": "F1",
+		"uris": ["https://stream.ads.ottera.tv/playlist.m3u8?network_id=535"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "FAILARMY",
+		"title": "FAILARMY",
+		"uris": ["https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "Drybarcomedy",
+		"title": "Drybarcomedy",
+		"uris": ["https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8"]
+	}
+]

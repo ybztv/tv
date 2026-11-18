@@ -1,0 +1,23 @@
+{
+  "owner": "ybztv",
+  "repo": "tv",
+  "branch": "main",
+  "jobs": [
+    {
+      "path": "ktv.m3u",
+      "type": "m3u",
+      "source": "https://raw.githubusercontent.com/krtv322/kortv/main/ktv.m3u"
+    },
+    {
+      "path": "koreatv.m3u",
+      "type": "json_koreatv",
+      "source": "https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/main/koreatv.json",
+      "epg": "https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/main/koreatvEPG.xml"
+    },
+    {
+      "path": "koreatvEPG.xml",
+      "type": "raw",
+      "source": "https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/main/koreatvEPG.xml"
+    }
+  ]
+}

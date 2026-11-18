@@ -111,3 +111,50 @@ def build(m3u_text, reference_json=None, default_ua=''):
                    if any(x['group'] == g for x in out)},
     }
     return text, stats
+
+
+def build_from_json(json_text, default_ua='', sort_by_group=False):
+    """已有 JSON 频道列表 -> 同风格规范化 JSON（补齐 logo / headers，统一字段顺序）。"""
+    data = json.loads(json_text)
+    seen, out = set(), []
+    for item in data:
+        name = (item.get('name') or item.get('title') or '').strip()
+        uris = [u.strip() for u in (item.get('uris') or []) if u and URL_OK.match(u.strip())]
+        if not name or not uris:
+            continue
+        key = re.sub(r'\s', '', uris[0]).lower()
+        if key in seen:
+            continue
+        seen.add(key)
+
+        src_headers = item.get('headers') or {}
+        headers = {'user-agent': (src_headers.get('user-agent') or '').strip() or default_ua}
+        for k in ('cookie', 'referer', 'referrer', 'origin'):
+            v = (src_headers.get(k) or '').strip()
+            if v:
+                headers[k] = v
+        headers = {k: v for k, v in headers.items() if v}
+
+        norm = {
+            'group': (item.get('group') or '未分类').strip(),
+            'logo': (item.get('logo') or '').strip() or NO_LOGO,
+            'name': name,
+            'title': (item.get('title') or name).strip(),
+            'uris': uris,
+        }
+        if headers:
+            norm['headers'] = headers
+        out.append(norm)
+
+    if sort_by_group:
+        idx = {g: i for i, g in enumerate(GROUP_ORDER)}
+        out.sort(key=lambda x: idx.get(x['group'], 99))
+
+    text = json.dumps(out, ensure_ascii=False, indent='\t') + '\n'
+    stats = {
+        'channels': len(out),
+        'with_headers': sum(1 for x in out if 'headers' in x),
+        'groups': {g: sum(1 for x in out if x['group'] == g)
+                   for g in sorted({x['group'] for x in out})},
+    }
+    return text, stats

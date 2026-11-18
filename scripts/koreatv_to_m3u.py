@@ -72,7 +72,8 @@ def build(json_text, epg_text=''):
         tvg_id = epg.get(name) or epg_norm.get(norm(name)) or ''
         if tvg_id:
             matched += 1
-        ua = (item.get('headers') or {}).get('user-agent', '').strip()
+        headers = item.get('headers') or {}
+        ua = (headers.get('user-agent') or '').strip()
 
         parts = ['#EXTINF:-1']
         if tvg_id:
@@ -83,15 +84,24 @@ def build(json_text, epg_text=''):
         parts.append(f'group-title="{group}"')
 
         block = [' '.join(parts) + ',' + name]
-        if ua:
-            block.append(f'#EXTVLCOPT:http-user-agent={ua}')
+        for hkey, opt in (('user-agent', 'http-user-agent'),
+                          ('referer', 'http-referrer'),
+                          ('referrer', 'http-referrer'),
+                          ('origin', 'http-origin'),
+                          ('cookie', 'http-cookie')):
+            val = (headers.get(hkey) or '').strip()
+            if val:
+                block.append(f'#EXTVLCOPT:{opt}={val}')
         block.extend(uris)
         entries.append((group, block))
 
     idx = {g: i for i, g in enumerate(GROUP_ORDER)}
     entries.sort(key=lambda x: idx.get(x[0], 99))
 
-    lines = [f'#EXTM3U url-tvg="{EPG_URL}" x-tvg-url="{EPG_URL}"']
+    if epg_text:
+        lines = [f'#EXTM3U url-tvg="{EPG_URL}" x-tvg-url="{EPG_URL}"']
+    else:
+        lines = ['#EXTM3U']
     for _, block in entries:
         lines.extend(block)
 

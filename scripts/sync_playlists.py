@@ -30,15 +30,16 @@ def load_module(path, name):
     return mod
 
 
-def _find_converter():
-    for p in (os.path.join(HERE, 'koreatv_to_m3u.py'),
-              os.path.join(HERE, 'kenpark', 'koreatv_to_m3u.py')):
+def _find(name):
+    for p in (os.path.join(HERE, name),
+              os.path.join(HERE, 'kenpark', name)):
         if os.path.exists(p):
             return p
-    raise FileNotFoundError('koreatv_to_m3u.py 未找到')
+    raise FileNotFoundError(name)
 
 
-KOREA = load_module(_find_converter(), 'koreatv_to_m3u')
+KOREA = load_module(_find('koreatv_to_m3u.py'), 'koreatv_to_m3u')
+M2J = load_module(_find('m3u_to_json.py'), 'm3u_to_json')
 
 
 def fetch(url, timeout=60):
@@ -59,6 +60,9 @@ def render(job):
     if job['type'] == 'raw':
         data = fetch_bytes(src)
         return data, f'{len(data) / 1024:.0f} KB 原样同步'
+    if job['type'] == 'm3u_to_json':
+        text, n = M2J.build(fetch(src))
+        return text.encode('utf-8'), f'{n} 个频道（JSON 格式）'
     if job['type'] == 'json_koreatv':
         jtext = fetch(src)
         etext = ''

@@ -61,8 +61,16 @@ def render(job):
         data = fetch_bytes(src)
         return data, f'{len(data) / 1024:.0f} KB 原样同步'
     if job['type'] == 'm3u_to_json':
-        text, n = M2J.build(fetch(src))
-        return text.encode('utf-8'), f'{n} 个频道（JSON 格式）'
+        ref = ''
+        if job.get('reference'):
+            try:
+                ref = fetch(job['reference'])
+            except Exception as e:
+                log(f'  参考文件抓取失败，改用规则分组：{e}')
+        text, st = M2J.build(fetch(src), ref, job.get('default_ua', ''))
+        return text.encode('utf-8'), (
+            f"{st['channels']} 个频道（JSON，沿用原文分组 {st['ref_matched']} 条，"
+            f"headers {st['with_headers']} 条）")
     if job['type'] == 'json_koreatv':
         jtext = fetch(src)
         etext = ''

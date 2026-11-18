@@ -71,6 +71,11 @@ def render(job):
         return text.encode('utf-8'), (
             f"{st['channels']} 个频道（JSON，沿用原文分组 {st['ref_matched']} 条，"
             f"headers {st['with_headers']} 条）")
+    if job['type'] == 'json_norm':
+        text, st = M2J.build_from_json(fetch(src), job.get('default_ua', ''),
+                                       job.get('sort_by_group', False))
+        return text.encode('utf-8'), (
+            f"{st['channels']} 条（JSON 规范化，headers {st['with_headers']} 条）")
     if job['type'] == 'json_koreatv':
         jtext = fetch(src)
         etext = ''

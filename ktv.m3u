@@ -1,0 +1,539 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="KBS 1" tvg-logo="https://kenpark76.github.io/logo/KBS1.png" group-title="한국방송",KBS 1
+https://backup.760515.xyz/playlist/KBS1-playlist.m3u8
+#EXTINF:-1 tvg-name="KBS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="한국방송",KBS 2
+https://backup.760515.xyz/playlist/KBS2-playlist.m3u8
+#EXTINF:-1 tvg-name="SBS" tvg-logo="https://kenpark76.github.io/logo/SBS.png" group-title="한국방송",SBS
+http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8
+#EXTINF:-1 tvg-name="MBC" tvg-logo="https://kenpark76.github.io/logo/MBC.png" group-title="한국방송",MBC
+https://backup.760515.xyz/playlist/MBC-playlist.m3u8
+#EXTINF:-1 tvg-name="mbn" tvg-logo="https://kenpark76.github.io/logo/MBN.png" group-title="한국방송",mbn
+https://noh-slb-samsung-fastcdn.uplus.co.kr/mbn.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=mbn.stream
+#EXTINF:-1 tvg-id="TVChosun.kr" tvg-name="TV Chosun" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="한국방송",TV Chosun
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="연합뉴스" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png" group-title="한국방송",연합뉴스
+https://tving-live-o2-skcdn.tving.com/o2/v1/019dd8deb9f5153d7865157cdbfbd6/019dd8df3d75153d7865157cdbfbd9/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MDY1MTE3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=Zk264AdGZWLF0pBuEZxAiXc0KHyMLLZFDqNgcS3DnHxm7P1IKAPC1KN~ejbdOHpBbO~TmuK2cREDOWzBaemRXVYjVRJ2YyQfH1vUbhTwrL-HBMBAi7OE-70yA7guBox2aVqcuJAK8DJWwsNxMp4MHaeLllCS0AP8HBen-7oLTGj~MJf3P~UzZc~ErqEmbSSEpQE9QNOVWrimwn9yZs4-eu7zNUZ9OYINUE~husm2PtsHpbxqqrQBNGdbyXu5c060NPRC4YXmvw7WeQZZQvcT5vDcbTC4zPONGHTaybxxXm2pwO~iN2FlZRRpzMhU1xfZdWmqtRUO3URVoJe6hfTZ-g__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+#EXTINF:-1 tvg-name="YTN" group-title="한국방송",YTN
+https://tving-live-o2-xcdn.tving.com/o2/v1/019db80595b1153d7865047a0ccd/019db8091f9d153d7865047a0cd0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUwNjUxNTAsInBhdGgiOiIvbzIifQ.AF_1nM-EzcRYoAXj-6XtCqQdDGi1EQPCtQSBvxd-XfY
+#EXTINF:-1 tvg-name="채널A" group-title="한국방송",채널A
+https://tving-live-o2-skcdn.tving.com/o2/v1/019ed8854c2c1eb80e79cd7979dc2/019ed88d352d153d78653cb4bf7bdc/vc1_stream3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MDY1MTgxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=XJa4oClCHqRL0zLs8m67NWw4yRGBMo5Svh5ITxHUx2Er7DC7EJBD5OZDD~C5oQoEy7NN8xugwWaxp4ZlWFhjRPf3FL0IVsbGGgBNJOc4i58pT0gNbdkR8K2Qik103boLPKoeNilvLp5t-ZklyAtBUtBPq4VM7ebtgSFpHFXGi6D06UkoAvUqWOiNCh1Vzt~8z4mVQFWh2Mn4e7f7tAI~kRpgY5zJyNxaLORTgeJSgwtR6CyqUejh0Z5~7C8NuIGS7OpnqwKixBevwja7fmfxUtRADawqWAN2N-eRchF9FCllJqy95PF~XuFoxqT78XCsXzOPtfoz5fJyFGTqbi5hCA__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="한국방송",tvN
+https://tving-live-o2-ktcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MDY1MjMyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=W8AAlHBZTJd815k7LckkxqQAI2lNjBqke4g9MdsWXc9gCzT4ET5KVrZQHEWoDdc8VgMFTqV5KMSBxCSLEw3Fbbbt4SzIGE6WO5EjzlwnXKPJkEKIAFNqd587l1-GmoB6VPFFE8ybNoer4yLGVbjBYjhBe~j4DQ~5FDNWzO4Z766hAmsbSEh-Q5Ij7fv2QFew95Lia013SI~oSlonDxVfw4m~ItrgnyZ9IVPYeQaW9KY4oZ32~swQc-V9JE5ZG8LG9BHceKArKehimnj3wdDOKvq1gTEeFyNOblqUmKKf3jiCtaQ6Xj79r38ErsNW3z7ymXbi5faVVK3AdGY2w1l7mA__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+#EXTINF:-1 tvg-name="jtbc" group-title="한국방송",jtbc
+https://noh-slb-samsung-fastcdn.uplus.co.kr/jtbc.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=jtbc.strea
+#EXTINF:-1 tvg-id="TVChosun2.kr" tvg-name="TV Chosun 2 (720p)" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="한국방송",TV Chosun 2 (720p)
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1 tvg-name="MBN플러스" group-title="한국방송",MBN플러스
+https://tving-live-o2-xcdn.tving.com/o2/v1/019db8dc792a1eb80e7942932b5c1/019dd8e25eab153d7865157cdbfbda/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUwNjUzMDcsInBhdGgiOiIvbzIifQ.xsJxE8BDw8RSNvYHFExjOfetOulTGDh0GxMEtJ-MINY
+#EXTINF:-1 tvg-name="채널A플러스" group-title="한국방송",채널A플러스
+https://tving-live-o2-skcdn.tving.com/o2/v1/019ed904d9651eb80e79cd7979dc5/019ed90583cd153d78653cb4bf7bdd/vc1_stream3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MDY1MzM4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=BO4yNofOBI77pUHOG2wDlJ7CsQMnjV2IgIF7T34giGSQgeKdphpXgup8hx1MbBI9D~bl9LH-FJYUKpPg8dlP2lluyO17plDG1uzHj~SJWUMAU18ihEYg5Xv02Z8-DrEA7ebcx807TaYYaos~1S5kJyVdhzN~5xuqC9NJTB1D7Iz2Ixp-NgcuYUcCXZ01W681kcb9gLgTEqMMidc2gTc4uu7gAT57mI6A6ouxnnrVdJt3nZ~YQTixUQiaK60qIYKg6oFJMzXn5v~rJGkF7rQGG2LpoAA0h1vwdf35QC13XHv-BO45YwcQKjg2QJvKXr5vO0BNAfb0vX8mWVMxN0kfqg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+#EXTINF:-1 tvg-name="mnet" group-title="한국방송",mnet
+https://tving-live-o2-xcdn.tving.com/o2/v1/019d66afd810153d786553381d0e3/019d719c3005153d786553381d0f0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUwNjUzNzAsInBhdGgiOiIvbzIifQ.oFDjcZJtDWEcZg5N0vwTbTU5mgkVyudVNAsCaLhrWww
+#EXTINF:-1 tvg-name="실버아이TV" group-title="한국방송",실버아이TV
+http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8
+#EXTINF:-1 tvg-name="TV조선가요" group-title="한국방송",TV조선가요
+http://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@HD" tvg-name="조선방송" group-title="한국방송",조선방송
+https://streamer.nknews.org/tvhls/stream.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/143.0.0.0 Safari/537.36&Referer=https://kcnawatch.org/
+#EXTINF:-1 tvg-name="평양 FM 방송" group-title="한국방송",평양 FM 방송
+https://listen7.myradio24.com/69366
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://kenpark76.github.io/logo/延边卫视.png" group-title="한국방송",延边卫视
+https://srs.iyb983.cn/video/CYS/index.m3u8
+#EXTINF:-1 tvg-name="YBTV-1朝鲜语" tvg-logo="https://kenpark76.github.io/logo/延边1台.png" group-title="한국방송",YBTV-1朝鲜语
+https://srs.iyb983.cn/video/ybtv1/index.m3u8
+#EXTINF:-1 tvg-name="YBTV-2" tvg-logo="https://kenpark76.github.io/logo/延边2台.png" group-title="한국방송",YBTV-2
+https://srs.iyb983.cn/video/ybtv2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" group-title="한국방송",CCTV4
+http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV13" group-title="한국방송",CCTV13
+http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="珲春新闻综合" tvg-logo="http://i20.hunchun123.cn/fg_tu/img/video.jpg" group-title="한국방송",珲春新闻综合
+http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="야인시대" group-title="한국방송",야인시대
+https://jmp2.uk/stvp-KRBB42000061Z
+#EXTINF:-1 tvg-name="나는 자연인이다" group-title="한국방송",나는 자연인이다
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8
+#EXTINF:-1 tvg-name="KBS Drama (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="한국방송",KBS Drama (480p)
+http://koreatv.dothome.co.kr/kbsdrama.php
+#EXTINF:-1 tvg-name="kbsstory" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="한국방송",kbsstory
+http://koreatv.dothome.co.kr/kbsstory.php
+#EXTINF:-1 tvg-name="KBS Joy (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="한국방송",KBS Joy (480p)
+http://koreatv.dothome.co.kr/kbsjoy.php
+#EXTINF:-1 tvg-name="kbslife" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="한국방송",kbslife
+http://koreatv.dothome.co.kr/kbslife.php
+#EXTINF:-1 tvg-name="mbcnet" group-title="한국방송",mbcnet
+http://koreatv.dothome.co.kr/mbcnet.php
+#EXTINF:-1 tvg-name="MBC 드라마넷" group-title="한국방송",MBC 드라마넷
+https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=6F11731F13F83234794A457C33B10E4065393EF5CE09327E3A209CaCB66E3206E6a0F3543562ED4440213E4121bD912C57586203184A9DB802C95464B505E623CCE70CB4A308FA181DBBA1C2A07883D80003BD392BE5A06574BF628B1C05A96820FF5C806AB3773516F990A3573C48A5DA88C42432D1B84ED483375B59DB5D3F&v=3
+#EXTINF:-1 tvg-name="MBC에브리원" group-title="한국방송",MBC에브리원
+https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=66F11B1AD36F3BD4A84035B43F71494B453E38E51B00623536D0A6a2A67F3CD68Ba8033F32624441B04933F15EbA51F8E27F00142E531AA17E9DB1DCABB120EACE995371113D508F7F0ADC3ED1DA271C248D301B6F2CC527C6C93E38DE1BDCCC60DA16DD59E842931B05836C9D7F8DB5AB55B93DFEC9F98E21232394808077F6&v=3
+#EXTINF:-1 tvg-name="MBC M" group-title="한국방송",MBC M
+https://mbcmottsd.imbc.com/plus_mbcm_sd/_definst_/mbcm_sd.stream/chunklist.m3u8?_lsu_sa_=67E1B514134C3334594345D534110349B5F73B453504124C3AF0B7aA66BF385610a3F34F3BD2BF4F30BF329145b7914A5CC49CA5C29CF48B346F49850F424DF34B9DCDBBA229E06A1C23F12ED3CB6DE2DF1099C794EDF22815E714A705A63BF8C0E62DBEDAA26C1B815DADD6EE82DE1B&v=3
+#EXTINF:-1 tvg-name="MBC ON" group-title="한국방송",MBC ON
+http://43.164.132.11/kakaotv/get_channel.php?channel=mbc_on
+#EXTINF:-1 tvg-name="JTBC2(고화질)" tvg-logo="https://kenpark76.github.io/logo/JTBC2.png" group-title="한국방송",JTBC2(고화질)
+https://backup.760515.xyz/playlist/JTBC2-playlist.m3u8
+#EXTINF:-1 tvg-name="JTBC4(고화질)" tvg-logo="https://kenpark76.github.io/logo/JTBC4.png" group-title="한국방송",JTBC4(고화질)
+https://backup.760515.xyz/playlist/JTBC4-playlist.m3u8
+#EXTINF:-1 tvg-name="한국영화" group-title="한국방송",한국영화
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
+#EXTINF:-1 tvg-name="인기영화" group-title="한국방송",인기영화
+https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/572aa063-e822-4471-8b30-12e1cfc1aaac/0.m3u8
+#EXTINF:-1 tvg-name="라이프타임 (고화질)" tvg-logo="https://i.imgur.com/PaQ7vhO.png" group-title="한국방송",라이프타임 (고화질)
+https://backup.760515.xyz/playlist/LIFETIME-playlist.m3u8
+#EXTINF:-1 tvg-name="국회방송" group-title="한국방송",국회방송
+https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="KFN" group-title="한국방송",KFN
+http://mediaworks.dema.mil.kr/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="중화TV" group-title="한국방송",중화TV
+https://tving-live-o2-skcdn.tving.com/o2/v1/019ed3e5e210153d78653cb4bf7bd9/019ed3e6c4931eb80e79cd7979dc1/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MDY1OTM1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=Q058~ogoxSM-Hr6tiG8qkYHNcAy1wkewhk0sxfxf1icJeTN9nmDxWFte3CpjerzQhnc5Jpb1eEbAGsbFsb7b5K7wanL7-TxWWrIpsdRQYR3yAyVHaC0Q9ni52Yc9crHtORmd6gVmOE75eePlLZ4oX7iHivcQ7Vf755o-AEnEhcrsFGmzIPEalJtv8bcBez2M7sA70n~pPZ0USMC0G8dbRYv14vfc858yaYpYUIj9pSTd5t3Ht5s9CbdKX138cLH3NjWd2GfpbCrBqy-pu7h3WiyXYPcewRwGPjdjw7r7X03MoLb~fpk6w2slnN0e0TJIaHXWTs3iTbWo~r-b98Bgpg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+#EXTINF:-1 tvg-name="TVNDLAMA" group-title="한국방송",TVNDLAMA
+https://tving-live-o2-xcdn.tving.com/o2/v1/019d663b5fa81eb80e796d9bd9ca6/019d6643c8aa153d786553381d0d3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUwNjU5NjcsInBhdGgiOiIvbzIifQ.ynaXErH9jxURbSqQ19oXNxB0DmAc7qnmhjCM8AVXV3c
+#EXTINF:-1 tvg-name="TVN쇼" group-title="한국방송",TVN쇼
+https://tving-live-o2-xcdn.tving.com/o2/v1/019d663468df153d786553381d0cf/019d663eb5471eb80e796d9bd9cac/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUwNjU5OTUsInBhdGgiOiIvbzIifQ.fwkqo0DZ2Bebm9DVcIAnlIWBzfAiM5Orp25nzi_Q2eM
+#EXTINF:-1 tvg-name="TVN스토리" group-title="한국방송",TVN스토리
+https://tving-live-o2-xcdn.tving.com/o2/v1/019d6bc0c1ac153d786553381d0e9/019d6bc4668b153d786553381d0ec/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUwNjYwMjAsInBhdGgiOiIvbzIifQ.LzEBvA2mOzSTc8VCgxS5p87v1SUPcxxKpILPRh-n6as
+#EXTINF:-1 tvg-name="YTN2" group-title="한국방송",YTN2
+https://tving-live-o2-skcdn.tving.com/o2/v1/0198ee7226d21eb80e7929b1a2cc44/0198ef058f1b1eb80e7929b1a2cc4a/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MDY2MDQ0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=gSttC5XdXYNPBFi-1OTW2JYOumwcYSx3md71CuXjfvY4kl0isPSzcdoHtJWMQKfjPvxofJOFJINoTamkSeS8ISk4rY7DooL1SKu7ubOHyazLpmcrWFEej3x8fmHWlW6IQA-lcYd~RJ2hrI0hPNVg3HiUqvVN9AMSqcY7PdfNapweJdHkmrSLhB5lWpJ6ueHY72iyHoIR9cu2qfZFgLXxcjM711UbuV4f7uwp3ITLYg02Bhb522hlsGX-ssgWmwdch2SJ1o6GuL8DW6kNcrzQm55QHF0yjrki4dcoDrVASKVTwLFlfs-rTQJVR3mRkSs4Xz~jg0o1tgVzrSYUd3aa1Q__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+#EXTINF:-1 tvg-name="히스토리" group-title="한국방송",히스토리
+https://backup.760515.xyz/playlist/히스토리-playlist.m3u8
+#EXTINF:-1 tvg-name="KBSKids" group-title="한국방송",KBSKids
+http://koreatv.dothome.co.kr/kbskids.php
+#EXTINF:-1 tvg-name="투니버스" group-title="한국방송",투니버스
+https://backup.760515.xyz/playlist/투니버스-playlist.m3u8
+#EXTINF:-1 tvg-name="애니맥스 (고화질)" group-title="한국방송",애니맥스 (고화질)
+https://backup.760515.xyz/playlist/애니맥스-playlist.m3u8
+#EXTINF:-1 tvg-name="애니플러스 (고화질)" group-title="한국방송",애니플러스 (고화질)
+https://backup.760515.xyz/playlist/ANIBOX-playlist.m3u8
+#EXTINF:-1 tvg-name="EBS少儿" group-title="한국방송",EBS少儿
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 tvg-name="베베핀 2" group-title="한국방송",베베핀 2
+https://51b80d278dd84f5da8da8832f26a6e47.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qdes3yq6z566m/67bdceb4-7cbc-46d5-8d3c-dfa3fc93b48a/0.m3u8
+#EXTINF:-1 tvg-name="뽀요티비" group-title="한국방송",뽀요티비
+https://c9f573a52b2044e9aeb263646dcdaaf5.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i91aqem27nh0w/8e4860ce-531e-497c-b50e-79517e000efe/1.m3u8
+#EXTINF:-1 tvg-name="코코비티비" group-title="한국방송",코코비티비
+https://3226c0360554432fb870bb14c7a633ed.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bzo6omdamy3gm/f3b5800d-1000-426a-8136-44831115b35c/0.m3u8
+#EXTINF:-1 tvg-name="로보카폴리" group-title="한국방송",로보카폴리
+https://6e26842ffb4d45488c9829ffedbd3a1e.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hk7cvudmr98ff/713bcecf-006e-4d35-a320-ba780451775f/0.m3u8
+#EXTINF:-1 tvg-name="반지의 비밀" group-title="한국방송",반지의 비밀
+https://6e26842ffb4d45488c9829ffedbd3a1e.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xsznusvgu7e2n/cac8d5cb-bd9d-46d0-ad92-a90e16f8380f/0.m3u8
+#EXTINF:-1 tvg-name="내청코" group-title="한국방송",내청코
+https://c6b2dfcfb865452bb7217ff20b9d7a23.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1tfdg9d2wd7d/0e3566f7-526d-42f6-8150-048dba7e830b/0.m3u8
+#EXTINF:-1 tvg-name="바오 패밀리" group-title="한국방송",바오 패밀리
+https://700535da28924f3ba47aeb68bfb9f3ce.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1hzfoumjy9kvk/b4663e43-7fd6-46c6-ad6a-b844abe10f67/0.m3u8
+#EXTINF:-1 tvg-name="짱구" group-title="한국방송",짱구
+https://cc-919i1gtrejym7.akamaized.net/00cfba45_9ef7_4a85_abcd_e5837ab46bb6/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="韩·EBS-1" group-title="한국방송",韩·EBS-1
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="韩·EBS-2" group-title="한국방송",韩·EBS-2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="EBS+ 1 (400p)" group-title="한국방송",EBS+ 1 (400p)
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="EBS+ 2 (400p)" group-title="한국방송",EBS+ 2 (400p)
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="韩国-EBSe" group-title="한국방송",韩国-EBSe
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="tvn Sports" group-title="한국방송",tvn Sports
+https://jmp2.uk/stvp-KRBC800015MH
+#EXTINF:-1 tvg-name="ufc" group-title="한국방송",ufc
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
+#EXTINF:-1 tvg-name="PGA GOLF" group-title="한국방송",PGA GOLF
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_271_77C0F5F4.m3u8
+#EXTINF:-1 tvg-name="스크린골프존 (고화질)" tvg-logo="http://tv.golfzon.com/Images/header/logo.png" group-title="한국방송",스크린골프존 (고화질)
+https://jmp2.uk/stvp-KR44000010Y
+#EXTINF:-1 tvg-name="j_golf" group-title="한국방송",j_golf
+http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=j_golf_replace_cookie
+#EXTINF:-1 tvg-name="sbs_golf" group-title="한국방송",sbs_golf
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=sbs_golf_replace_cookie
+#EXTINF:-1 tvg-name="spotv_golf" group-title="한국방송",spotv_golf
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_golf_health_replace_cookie
+#EXTINF:-1 tvg-name="jtbc3" group-title="한국방송",jtbc3
+http://124.222.153.240/kakaotv/get_channel.php?channel=jtbc3|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=jtbc3_replace_cookie
+#EXTINF:-1 tvg-name="spotv" group-title="한국방송",spotv
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_replace_cookie
+#EXTINF:-1 tvg-name="spotv2" group-title="한국방송",spotv2
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv2_replace_cookie
+#EXTINF:-1 tvg-name="kbs_n_sports" group-title="한국방송",kbs_n_sports
+http://124.222.153.240/kakaotv/get_channel.php?channel=kbs_n_sports|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=kbs_n_sports_replace_cookie
+#EXTINF:-1 tvg-name="mbc_sports" group-title="한국방송",mbc_sports
+http://124.222.153.240/kakaotv/get_channel.php?channel=mbc_sports|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=mbc_sports_replace_cookie
+#EXTINF:-1 tvg-name="sbs_sports" group-title="한국방송",sbs_sports
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_sports|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=sbs_sports_replace_cookie
+#EXTINF:-1 tvg-name="tvn_sports" group-title="한국방송",tvn_sports
+http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_sports|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=tvn_sports_replace_cookie
+#EXTINF:-1 tvg-name="sky_sports" group-title="한국방송",sky_sports
+http://124.222.153.240/kakaotv/get_channel.php?channel=sky_sports|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=sky_sports_replace_cookie
+#EXTINF:-1 tvg-name="spotv_prime" group-title="한국방송",spotv_prime
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime_replace_cookie
+#EXTINF:-1 tvg-name="spotv_prime2" group-title="한국방송",spotv_prime2
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime2_replace_cookie
+#EXTINF:-1 tvg-name="spotv_prime1" group-title="한국방송",spotv_prime1
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime1_replace_cookie
+#EXTINF:-1 tvg-name="ena" group-title="한국방송",ena
+http://124.222.153.240/kakaotv/get_channel.php?channel=ena|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ena_replace_cookie
+#EXTINF:-1 tvg-name="ocn" group-title="한국방송",ocn
+http://124.222.153.240/kakaotv/get_channel.php?channel=ocn|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ocn_replace_cookie
+#EXTINF:-1 tvg-name="ocn_movies2" group-title="한국방송",ocn_movies2
+http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ocn_movies2_replace_cookie
+#EXTINF:-1 tvg-name="ocn_movies" group-title="한국방송",ocn_movies
+http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ocn_movies_replace_cookie
+#EXTINF:-1 tvg-name="inet" group-title="한국방송",inet
+http://124.222.153.240/kakaotv/get_channel.php?channel=inet|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=inet_replace_cookie
+#EXTINF:-1 tvg-name="ihq" group-title="한국방송",ihq
+http://124.222.153.240/kakaotv/get_channel.php?channel=ihq|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ihq_replace_cookie
+#EXTINF:-1 tvg-name="sbs_plus" group-title="한국방송",sbs_plus
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=sbs_plus_cookie
+#EXTINF:-1 tvg-name="nat_geo_wild" group-title="한국방송",nat_geo_wild
+http://124.222.153.240/kakaotv/get_channel.php?channel=nat_geo_wild|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=nat_geo_wild_replace_cookie
+#EXTINF:-1 tvg-name="channel_e" group-title="한국방송",channel_e
+http://124.222.153.240/kakaotv/get_channel.php?channel=channel_e|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=channel_e_replace_cookie
+#EXTINF:-1 tvg-name="낚시 TV" group-title="한국방송",낚시 TV
+http://124.222.153.240/kakaotv/get_channel.php?channel=fishing_tv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=fishing_tv_replace_cookie
+#EXTINF:-1 tvg-name="바둑TV" group-title="한국방송",바둑TV
+http://124.222.153.240/kakaotv/get_channel.php?channel=baduk_tv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=baduk_tv_replace_cookie
+#EXTINF:-1 tvg-name="빌리어즈TV" group-title="한국방송",빌리어즈TV
+http://124.222.153.240/kakaotv/get_channel.php?channel=billiards_tv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=billiards_tv_replace_cookie
+#EXTINF:-1 tvg-name="브레인티비" group-title="한국방송",브레인티비
+http://124.222.153.240/kakaotv/get_channel.php?channel=brain_tv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=brain_tv_replace_cookie
+#EXTINF:-1 tvg-name="Channel E" group-title="한국방송",Channel E
+http://1.201.160.177:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="한국경제TV" group-title="한국방송",한국경제TV
+http://cdnmlive.wowtv.co.kr/wowmo/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="매일경제TV" group-title="한국방송",매일경제TV
+http://vodmmf.mbn.co.kr/mmoney/smil:money.smil/chunklist_b440000.m3u8
+#EXTINF:-1 tvg-name="서울경제" group-title="한국방송",서울경제
+https://3fceda0143c84c19a85d78fcdc2227b3.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/3b82faa9-7041-45e1-a61b-5405b8f1c824/0.m3u8
+#EXTINF:-1 tvg-name="NIB 남인천방송" group-title="한국방송",NIB 남인천방송
+http://stream.nibtv.co.kr:1935/live/nib/playlist.m3u8
+#EXTINF:-1 tvg-name="지방자치TV" group-title="한국방송",지방자치TV
+https://jjctv.ecn.cdn.infralab.net/jjctv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="ktv" group-title="한국방송",ktv
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="kctv" group-title="한국방송",kctv
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:-1 tvg-name="ABN" group-title="한국방송",ABN
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 tvg-name="BTV" group-title="한국방송",BTV
+http://tbroad-233.live.wecandeo.com/live/7/233_high.m3u8
+#EXTINF:-1 tvg-id="OUN.kr" tvg-name="OUN (1080p)" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title="한국방송",OUN (1080p)
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 tvg-name="C채널" group-title="한국방송",C채널
+http://112.175.51.214:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="GOODTV" group-title="한국방송",GOODTV
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="FGTV" group-title="한국방송",FGTV
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RUTCTV.kr" tvg-name="RUTC TV (720p)" tvg-logo="https://i.ibb.co/yPDhKBp/rutc-logo.jpg" group-title="한국방송",RUTC TV (720p)
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BBSTV.kr" tvg-name="BBS Buddhist Broadcasting (1080p)" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="한국방송",BBS Buddhist Broadcasting (1080p)
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="BTNTV.kr" tvg-name="BTN TV (1080p)" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="한국방송",BTN TV (1080p)
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-1 tvg-id="LLBNTVKorean.us" tvg-name="Lighting Lives Blessing Nations TV Korean (LLBN) (480p)" tvg-logo="https://i.imgur.com/WsOfy19.png" group-title="한국방송",Lighting Lives Blessing Nations TV Korean (LLBN) (480p)
+https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8
+#EXTINF:-1 tvg-name="아리랑티비" group-title="한국방송",아리랑티비
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+#EXTINF:-1 tvg-name="서경방송" group-title="한국방송",서경방송
+https://live.iscs.co.kr/m_live/480p.stream/chunklist_w435655614.m3u8
+#EXTINF:-1 tvg-name="콩콩팥팥" group-title="한국방송",콩콩팥팥
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_237_CB945FED.m3u8
+#EXTINF:-1 tvg-name="맛잇는 녀석들" group-title="한국방송",맛잇는 녀석들
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
+#EXTINF:-1 tvg-name="도시어부" group-title="한국방송",도시어부
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
+#EXTINF:-1 tvg-name="백반기행" group-title="한국방송",백반기행
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8
+#EXTINF:-1 tvg-name="SBS 그것이 알고싶다 정주행" group-title="한국방송",SBS 그것이 알고싶다 정주행
+https://dm72lx2w7znja.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-658a8vltn9ut6-prod/hls-harvester2-1293-prod/us-east-1/cc-658a8vltn9ut6/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-name="SBS 닥터스 정주행" group-title="한국방송",SBS 닥터스 정주행
+https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-name="SBS 동상이몽2 - 너는 내 운명 정주행" group-title="한국방송",SBS 동상이몽2 - 너는 내 운명 정주행
+https://d303zg8wpbocww.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-57imp9bv8y60f-prod/hls-harvester2-1293-prod/us-east-1/cc-57imp9bv8y60f/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-name="예능 정주행" group-title="한국방송",예능 정주행
+https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-name="유퀴즈 정주행" group-title="한국방송",유퀴즈 정주행
+https://d1b5tp3hl2116g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2rfe99i08oi6n-ssai-prd/f6c8175c_eca8_4094_8df9_82ecf707a5aa/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200027ED
+#EXTINF:-1 tvg-name="한식대첩 정주행" group-title="한국방송",한식대첩 정주행
+https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200014XZ
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="한국방송",「韩国」tvN1
+https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="한국방송",「韩国」tvN2
+https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
+#EXTINF:-1 tvg-id="KRBC32000191N" tvg-name="Mnet 스트릿 우먼 파이터" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC32000191N_20220824T022436.png" group-title="한국방송",Mnet 스트릿 우먼 파이터
+https://d35dv31kxp3bol.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oc5lbsxrbmd0d-ssai-prd/f9d55b7b_6be1_465e_9451_05ebac892aed/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000191N
+#EXTINF:-1 tvg-id="KRBB4200005CK" tvg-name="SBS 순옥명작관" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/58/KRBB4200005CK_20220329T055233.png" group-title="한국방송",SBS 순옥명작관
+https://d1ye6lj5le5dh0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ert8sa2q2i3fz-prod/hls-harvester2-1293-prod/us-east-1/cc-ert8sa2q2i3fz/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="KRBB42000061Z" tvg-name="SBS 낭만닥터 김사부2" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBB42000061Z_20220824T102035.png" group-title="한국방송",SBS 낭만닥터 김사부2
+https://d2yx6lvhcftzo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3dcxhnnfoe8vt-prod/hls-harvester2-1293-prod/us-east-1/cc-3dcxhnnfoe8vt/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="KRBC3200032ZM" tvg-name="tvN 라이브" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200032ZM_20220824T022456.png" group-title="한국방송",tvN 라이브
+https://d1ttfbptd053sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m5y15fbf80yi9-ssai-prd/151248c2_45a2_45a5_a31f_bb9fc72969dd/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200032ZM
+#EXTINF:-1 tvg-id="KRBC3200025QG" tvg-name="tvN 톱스타 유백이" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200025QG_20220824T022521.png" group-title="한국방송",tvN 톱스타 유백이
+https://d1zto4uvqkznpl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e02jwpz12nm4y-ssai-prd/a8dbe12b_5883_496b_8f6e_c56ef91558c5/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200025QG
+#EXTINF:-1 tvg-id="KRBB4200003ZL" tvg-name="SBS 미운 우리 새끼" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/KRBB4200003ZL_20220413T005115.png" group-title="한국방송",SBS 미운 우리 새끼
+https://d2h2h4q3zieeav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49nq9623vilm8-prod/hls-harvester2-1293-prod/us-east-1/cc-49nq9623vilm8/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="KRBB4200011RB" tvg-name="SBS 백종원의 골목식당" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/96/KRBB4200011RB_20220712T041402.png" group-title="한국방송",SBS 백종원의 골목식당
+https://d2riuzghn0kt92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-et8hq9b8jg99x-prod/hls-harvester2-1293-prod/us-east-1/cc-et8hq9b8jg99x/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="KRBC3200028P2" tvg-name="tvN 수미네 반찬(1-12회)" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200028P2_20220824T022504.png" group-title="한국방송",tvN 수미네 반찬(1-12회)
+https://d2chiell4gvxfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-obcwj7uic0zcf-ssai-prd/83cd3a28_879e_4f2e_9ac4_b21dc7cad4c8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200028P2
+#EXTINF:-1 tvg-id="KRBC3200029C4" tvg-name="tvN 유퀴즈온더블럭(33-52회)" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200029C4_20220824T022515.png" group-title="한국방송",tvN 유퀴즈온더블럭(33-52회)
+https://d3ductxks3ekko.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ytzhd9pym4uuw-ssai-prd/16ae5fb5_3043_4e9f_8d68_f360848e1c46/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200029C4
+#EXTINF:-1 tvg-id="KRBC3200031KO" tvg-name="tvN 코미디빅리그(366-377회)" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200031KO_20220824T022519.png" group-title="한국방송",tvN 코미디빅리그(366-377회)
+https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200031KO
+#EXTINF:-1 tvg-id="KRBB4200013L5" tvg-name="SBS 순간포착 세상에 이런일이" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/61/KRBB4200013L5_20220413T005132.png" group-title="한국방송",SBS 순간포착 세상에 이런일이
+https://dp3r8qzh7xgdp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ua8hvwhk9ajic-prod/hls-harvester2-1293-prod/us-east-1/cc-ua8hvwhk9ajic/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="KRBB4200016TZ" tvg-name="SBS 스페셜" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/13/KRBB4200016TZ_20220413T005136.png" group-title="한국방송",SBS 스페셜
+https://d9elvao5pl5dr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l3cinzxwxwpnp-prod/hls-harvester2-1293-prod/us-east-1/cc-l3cinzxwxwpnp/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="KRBB4200018FT" tvg-name="SBS 생활의 달인" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/82/KRBB4200018FT_20220413T005128.png" group-title="한국방송",SBS 생활의 달인
+https://dgjj0tcconmvk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ejefxdqh8872z-prod/hls-harvester2-1293-prod/us-east-1/cc-ejefxdqh8872z/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-name="CCTV1" group-title="중국방송",CCTV1
+http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV2" group-title="중국방송",CCTV2
+http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV3" group-title="중국방송",CCTV3
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 tvg-name="CCTV4" group-title="중국방송",CCTV4
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5" group-title="중국방송",CCTV5
+http://107.150.60.122/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5" group-title="중국방송",CCTV5
+http://120.70.60.179:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5" group-title="중국방송",CCTV5
+http://gaoyitv.6600.org:9901/tsfile/live/faacts/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5" group-title="중국방송",CCTV5
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="CCTV5+" group-title="중국방송",CCTV5+
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="CCTV5+" group-title="중국방송",CCTV5+
+http://107.150.60.122/live/cctv5p.m3u8
+#EXTINF:-1 tvg-name="CCTV6" group-title="중국방송",CCTV6
+http://74.91.26.218:82/live/cctv6hd.m3u8
+#EXTINF:-1 tvg-name="CCTV7" group-title="중국방송",CCTV7
+http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV8" group-title="중국방송",CCTV8
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="중국방송",CCTV9
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="중국방송",CCTV10
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-name="CCTV11" group-title="중국방송",CCTV11
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 tvg-name="CCTV12" group-title="중국방송",CCTV12
+http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV13" group-title="중국방송",CCTV13
+http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 tvg-name="CCTV14" group-title="중국방송",CCTV14
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CCTV15" group-title="중국방송",CCTV15
+http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 tvg-name="CCTV16" group-title="중국방송",CCTV16
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV17" group-title="중국방송",CCTV17
+http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 tvg-name="CCTV风云足球" group-title="중국방송",CCTV风云足球
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" group-title="중국방송",CCTV高尔夫网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV央视台球" group-title="중국방송",CCTV央视台球
+http://192.151.150.154/live/ystq.m3u8
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" group-title="중국방송",CCTV怀旧剧场
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV第一剧场" group-title="중국방송",CCTV第一剧场
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV风云剧场" group-title="중국방송",CCTV风云剧场
+http://198.204.228.26/live/fyjc.m3u8
+#EXTINF:-1 tvg-name="CCTV女性时尚" group-title="중국방송",CCTV女性时尚
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV世界地理" group-title="중국방송",CCTV世界地理
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV风云音乐" group-title="중국방송",CCTV风云音乐
+http://198.204.228.26/live/fyyy.m3u8
+#EXTINF:-1 tvg-name="CCTV兵器科技" group-title="중국방송",CCTV兵器科技
+http://liuwenxiaokevin.top:14044/rtp/233.18.204.178:5140
+#EXTINF:-1 tvg-name="CCTV文化精品" group-title="중국방송",CCTV文化精品
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CHC动作电影" group-title="중국방송",CHC动作电影
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="중국방송",CHC家庭影院
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="重温经典欣赏" group-title="중국방송",重温经典欣赏
+http://rihou.cc:555/tv/[Pd]重温经典
+#EXTINF:-1 tvg-name="邵氏电影欣赏" group-title="중국방송",邵氏电影欣赏
+http://rihou.cc:555/tv/[FY]邵氏电影
+#EXTINF:-1 tvg-name="邵氏武侠欣赏" group-title="중국방송",邵氏武侠欣赏
+http://rihou.cc:555/tv/[FY]邵氏武侠
+#EXTINF:-1 tvg-name="邵氏动作欣赏" group-title="중국방송",邵氏动作欣赏
+http://rihou.cc:555/tv/[FY]邵氏动作
+#EXTINF:-1 tvg-name="邵氏喜剧欣赏" group-title="중국방송",邵氏喜剧欣赏
+http://rihou.cc:555/tv/[FY]邵氏喜剧
+#EXTINF:-1 tvg-name="吉林卫视" group-title="중국방송",吉林卫视
+http://198.204.228.26/live/jlwshd.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="중국방송",黑龙江卫视
+http://198.204.228.26/live/hljwshd.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="중국방송",辽宁卫视
+http://198.204.228.26/live/lnwshd.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="중국방송",北京卫视
+http://198.204.228.26/live/bjwshd.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="중국방송",天津卫视
+http://198.204.228.26/live/tjwshd.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="중국방송",浙江卫视
+http://198.204.228.26/live/zjwshd.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="중국방송",湖南卫视
+http://198.204.228.26/live/hnwshd.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="중국방송",江苏卫视
+http://198.204.228.26/live/jswshd.m3u8
+#EXTINF:-1 tvg-name="上海卫视" group-title="중국방송",上海卫视
+http://198.204.228.26/live/dfwshd.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="중국방송",湖北卫视
+http://198.204.228.26/live/hbwshd.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="중국방송",深圳卫视
+http://198.204.228.26/live/szwshd.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="중국방송",安徽卫视
+http://198.204.228.26/live/ahwshd.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="중국방송",重庆卫视
+http://198.204.228.26/live/cqwshd.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="중국방송",广东卫视
+http://198.204.228.26/live/gdwshd.m3u8
+#EXTINF:-1 tvg-name="东南卫视" group-title="중국방송",东南卫视
+http://198.204.228.26/live/dnwshd.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="중국방송",甘肃卫视
+http://198.204.228.26/live/gswshd.m3u8
+#EXTINF:-1 tvg-name="广西卫视" group-title="중국방송",广西卫视
+http://220.173.103.80:4022/rtp/239.81.0.107:4056
+#EXTINF:-1 tvg-name="贵州卫视" group-title="중국방송",贵州卫视
+http://198.204.228.26/live/gzwshd.m3u8
+#EXTINF:-1 tvg-name="河南卫视" group-title="중국방송",河南卫视
+http://yuwentao114.x3322.net:4022/udp/239.252.220.189:5140
+#EXTINF:-1 tvg-name="江西卫视" group-title="중국방송",江西卫视
+http://198.204.228.26/live/jxwshd.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="중국방송",内蒙古卫视
+http://198.204.228.26/live/nmgws.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="중국방송",宁夏卫视
+http://198.204.228.26/live/nxws.m3u8
+#EXTINF:-1 tvg-name="青海卫视" group-title="중국방송",青海卫视
+http://198.204.228.26/live/qhws.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="중국방송",山东卫视
+http://198.204.228.26/live/sdwshd.m3u8
+#EXTINF:-1 tvg-name="山西卫视" group-title="중국방송",山西卫视
+http://198.204.228.26/live/sxwshd.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="중국방송",陕西卫视
+http://liuwenxiaokevin.top:14044/rtp/233.18.204.223:5140
+#EXTINF:-1 tvg-name="四川卫视" group-title="중국방송",四川卫视
+http://198.204.228.26/live/scwshd.m3u8
+#EXTINF:-1 tvg-name="三沙卫视" group-title="중국방송",三沙卫视
+http://kodbox.guangyuan.site:8188/rtp/239.253.43.113:5146
+#EXTINF:-1 tvg-name="西藏卫视" group-title="중국방송",西藏卫视
+http://alist.guangyuan.site:8188/rtp/239.77.1.26:5146
+#EXTINF:-1 tvg-name="新疆卫视" group-title="중국방송",新疆卫视
+http://198.204.228.26/live/xjws.m3u8
+#EXTINF:-1 tvg-name="云南卫视" group-title="중국방송",云南卫视
+http://198.204.228.26/live/ynwshd.m3u8
+#EXTINF:-1 tvg-name="国内动作大片" group-title="중국방송",国内动作大片
+http://cfss.cc/api/yy/1382749917.m3u8
+#EXTINF:-1 tvg-name="国内动作片" group-title="중국방송",国内动作片
+http://cfss.cc/api/yy/1382735561.m3u8
+#EXTINF:-1 tvg-name="超燃动作大片" group-title="중국방송",超燃动作大片
+http://cfss.cc/api/yy/1382749940.m3u8
+#EXTINF:-1 tvg-name="精彩动作电影" group-title="중국방송",精彩动作电影
+http://cfss.cc/api/yy/1382736823.m3u8
+#EXTINF:-1 tvg-name="香港动作大片" group-title="중국방송",香港动作大片
+http://cfss.cc/api/yy/1382736816.m3u8
+#EXTINF:-1 tvg-name="超燃动作片" group-title="중국방송",超燃动作片
+http://cfss.cc/api/yy/1354936199.m3u8
+#EXTINF:-1 tvg-name="热血动作片合集" group-title="중국방송",热血动作片合集
+http://cfss.cc/api/yy/1382735627.m3u8
+#EXTINF:-1 tvg-name="电影" group-title="중국방송",电影
+http://cfss.cc/api/yy/1355171357.m3u8
+#EXTINF:-1 tvg-name="国外动作大片" group-title="중국방송",国外动作大片
+http://cfss.cc/api/yy/1382735540.m3u8
+#EXTINF:-1 tvg-name="精彩动作电影享不停" group-title="중국방송",精彩动作电影享不停
+http://cfss.cc/api/yy/1382736809.m3u8
+#EXTINF:-1 tvg-name="风靡全球的谍战片" group-title="중국방송",风靡全球的谍战片
+http://cfss.cc/api/yy/1382736817.m3u8
+#EXTINF:-1 tvg-name="X战警系列电影" group-title="중국방송",X战警系列电影
+http://cfss.cc/api/yy/1382736893.m3u8
+#EXTINF:-1 tvg-name="国外高分大片" group-title="중국방송",国外高分大片
+http://cfss.cc/api/yy/1382736867.m3u8
+#EXTINF:-1 tvg-name="飞虎之雷霆极战" group-title="중국방송",飞虎之雷霆极战
+http://cfss.cc/api/yy/1382736869.m3u8
+#EXTINF:-1 tvg-name="战争大片3" group-title="중국방송",战争大片3
+http://cfss.cc/api/yy/1382735556.m3u8
+#EXTINF:-1 tvg-name="国外战争" group-title="중국방송",国外战争
+http://cfss.cc/api/yy/1382735571.m3u8
+#EXTINF:-1 tvg-name="外国战争大片" group-title="중국방송",外国战争大片
+http://cfss.cc/api/yy/1382736872.m3u8
+#EXTINF:-1 tvg-name="战争大片-国外电影" group-title="중국방송",战争大片-国外电影
+http://cfss.cc/api/yy/1382736857.m3u8
+#EXTINF:-1 tvg-name="珍珠港" group-title="중국방송",珍珠港
+http://cfss.cc/api/yy/1354936234.m3u8
+#EXTINF:-1 tvg-name="经典二战" group-title="중국방송",经典二战
+http://cfss.cc/api/yy/1354936238.m3u8
+#EXTINF:-1 tvg-name="宇宙护卫队--国漫" group-title="중국방송",宇宙护卫队--国漫
+http://cfss.cc/api/yy/1382736837.m3u8
+#EXTINF:-1 tvg-name="雷神系列" group-title="중국방송",雷神系列
+http://cfss.cc/api/yy/1354932441.m3u8
+#EXTINF:-1 tvg-name="国内科幻" group-title="중국방송",国内科幻
+http://cfss.cc/api/yy/1354936170.m3u8
+#EXTINF:-1 tvg-name="国内科幻电影" group-title="중국방송",国内科幻电影
+http://cfss.cc/api/yy/1354936221.m3u8
+#EXTINF:-1 tvg-name="脑洞大开的精彩科幻片" group-title="중국방송",脑洞大开的精彩科幻片
+http://cfss.cc/api/yy/1382736723.m3u8
+#EXTINF:-1 tvg-name="李连杰台" group-title="중국방송",李连杰台
+http://cfss.cc/api/yy/1459869766.m3u8
+#EXTINF:-1 tvg-name="洪金宝" group-title="중국방송",洪金宝
+http://file.dokor.cn:35455/huya/11279251
+#EXTINF:-1 tvg-name="李连杰" group-title="중국방송",李连杰
+http://file.dokor.cn:35455/huya/11342390
+#EXTINF:-1 tvg-name="成龙" group-title="중국방송",成龙
+http://file.dokor.cn:35455/huya/11342386
+#EXTINF:-1 tvg-name="周星驰" group-title="중국방송",周星驰
+http://file.dokor.cn:35455/huya/11342412
+#EXTINF:-1 tvg-name="吴京" group-title="중국방송",吴京
+http://file.dokor.cn:35455/huya/11602041
+#EXTINF:-1 tvg-name="甄子丹" group-title="중국방송",甄子丹
+http://file.dokor.cn:35455/huya/11352935
+#EXTINF:-1 tvg-name="刘德华" group-title="중국방송",刘德华
+http://file.dokor.cn:35455/huya/11342424
+#EXTINF:-1 tvg-name="邱淑贞" group-title="중국방송",邱淑贞
+http://file.dokor.cn:35455/huya/11352949
+#EXTINF:-1 tvg-name="周润发" group-title="중국방송",周润发
+http://file.dokor.cn:35455/huya/11342387
+#EXTINF:-1 tvg-name="周润发" group-title="중국방송",周润发
+http://file.dokor.cn:35455/huya/11342399
+#EXTINF:-1 tvg-name="林正英" group-title="중국방송",林正英
+http://file.dokor.cn:35455/huya/11342421
+#EXTINF:-1 tvg-name="王晶" group-title="중국방송",王晶
+http://file.dokor.cn:35455/huya/11602058
+#EXTINF:-1 tvg-name="强森" group-title="중국방송",强森
+http://file.dokor.cn:35455/huya/21059581
+#EXTINF:-1 tvg-name="斯坦森" group-title="중국방송",斯坦森
+http://file.dokor.cn:35455/huya/21059588
+#EXTINF:-1 tvg-name="鬼片恐怖片" group-title="중국방송",鬼片恐怖片
+http://cfss.cc/api/yy/1335509613.m3u8
+#EXTINF:-1 tvg-name="【神话】24小时循环播放" group-title="중국방송",【神话】24小时循环播放
+http://cfss.cc/api/yy/29067083.m3u8
+#EXTINF:-1 tvg-name="倚天屠龙记" group-title="중국방송",倚天屠龙记
+http://cfss.cc/api/yy/33300793.m3u8
+#EXTINF:-1 tvg-name="封神榜" group-title="중국방송",封神榜
+http://file.dokor.cn:35455/huya/29465849
+#EXTINF:-1 tvg-name="宋小宝春晚小品" group-title="중국방송",宋小宝春晚小品
+http://cfss.cc/api/yy/1382736866.m3u8
+#EXTINF:-1 tvg-name="鹿鼎记-陈小春版" group-title="중국방송",鹿鼎记-陈小春版
+http://cfss.cc/api/yy/1382736920.m3u8
+#EXTINF:-1 tvg-name="聊斋志异" group-title="중국방송",聊斋志异
+http://cfss.cc/api/yy/1382736975.m3u8
+#EXTINF:-1 tvg-name="飞虎之潜行极战" group-title="중국방송",飞虎之潜行极战
+http://cfss.cc/api/yy/1354932420.m3u8
+#EXTINF:-1 tvg-name="大唐双龙传" group-title="중국방송",大唐双龙传
+http://cfss.cc/api/yy/1354930979.m3u8
+#EXTINF:-1 tvg-name="西游记后传" group-title="중국방송",西游记后传
+http://cfss.cc/api/yy/1353392400.m3u8
+#EXTINF:-1 tvg-name="古惑仔全集" group-title="중국방송",古惑仔全集
+http://cfss.cc/api/yy/1460889796.m3u8
+#EXTINF:-1 tvg-name="易中天品三国" group-title="중국방송",易中天品三国
+http://cfss.cc/api/yy/1354931498.m3u8
+#EXTINF:-1 tvg-name="CCTV5" group-title="중국방송",CCTV5
+http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 tvg-name="CCTV5" group-title="중국방송",CCTV5
+http://198.204.228.26/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" group-title="중국방송",CCTV5+
+http://198.204.228.26/live/cctv5p.m3u8

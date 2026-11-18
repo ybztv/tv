@@ -18,6 +18,16 @@
       "path": "koreatvEPG.xml",
       "type": "raw",
       "source": "https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/main/koreatvEPG.xml"
+    },
+    {
+      "path": "ktv.json",
+      "type": "m3u_to_json",
+      "source": "https://raw.githubusercontent.com/krtv322/kortv/main/ktv.m3u"
+    },
+    {
+      "path": "koreatv.json",
+      "type": "raw",
+      "source": "https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/main/koreatv.json"
     }
   ]
 }

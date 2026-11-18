@@ -1,0 +1,30 @@
+name: Sync playlists
+
+on:
+  schedule:
+    # 每小时第 7 分钟跑一次（错开整点高峰，实际可能延迟 5～20 分钟）
+    - cron: '7 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-playlists
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run sync
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PYTHONIOENCODING: utf-8
+        run: |
+          python3 -V
+          python3 scripts/sync_playlists.py

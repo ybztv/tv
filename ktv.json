@@ -1,2423 +1,3230 @@
 [
 	{
-		"group": "한국방송",
+		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/KBS1.png",
 		"name": "KBS 1",
 		"title": "KBS 1",
 		"uris": [
 			"https://backup.760515.xyz/playlist/KBS1-playlist.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
+		"group": "한국-지상파",
 		"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",
 		"name": "KBS 2",
 		"title": "KBS 2",
 		"uris": [
 			"https://backup.760515.xyz/playlist/KBS2-playlist.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
+		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/SBS.png",
 		"name": "SBS",
 		"title": "SBS",
 		"uris": [
 			"http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
+		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/MBC.png",
 		"name": "MBC",
 		"title": "MBC",
 		"uris": [
 			"https://backup.760515.xyz/playlist/MBC-playlist.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "https://kenpark76.github.io/logo/MBN.png",
-		"name": "mbn",
-		"title": "mbn",
-		"uris": [
-			"https://noh-slb-samsung-fastcdn.uplus.co.kr/mbn.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=mbn.stream"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "https://i.imgur.com/62EwaCG.png",
-		"name": "TV Chosun",
-		"title": "TV Chosun",
-		"uris": [
-			"http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8?checkedby:iptvcat.com"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "https://kenpark76.github.io/logo/연합뉴스TV.png",
-		"name": "연합뉴스",
-		"title": "연합뉴스",
-		"uris": [
-			"https://tving-live-o2-skcdn.tving.com/o2/v1/019dd8deb9f5153d7865157cdbfbd6/019dd8df3d75153d7865157cdbfbd9/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MDY1MTE3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=Zk264AdGZWLF0pBuEZxAiXc0KHyMLLZFDqNgcS3DnHxm7P1IKAPC1KN~ejbdOHpBbO~TmuK2cREDOWzBaemRXVYjVRJ2YyQfH1vUbhTwrL-HBMBAi7OE-70yA7guBox2aVqcuJAK8DJWwsNxMp4MHaeLllCS0AP8HBen-7oLTGj~MJf3P~UzZc~ErqEmbSSEpQE9QNOVWrimwn9yZs4-eu7zNUZ9OYINUE~husm2PtsHpbxqqrQBNGdbyXu5c060NPRC4YXmvw7WeQZZQvcT5vDcbTC4zPONGHTaybxxXm2pwO~iN2FlZRRpzMhU1xfZdWmqtRUO3URVoJe6hfTZ-g__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "YTN",
-		"title": "YTN",
-		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019db80595b1153d7865047a0ccd/019db8091f9d153d7865047a0cd0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUwNjUxNTAsInBhdGgiOiIvbzIifQ.AF_1nM-EzcRYoAXj-6XtCqQdDGi1EQPCtQSBvxd-XfY"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "채널A",
-		"title": "채널A",
-		"uris": [
-			"https://tving-live-o2-skcdn.tving.com/o2/v1/019ed8854c2c1eb80e79cd7979dc2/019ed88d352d153d78653cb4bf7bdc/vc1_stream3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MDY1MTgxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=XJa4oClCHqRL0zLs8m67NWw4yRGBMo5Svh5ITxHUx2Er7DC7EJBD5OZDD~C5oQoEy7NN8xugwWaxp4ZlWFhjRPf3FL0IVsbGGgBNJOc4i58pT0gNbdkR8K2Qik103boLPKoeNilvLp5t-ZklyAtBUtBPq4VM7ebtgSFpHFXGi6D06UkoAvUqWOiNCh1Vzt~8z4mVQFWh2Mn4e7f7tAI~kRpgY5zJyNxaLORTgeJSgwtR6CyqUejh0Z5~7C8NuIGS7OpnqwKixBevwja7fmfxUtRADawqWAN2N-eRchF9FCllJqy95PF~XuFoxqT78XCsXzOPtfoz5fJyFGTqbi5hCA__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "https://iili.io/2UfQSCF.png",
-		"name": "tvN",
-		"title": "tvN",
-		"uris": [
-			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MDY1MjMyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=W8AAlHBZTJd815k7LckkxqQAI2lNjBqke4g9MdsWXc9gCzT4ET5KVrZQHEWoDdc8VgMFTqV5KMSBxCSLEw3Fbbbt4SzIGE6WO5EjzlwnXKPJkEKIAFNqd587l1-GmoB6VPFFE8ybNoer4yLGVbjBYjhBe~j4DQ~5FDNWzO4Z766hAmsbSEh-Q5Ij7fv2QFew95Lia013SI~oSlonDxVfw4m~ItrgnyZ9IVPYeQaW9KY4oZ32~swQc-V9JE5ZG8LG9BHceKArKehimnj3wdDOKvq1gTEeFyNOblqUmKKf3jiCtaQ6Xj79r38ErsNW3z7ymXbi5faVVK3AdGY2w1l7mA__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "jtbc",
-		"title": "jtbc",
-		"uris": [
-			"https://noh-slb-samsung-fastcdn.uplus.co.kr/jtbc.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=jtbc.strea"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "https://i.imgur.com/Ev5JoBJ.png",
-		"name": "TV Chosun 2 (720p)",
-		"title": "TV Chosun 2 (720p)",
-		"uris": [
-			"http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "MBN플러스",
-		"title": "MBN플러스",
-		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019db8dc792a1eb80e7942932b5c1/019dd8e25eab153d7865157cdbfbda/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUwNjUzMDcsInBhdGgiOiIvbzIifQ.xsJxE8BDw8RSNvYHFExjOfetOulTGDh0GxMEtJ-MINY"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "채널A플러스",
-		"title": "채널A플러스",
-		"uris": [
-			"https://tving-live-o2-skcdn.tving.com/o2/v1/019ed904d9651eb80e79cd7979dc5/019ed90583cd153d78653cb4bf7bdd/vc1_stream3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MDY1MzM4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=BO4yNofOBI77pUHOG2wDlJ7CsQMnjV2IgIF7T34giGSQgeKdphpXgup8hx1MbBI9D~bl9LH-FJYUKpPg8dlP2lluyO17plDG1uzHj~SJWUMAU18ihEYg5Xv02Z8-DrEA7ebcx807TaYYaos~1S5kJyVdhzN~5xuqC9NJTB1D7Iz2Ixp-NgcuYUcCXZ01W681kcb9gLgTEqMMidc2gTc4uu7gAT57mI6A6ouxnnrVdJt3nZ~YQTixUQiaK60qIYKg6oFJMzXn5v~rJGkF7rQGG2LpoAA0h1vwdf35QC13XHv-BO45YwcQKjg2QJvKXr5vO0BNAfb0vX8mWVMxN0kfqg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "mnet",
-		"title": "mnet",
-		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019d66afd810153d786553381d0e3/019d719c3005153d786553381d0f0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUwNjUzNzAsInBhdGgiOiIvbzIifQ.oFDjcZJtDWEcZg5N0vwTbTU5mgkVyudVNAsCaLhrWww"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "실버아이TV",
-		"title": "실버아이TV",
-		"uris": [
-			"http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "TV조선가요",
-		"title": "TV조선가요",
-		"uris": [
-			"http://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "조선방송",
-		"title": "조선방송",
-		"uris": [
-			"https://streamer.nknews.org/tvhls/stream.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/143.0.0.0 Safari/537.36&Referer=https://kcnawatch.org/"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "평양 FM 방송",
-		"title": "평양 FM 방송",
-		"uris": [
-			"https://listen7.myradio24.com/69366"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "https://kenpark76.github.io/logo/延边卫视.png",
-		"name": "延边卫视",
-		"title": "延边卫视",
-		"uris": [
-			"https://srs.iyb983.cn/video/CYS/index.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "https://kenpark76.github.io/logo/延边1台.png",
-		"name": "YBTV-1朝鲜语",
-		"title": "YBTV-1朝鲜语",
-		"uris": [
-			"https://srs.iyb983.cn/video/ybtv1/index.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "https://kenpark76.github.io/logo/延边2台.png",
-		"name": "YBTV-2",
-		"title": "YBTV-2",
-		"uris": [
-			"https://srs.iyb983.cn/video/ybtv2/index.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "CCTV4",
-		"title": "CCTV4",
-		"uris": [
-			"http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "CCTV13",
-		"title": "CCTV13",
-		"uris": [
-			"http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "http://i20.hunchun123.cn/fg_tu/img/video.jpg",
-		"name": "珲春新闻综合",
-		"title": "珲春新闻综合",
-		"uris": [
-			"http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "야인시대",
-		"title": "야인시대",
-		"uris": [
-			"https://jmp2.uk/stvp-KRBB42000061Z"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "나는 자연인이다",
-		"title": "나는 자연인이다",
-		"uris": [
-			"https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
+		"group": "한국-지상파",
 		"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png",
 		"name": "KBS Drama (480p)",
 		"title": "KBS Drama (480p)",
 		"uris": [
 			"http://koreatv.dothome.co.kr/kbsdrama.php"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
+		"group": "한국-지상파",
 		"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png",
 		"name": "kbsstory",
 		"title": "kbsstory",
 		"uris": [
 			"http://koreatv.dothome.co.kr/kbsstory.php"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
+		"group": "한국-지상파",
 		"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png",
 		"name": "KBS Joy (480p)",
 		"title": "KBS Joy (480p)",
 		"uris": [
 			"http://koreatv.dothome.co.kr/kbsjoy.php"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
+		"group": "한국-지상파",
 		"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png",
 		"name": "kbslife",
 		"title": "kbslife",
 		"uris": [
 			"http://koreatv.dothome.co.kr/kbslife.php"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "",
+		"group": "한국-지상파",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "mbcnet",
 		"title": "mbcnet",
 		"uris": [
 			"http://koreatv.dothome.co.kr/mbcnet.php"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "",
+		"group": "한국-지상파",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "MBC 드라마넷",
 		"title": "MBC 드라마넷",
 		"uris": [
 			"https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=6F11731F13F83234794A457C33B10E4065393EF5CE09327E3A209CaCB66E3206E6a0F3543562ED4440213E4121bD912C57586203184A9DB802C95464B505E623CCE70CB4A308FA181DBBA1C2A07883D80003BD392BE5A06574BF628B1C05A96820FF5C806AB3773516F990A3573C48A5DA88C42432D1B84ED483375B59DB5D3F&v=3"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "",
+		"group": "한국-지상파",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "MBC에브리원",
 		"title": "MBC에브리원",
 		"uris": [
 			"https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=66F11B1AD36F3BD4A84035B43F71494B453E38E51B00623536D0A6a2A67F3CD68Ba8033F32624441B04933F15EbA51F8E27F00142E531AA17E9DB1DCABB120EACE995371113D508F7F0ADC3ED1DA271C248D301B6F2CC527C6C93E38DE1BDCCC60DA16DD59E842931B05836C9D7F8DB5AB55B93DFEC9F98E21232394808077F6&v=3"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "",
+		"group": "한국-지상파",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "MBC M",
 		"title": "MBC M",
 		"uris": [
 			"https://mbcmottsd.imbc.com/plus_mbcm_sd/_definst_/mbcm_sd.stream/chunklist.m3u8?_lsu_sa_=67E1B514134C3334594345D534110349B5F73B453504124C3AF0B7aA66BF385610a3F34F3BD2BF4F30BF329145b7914A5CC49CA5C29CF48B346F49850F424DF34B9DCDBBA229E06A1C23F12ED3CB6DE2DF1099C794EDF22815E714A705A63BF8C0E62DBEDAA26C1B815DADD6EE82DE1B&v=3"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "",
+		"group": "한국-지상파",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "MBC ON",
 		"title": "MBC ON",
 		"uris": [
 			"http://43.164.132.11/kakaotv/get_channel.php?channel=mbc_on"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "https://kenpark76.github.io/logo/JTBC2.png",
-		"name": "JTBC2(고화질)",
-		"title": "JTBC2(고화질)",
-		"uris": [
-			"https://backup.760515.xyz/playlist/JTBC2-playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "https://kenpark76.github.io/logo/JTBC4.png",
-		"name": "JTBC4(고화질)",
-		"title": "JTBC4(고화질)",
-		"uris": [
-			"https://backup.760515.xyz/playlist/JTBC4-playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "한국영화",
-		"title": "한국영화",
-		"uris": [
-			"https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "인기영화",
-		"title": "인기영화",
-		"uris": [
-			"https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/572aa063-e822-4471-8b30-12e1cfc1aaac/0.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "https://i.imgur.com/PaQ7vhO.png",
-		"name": "라이프타임 (고화질)",
-		"title": "라이프타임 (고화질)",
-		"uris": [
-			"https://backup.760515.xyz/playlist/LIFETIME-playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "국회방송",
-		"title": "국회방송",
-		"uris": [
-			"https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "KFN",
-		"title": "KFN",
-		"uris": [
-			"http://mediaworks.dema.mil.kr/live_edge/cudo.sdp/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "중화TV",
-		"title": "중화TV",
-		"uris": [
-			"https://tving-live-o2-skcdn.tving.com/o2/v1/019ed3e5e210153d78653cb4bf7bd9/019ed3e6c4931eb80e79cd7979dc1/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MDY1OTM1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=Q058~ogoxSM-Hr6tiG8qkYHNcAy1wkewhk0sxfxf1icJeTN9nmDxWFte3CpjerzQhnc5Jpb1eEbAGsbFsb7b5K7wanL7-TxWWrIpsdRQYR3yAyVHaC0Q9ni52Yc9crHtORmd6gVmOE75eePlLZ4oX7iHivcQ7Vf755o-AEnEhcrsFGmzIPEalJtv8bcBez2M7sA70n~pPZ0USMC0G8dbRYv14vfc858yaYpYUIj9pSTd5t3Ht5s9CbdKX138cLH3NjWd2GfpbCrBqy-pu7h3WiyXYPcewRwGPjdjw7r7X03MoLb~fpk6w2slnN0e0TJIaHXWTs3iTbWo~r-b98Bgpg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "TVNDLAMA",
-		"title": "TVNDLAMA",
-		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019d663b5fa81eb80e796d9bd9ca6/019d6643c8aa153d786553381d0d3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUwNjU5NjcsInBhdGgiOiIvbzIifQ.ynaXErH9jxURbSqQ19oXNxB0DmAc7qnmhjCM8AVXV3c"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "TVN쇼",
-		"title": "TVN쇼",
-		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019d663468df153d786553381d0cf/019d663eb5471eb80e796d9bd9cac/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUwNjU5OTUsInBhdGgiOiIvbzIifQ.fwkqo0DZ2Bebm9DVcIAnlIWBzfAiM5Orp25nzi_Q2eM"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "TVN스토리",
-		"title": "TVN스토리",
-		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019d6bc0c1ac153d786553381d0e9/019d6bc4668b153d786553381d0ec/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUwNjYwMjAsInBhdGgiOiIvbzIifQ.LzEBvA2mOzSTc8VCgxS5p87v1SUPcxxKpILPRh-n6as"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "YTN2",
-		"title": "YTN2",
-		"uris": [
-			"https://tving-live-o2-skcdn.tving.com/o2/v1/0198ee7226d21eb80e7929b1a2cc44/0198ef058f1b1eb80e7929b1a2cc4a/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MDY2MDQ0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=gSttC5XdXYNPBFi-1OTW2JYOumwcYSx3md71CuXjfvY4kl0isPSzcdoHtJWMQKfjPvxofJOFJINoTamkSeS8ISk4rY7DooL1SKu7ubOHyazLpmcrWFEej3x8fmHWlW6IQA-lcYd~RJ2hrI0hPNVg3HiUqvVN9AMSqcY7PdfNapweJdHkmrSLhB5lWpJ6ueHY72iyHoIR9cu2qfZFgLXxcjM711UbuV4f7uwp3ITLYg02Bhb522hlsGX-ssgWmwdch2SJ1o6GuL8DW6kNcrzQm55QHF0yjrki4dcoDrVASKVTwLFlfs-rTQJVR3mRkSs4Xz~jg0o1tgVzrSYUd3aa1Q__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "히스토리",
-		"title": "히스토리",
-		"uris": [
-			"https://backup.760515.xyz/playlist/히스토리-playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
+		"group": "한국-지상파",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "KBSKids",
 		"title": "KBSKids",
 		"uris": [
 			"http://koreatv.dothome.co.kr/kbskids.php"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "투니버스",
-		"title": "투니버스",
-		"uris": [
-			"https://backup.760515.xyz/playlist/투니버스-playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "애니맥스 (고화질)",
-		"title": "애니맥스 (고화질)",
-		"uris": [
-			"https://backup.760515.xyz/playlist/애니맥스-playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "애니플러스 (고화질)",
-		"title": "애니플러스 (고화질)",
-		"uris": [
-			"https://backup.760515.xyz/playlist/ANIBOX-playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "EBS少儿",
-		"title": "EBS少儿",
-		"uris": [
-			"http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "베베핀 2",
-		"title": "베베핀 2",
-		"uris": [
-			"https://51b80d278dd84f5da8da8832f26a6e47.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qdes3yq6z566m/67bdceb4-7cbc-46d5-8d3c-dfa3fc93b48a/0.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "뽀요티비",
-		"title": "뽀요티비",
-		"uris": [
-			"https://c9f573a52b2044e9aeb263646dcdaaf5.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i91aqem27nh0w/8e4860ce-531e-497c-b50e-79517e000efe/1.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "코코비티비",
-		"title": "코코비티비",
-		"uris": [
-			"https://3226c0360554432fb870bb14c7a633ed.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bzo6omdamy3gm/f3b5800d-1000-426a-8136-44831115b35c/0.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "로보카폴리",
-		"title": "로보카폴리",
-		"uris": [
-			"https://6e26842ffb4d45488c9829ffedbd3a1e.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hk7cvudmr98ff/713bcecf-006e-4d35-a320-ba780451775f/0.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "반지의 비밀",
-		"title": "반지의 비밀",
-		"uris": [
-			"https://6e26842ffb4d45488c9829ffedbd3a1e.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xsznusvgu7e2n/cac8d5cb-bd9d-46d0-ad92-a90e16f8380f/0.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "내청코",
-		"title": "내청코",
-		"uris": [
-			"https://c6b2dfcfb865452bb7217ff20b9d7a23.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1tfdg9d2wd7d/0e3566f7-526d-42f6-8150-048dba7e830b/0.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "바오 패밀리",
-		"title": "바오 패밀리",
-		"uris": [
-			"https://700535da28924f3ba47aeb68bfb9f3ce.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1hzfoumjy9kvk/b4663e43-7fd6-46c6-ad6a-b844abe10f67/0.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "짱구",
-		"title": "짱구",
-		"uris": [
-			"https://cc-919i1gtrejym7.akamaized.net/00cfba45_9ef7_4a85_abcd_e5837ab46bb6/hls/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "韩·EBS-1",
-		"title": "韩·EBS-1",
-		"uris": [
-			"http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "韩·EBS-2",
-		"title": "韩·EBS-2",
-		"uris": [
-			"http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
+		"group": "한국-지상파",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "EBS+ 1 (400p)",
 		"title": "EBS+ 1 (400p)",
 		"uris": [
 			"http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "",
+		"group": "한국-지상파",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "EBS+ 2 (400p)",
 		"title": "EBS+ 2 (400p)",
 		"uris": [
 			"http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "韩国-EBSe",
-		"title": "韩国-EBSe",
-		"uris": [
-			"http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "tvn Sports",
-		"title": "tvn Sports",
-		"uris": [
-			"https://jmp2.uk/stvp-KRBC800015MH"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "ufc",
-		"title": "ufc",
-		"uris": [
-			"https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "PGA GOLF",
-		"title": "PGA GOLF",
-		"uris": [
-			"https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_271_77C0F5F4.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "http://tv.golfzon.com/Images/header/logo.png",
-		"name": "스크린골프존 (고화질)",
-		"title": "스크린골프존 (고화질)",
-		"uris": [
-			"https://jmp2.uk/stvp-KR44000010Y"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "j_golf",
-		"title": "j_golf",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=j_golf_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
+		"group": "한국-지상파",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "sbs_golf",
 		"title": "sbs_golf",
 		"uris": [
 			"http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=sbs_golf_replace_cookie"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "spotv_golf",
-		"title": "spotv_golf",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_golf_health_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "jtbc3",
-		"title": "jtbc3",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=jtbc3|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=jtbc3_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "spotv",
-		"title": "spotv",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=spotv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "spotv2",
-		"title": "spotv2",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=spotv2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv2_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
+		"group": "한국-지상파",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "kbs_n_sports",
 		"title": "kbs_n_sports",
 		"uris": [
 			"http://124.222.153.240/kakaotv/get_channel.php?channel=kbs_n_sports|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=kbs_n_sports_replace_cookie"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "",
+		"group": "한국-지상파",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "mbc_sports",
 		"title": "mbc_sports",
 		"uris": [
 			"http://124.222.153.240/kakaotv/get_channel.php?channel=mbc_sports|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=mbc_sports_replace_cookie"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "",
+		"group": "한국-지상파",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "sbs_sports",
 		"title": "sbs_sports",
 		"uris": [
 			"http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_sports|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=sbs_sports_replace_cookie"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "tvn_sports",
-		"title": "tvn_sports",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_sports|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=tvn_sports_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "sky_sports",
-		"title": "sky_sports",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=sky_sports|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=sky_sports_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "spotv_prime",
-		"title": "spotv_prime",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "spotv_prime2",
-		"title": "spotv_prime2",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime2_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "spotv_prime1",
-		"title": "spotv_prime1",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime1_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "ena",
-		"title": "ena",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=ena|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ena_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "ocn",
-		"title": "ocn",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=ocn|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ocn_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "ocn_movies2",
-		"title": "ocn_movies2",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ocn_movies2_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "ocn_movies",
-		"title": "ocn_movies",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ocn_movies_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "inet",
-		"title": "inet",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=inet|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=inet_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "ihq",
-		"title": "ihq",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=ihq|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ihq_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
+		"group": "한국-지상파",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "sbs_plus",
 		"title": "sbs_plus",
 		"uris": [
 			"http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=sbs_plus_cookie"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "nat_geo_wild",
-		"title": "nat_geo_wild",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=nat_geo_wild|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=nat_geo_wild_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "channel_e",
-		"title": "channel_e",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=channel_e|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=channel_e_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "낚시 TV",
-		"title": "낚시 TV",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=fishing_tv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=fishing_tv_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "바둑TV",
-		"title": "바둑TV",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=baduk_tv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=baduk_tv_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "빌리어즈TV",
-		"title": "빌리어즈TV",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=billiards_tv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=billiards_tv_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "브레인티비",
-		"title": "브레인티비",
-		"uris": [
-			"http://124.222.153.240/kakaotv/get_channel.php?channel=brain_tv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=brain_tv_replace_cookie"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "Channel E",
-		"title": "Channel E",
-		"uris": [
-			"http://1.201.160.177:1935/live/myStream/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "한국경제TV",
-		"title": "한국경제TV",
-		"uris": [
-			"http://cdnmlive.wowtv.co.kr/wowmo/livestream/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "매일경제TV",
-		"title": "매일경제TV",
-		"uris": [
-			"http://vodmmf.mbn.co.kr/mmoney/smil:money.smil/chunklist_b440000.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "서울경제",
-		"title": "서울경제",
-		"uris": [
-			"https://3fceda0143c84c19a85d78fcdc2227b3.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/3b82faa9-7041-45e1-a61b-5405b8f1c824/0.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "NIB 남인천방송",
-		"title": "NIB 남인천방송",
-		"uris": [
-			"http://stream.nibtv.co.kr:1935/live/nib/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "지방자치TV",
-		"title": "지방자치TV",
-		"uris": [
-			"https://jjctv.ecn.cdn.infralab.net/jjctv/live/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "ktv",
-		"title": "ktv",
-		"uris": [
-			"https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "kctv",
-		"title": "kctv",
-		"uris": [
-			"http://119.77.96.184:1935/chn05/chn05/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "ABN",
-		"title": "ABN",
-		"uris": [
-			"https://vod2.abn.co.kr/IPHONE/abn.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "BTV",
-		"title": "BTV",
-		"uris": [
-			"http://tbroad-233.live.wecandeo.com/live/7/233_high.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "https://i.imgur.com/7s6JtcU.png",
-		"name": "OUN (1080p)",
-		"title": "OUN (1080p)",
-		"uris": [
-			"https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "C채널",
-		"title": "C채널",
-		"uris": [
-			"http://112.175.51.214:1935/live/myStream/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "GOODTV",
-		"title": "GOODTV",
-		"uris": [
-			"http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "FGTV",
-		"title": "FGTV",
-		"uris": [
-			"https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "https://i.ibb.co/yPDhKBp/rutc-logo.jpg",
-		"name": "RUTC TV (720p)",
-		"title": "RUTC TV (720p)",
-		"uris": [
-			"http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "https://i.imgur.com/01UmXRe.png",
-		"name": "BBS Buddhist Broadcasting (1080p)",
-		"title": "BBS Buddhist Broadcasting (1080p)",
-		"uris": [
-			"http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "https://i.imgur.com/sOoS7RQ.png",
-		"name": "BTN TV (1080p)",
-		"title": "BTN TV (1080p)",
-		"uris": [
-			"https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "https://i.imgur.com/WsOfy19.png",
-		"name": "Lighting Lives Blessing Nations TV Korean (LLBN) (480p)",
-		"title": "Lighting Lives Blessing Nations TV Korean (LLBN) (480p)",
-		"uris": [
-			"https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "아리랑티비",
-		"title": "아리랑티비",
-		"uris": [
-			"https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "서경방송",
-		"title": "서경방송",
-		"uris": [
-			"https://live.iscs.co.kr/m_live/480p.stream/chunklist_w435655614.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "콩콩팥팥",
-		"title": "콩콩팥팥",
-		"uris": [
-			"https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_237_CB945FED.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "맛잇는 녀석들",
-		"title": "맛잇는 녀석들",
-		"uris": [
-			"https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "도시어부",
-		"title": "도시어부",
-		"uris": [
-			"https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "백반기행",
-		"title": "백반기행",
-		"uris": [
-			"https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
+		"group": "한국-지상파",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "SBS 그것이 알고싶다 정주행",
 		"title": "SBS 그것이 알고싶다 정주행",
 		"uris": [
 			"https://dm72lx2w7znja.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-658a8vltn9ut6-prod/hls-harvester2-1293-prod/us-east-1/cc-658a8vltn9ut6/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "",
+		"group": "한국-지상파",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "SBS 닥터스 정주행",
 		"title": "SBS 닥터스 정주행",
 		"uris": [
 			"https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "",
+		"group": "한국-지상파",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "SBS 동상이몽2 - 너는 내 운명 정주행",
 		"title": "SBS 동상이몽2 - 너는 내 운명 정주행",
 		"uris": [
 			"https://d303zg8wpbocww.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-57imp9bv8y60f-prod/hls-harvester2-1293-prod/us-east-1/cc-57imp9bv8y60f/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "예능 정주행",
-		"title": "예능 정주행",
-		"uris": [
-			"https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "유퀴즈 정주행",
-		"title": "유퀴즈 정주행",
-		"uris": [
-			"https://d1b5tp3hl2116g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2rfe99i08oi6n-ssai-prd/f6c8175c_eca8_4094_8df9_82ecf707a5aa/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200027ED"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "",
-		"name": "한식대첩 정주행",
-		"title": "한식대첩 정주행",
-		"uris": [
-			"https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200014XZ"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "http://epg.51zmt.top:8000/tb1/gt/tvN.png",
-		"name": "「韩国」tvN1",
-		"title": "「韩国」tvN1",
-		"uris": [
-			"https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "http://epg.51zmt.top:8000/tb1/gt/tvN.png",
-		"name": "「韩国」tvN2",
-		"title": "「韩国」tvN2",
-		"uris": [
-			"https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC32000191N_20220824T022436.png",
-		"name": "Mnet 스트릿 우먼 파이터",
-		"title": "Mnet 스트릿 우먼 파이터",
-		"uris": [
-			"https://d35dv31kxp3bol.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oc5lbsxrbmd0d-ssai-prd/f9d55b7b_6be1_465e_9451_05ebac892aed/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000191N"
-		]
-	},
-	{
-		"group": "한국방송",
+		"group": "한국-지상파",
 		"logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/58/KRBB4200005CK_20220329T055233.png",
 		"name": "SBS 순옥명작관",
 		"title": "SBS 순옥명작관",
 		"uris": [
 			"https://d1ye6lj5le5dh0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ert8sa2q2i3fz-prod/hls-harvester2-1293-prod/us-east-1/cc-ert8sa2q2i3fz/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
+		"group": "한국-지상파",
 		"logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBB42000061Z_20220824T102035.png",
 		"name": "SBS 낭만닥터 김사부2",
 		"title": "SBS 낭만닥터 김사부2",
 		"uris": [
 			"https://d2yx6lvhcftzo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3dcxhnnfoe8vt-prod/hls-harvester2-1293-prod/us-east-1/cc-3dcxhnnfoe8vt/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200032ZM_20220824T022456.png",
-		"name": "tvN 라이브",
-		"title": "tvN 라이브",
-		"uris": [
-			"https://d1ttfbptd053sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m5y15fbf80yi9-ssai-prd/151248c2_45a2_45a5_a31f_bb9fc72969dd/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200032ZM"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200025QG_20220824T022521.png",
-		"name": "tvN 톱스타 유백이",
-		"title": "tvN 톱스타 유백이",
-		"uris": [
-			"https://d1zto4uvqkznpl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e02jwpz12nm4y-ssai-prd/a8dbe12b_5883_496b_8f6e_c56ef91558c5/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200025QG"
-		]
-	},
-	{
-		"group": "한국방송",
+		"group": "한국-지상파",
 		"logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/KRBB4200003ZL_20220413T005115.png",
 		"name": "SBS 미운 우리 새끼",
 		"title": "SBS 미운 우리 새끼",
 		"uris": [
 			"https://d2h2h4q3zieeav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49nq9623vilm8-prod/hls-harvester2-1293-prod/us-east-1/cc-49nq9623vilm8/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
+		"group": "한국-지상파",
 		"logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/96/KRBB4200011RB_20220712T041402.png",
 		"name": "SBS 백종원의 골목식당",
 		"title": "SBS 백종원의 골목식당",
 		"uris": [
 			"https://d2riuzghn0kt92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-et8hq9b8jg99x-prod/hls-harvester2-1293-prod/us-east-1/cc-et8hq9b8jg99x/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
-		"logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200028P2_20220824T022504.png",
-		"name": "tvN 수미네 반찬(1-12회)",
-		"title": "tvN 수미네 반찬(1-12회)",
-		"uris": [
-			"https://d2chiell4gvxfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-obcwj7uic0zcf-ssai-prd/83cd3a28_879e_4f2e_9ac4_b21dc7cad4c8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200028P2"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200029C4_20220824T022515.png",
-		"name": "tvN 유퀴즈온더블럭(33-52회)",
-		"title": "tvN 유퀴즈온더블럭(33-52회)",
-		"uris": [
-			"https://d3ductxks3ekko.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ytzhd9pym4uuw-ssai-prd/16ae5fb5_3043_4e9f_8d68_f360848e1c46/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200029C4"
-		]
-	},
-	{
-		"group": "한국방송",
-		"logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200031KO_20220824T022519.png",
-		"name": "tvN 코미디빅리그(366-377회)",
-		"title": "tvN 코미디빅리그(366-377회)",
-		"uris": [
-			"https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200031KO"
-		]
-	},
-	{
-		"group": "한국방송",
+		"group": "한국-지상파",
 		"logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/61/KRBB4200013L5_20220413T005132.png",
 		"name": "SBS 순간포착 세상에 이런일이",
 		"title": "SBS 순간포착 세상에 이런일이",
 		"uris": [
 			"https://dp3r8qzh7xgdp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ua8hvwhk9ajic-prod/hls-harvester2-1293-prod/us-east-1/cc-ua8hvwhk9ajic/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
+		"group": "한국-지상파",
 		"logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/13/KRBB4200016TZ_20220413T005136.png",
 		"name": "SBS 스페셜",
 		"title": "SBS 스페셜",
 		"uris": [
 			"https://d9elvao5pl5dr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l3cinzxwxwpnp-prod/hls-harvester2-1293-prod/us-east-1/cc-l3cinzxwxwpnp/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "한국방송",
+		"group": "한국-지상파",
 		"logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/82/KRBB4200018FT_20220413T005128.png",
 		"name": "SBS 생활의 달인",
 		"title": "SBS 생활의 달인",
 		"uris": [
 			"https://dgjj0tcconmvk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ejefxdqh8872z-prod/hls-harvester2-1293-prod/us-east-1/cc-ejefxdqh8872z/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "한국-종합편성",
+		"logo": "https://kenpark76.github.io/logo/MBN.png",
+		"name": "mbn",
+		"title": "mbn",
+		"uris": [
+			"https://noh-slb-samsung-fastcdn.uplus.co.kr/mbn.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=mbn.stream"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://i.imgur.com/62EwaCG.png",
+		"name": "TV Chosun",
+		"title": "TV Chosun",
+		"uris": [
+			"http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8?checkedby:iptvcat.com"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://kenpark76.github.io/logo/연합뉴스TV.png",
+		"name": "연합뉴스",
+		"title": "연합뉴스",
+		"uris": [
+			"https://tving-live-o2-skcdn.tving.com/o2/v1/019dd8deb9f5153d7865157cdbfbd6/019dd8df3d75153d7865157cdbfbd9/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MDY1MTE3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=Zk264AdGZWLF0pBuEZxAiXc0KHyMLLZFDqNgcS3DnHxm7P1IKAPC1KN~ejbdOHpBbO~TmuK2cREDOWzBaemRXVYjVRJ2YyQfH1vUbhTwrL-HBMBAi7OE-70yA7guBox2aVqcuJAK8DJWwsNxMp4MHaeLllCS0AP8HBen-7oLTGj~MJf3P~UzZc~ErqEmbSSEpQE9QNOVWrimwn9yZs4-eu7zNUZ9OYINUE~husm2PtsHpbxqqrQBNGdbyXu5c060NPRC4YXmvw7WeQZZQvcT5vDcbTC4zPONGHTaybxxXm2pwO~iN2FlZRRpzMhU1xfZdWmqtRUO3URVoJe6hfTZ-g__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "YTN",
+		"title": "YTN",
+		"uris": [
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/019db80595b1153d7865047a0ccd/019db8091f9d153d7865047a0cd0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUwNjUxNTAsInBhdGgiOiIvbzIifQ.AF_1nM-EzcRYoAXj-6XtCqQdDGi1EQPCtQSBvxd-XfY"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "채널A",
+		"title": "채널A",
+		"uris": [
+			"https://tving-live-o2-skcdn.tving.com/o2/v1/019ed8854c2c1eb80e79cd7979dc2/019ed88d352d153d78653cb4bf7bdc/vc1_stream3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MDY1MTgxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=XJa4oClCHqRL0zLs8m67NWw4yRGBMo5Svh5ITxHUx2Er7DC7EJBD5OZDD~C5oQoEy7NN8xugwWaxp4ZlWFhjRPf3FL0IVsbGGgBNJOc4i58pT0gNbdkR8K2Qik103boLPKoeNilvLp5t-ZklyAtBUtBPq4VM7ebtgSFpHFXGi6D06UkoAvUqWOiNCh1Vzt~8z4mVQFWh2Mn4e7f7tAI~kRpgY5zJyNxaLORTgeJSgwtR6CyqUejh0Z5~7C8NuIGS7OpnqwKixBevwja7fmfxUtRADawqWAN2N-eRchF9FCllJqy95PF~XuFoxqT78XCsXzOPtfoz5fJyFGTqbi5hCA__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://iili.io/2UfQSCF.png",
+		"name": "tvN",
+		"title": "tvN",
+		"uris": [
+			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MDY1MjMyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=W8AAlHBZTJd815k7LckkxqQAI2lNjBqke4g9MdsWXc9gCzT4ET5KVrZQHEWoDdc8VgMFTqV5KMSBxCSLEw3Fbbbt4SzIGE6WO5EjzlwnXKPJkEKIAFNqd587l1-GmoB6VPFFE8ybNoer4yLGVbjBYjhBe~j4DQ~5FDNWzO4Z766hAmsbSEh-Q5Ij7fv2QFew95Lia013SI~oSlonDxVfw4m~ItrgnyZ9IVPYeQaW9KY4oZ32~swQc-V9JE5ZG8LG9BHceKArKehimnj3wdDOKvq1gTEeFyNOblqUmKKf3jiCtaQ6Xj79r38ErsNW3z7ymXbi5faVVK3AdGY2w1l7mA__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "jtbc",
+		"title": "jtbc",
+		"uris": [
+			"https://noh-slb-samsung-fastcdn.uplus.co.kr/jtbc.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=jtbc.strea"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://i.imgur.com/Ev5JoBJ.png",
+		"name": "TV Chosun 2 (720p)",
+		"title": "TV Chosun 2 (720p)",
+		"uris": [
+			"http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "MBN플러스",
+		"title": "MBN플러스",
+		"uris": [
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/019db8dc792a1eb80e7942932b5c1/019dd8e25eab153d7865157cdbfbda/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUwNjUzMDcsInBhdGgiOiIvbzIifQ.xsJxE8BDw8RSNvYHFExjOfetOulTGDh0GxMEtJ-MINY"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "채널A플러스",
+		"title": "채널A플러스",
+		"uris": [
+			"https://tving-live-o2-skcdn.tving.com/o2/v1/019ed904d9651eb80e79cd7979dc5/019ed90583cd153d78653cb4bf7bdd/vc1_stream3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MDY1MzM4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=BO4yNofOBI77pUHOG2wDlJ7CsQMnjV2IgIF7T34giGSQgeKdphpXgup8hx1MbBI9D~bl9LH-FJYUKpPg8dlP2lluyO17plDG1uzHj~SJWUMAU18ihEYg5Xv02Z8-DrEA7ebcx807TaYYaos~1S5kJyVdhzN~5xuqC9NJTB1D7Iz2Ixp-NgcuYUcCXZ01W681kcb9gLgTEqMMidc2gTc4uu7gAT57mI6A6ouxnnrVdJt3nZ~YQTixUQiaK60qIYKg6oFJMzXn5v~rJGkF7rQGG2LpoAA0h1vwdf35QC13XHv-BO45YwcQKjg2QJvKXr5vO0BNAfb0vX8mWVMxN0kfqg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "mnet",
+		"title": "mnet",
+		"uris": [
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/019d66afd810153d786553381d0e3/019d719c3005153d786553381d0f0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUwNjUzNzAsInBhdGgiOiIvbzIifQ.oFDjcZJtDWEcZg5N0vwTbTU5mgkVyudVNAsCaLhrWww"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "TV조선가요",
+		"title": "TV조선가요",
+		"uris": [
+			"http://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "조선방송",
+		"title": "조선방송",
+		"uris": [
+			"https://streamer.nknews.org/tvhls/stream.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/143.0.0.0 Safari/537.36&Referer=https://kcnawatch.org/"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://kenpark76.github.io/logo/JTBC2.png",
+		"name": "JTBC2(고화질)",
+		"title": "JTBC2(고화질)",
+		"uris": [
+			"https://backup.760515.xyz/playlist/JTBC2-playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://kenpark76.github.io/logo/JTBC4.png",
+		"name": "JTBC4(고화질)",
+		"title": "JTBC4(고화질)",
+		"uris": [
+			"https://backup.760515.xyz/playlist/JTBC4-playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "중화TV",
+		"title": "중화TV",
+		"uris": [
+			"https://tving-live-o2-skcdn.tving.com/o2/v1/019ed3e5e210153d78653cb4bf7bd9/019ed3e6c4931eb80e79cd7979dc1/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MDY1OTM1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=Q058~ogoxSM-Hr6tiG8qkYHNcAy1wkewhk0sxfxf1icJeTN9nmDxWFte3CpjerzQhnc5Jpb1eEbAGsbFsb7b5K7wanL7-TxWWrIpsdRQYR3yAyVHaC0Q9ni52Yc9crHtORmd6gVmOE75eePlLZ4oX7iHivcQ7Vf755o-AEnEhcrsFGmzIPEalJtv8bcBez2M7sA70n~pPZ0USMC0G8dbRYv14vfc858yaYpYUIj9pSTd5t3Ht5s9CbdKX138cLH3NjWd2GfpbCrBqy-pu7h3WiyXYPcewRwGPjdjw7r7X03MoLb~fpk6w2slnN0e0TJIaHXWTs3iTbWo~r-b98Bgpg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "TVNDLAMA",
+		"title": "TVNDLAMA",
+		"uris": [
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/019d663b5fa81eb80e796d9bd9ca6/019d6643c8aa153d786553381d0d3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUwNjU5NjcsInBhdGgiOiIvbzIifQ.ynaXErH9jxURbSqQ19oXNxB0DmAc7qnmhjCM8AVXV3c"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "TVN쇼",
+		"title": "TVN쇼",
+		"uris": [
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/019d663468df153d786553381d0cf/019d663eb5471eb80e796d9bd9cac/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUwNjU5OTUsInBhdGgiOiIvbzIifQ.fwkqo0DZ2Bebm9DVcIAnlIWBzfAiM5Orp25nzi_Q2eM"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "TVN스토리",
+		"title": "TVN스토리",
+		"uris": [
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/019d6bc0c1ac153d786553381d0e9/019d6bc4668b153d786553381d0ec/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUwNjYwMjAsInBhdGgiOiIvbzIifQ.LzEBvA2mOzSTc8VCgxS5p87v1SUPcxxKpILPRh-n6as"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "YTN2",
+		"title": "YTN2",
+		"uris": [
+			"https://tving-live-o2-skcdn.tving.com/o2/v1/0198ee7226d21eb80e7929b1a2cc44/0198ef058f1b1eb80e7929b1a2cc4a/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MDY2MDQ0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=gSttC5XdXYNPBFi-1OTW2JYOumwcYSx3md71CuXjfvY4kl0isPSzcdoHtJWMQKfjPvxofJOFJINoTamkSeS8ISk4rY7DooL1SKu7ubOHyazLpmcrWFEej3x8fmHWlW6IQA-lcYd~RJ2hrI0hPNVg3HiUqvVN9AMSqcY7PdfNapweJdHkmrSLhB5lWpJ6ueHY72iyHoIR9cu2qfZFgLXxcjM711UbuV4f7uwp3ITLYg02Bhb522hlsGX-ssgWmwdch2SJ1o6GuL8DW6kNcrzQm55QHF0yjrki4dcoDrVASKVTwLFlfs-rTQJVR3mRkSs4Xz~jg0o1tgVzrSYUd3aa1Q__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "히스토리",
+		"title": "히스토리",
+		"uris": [
+			"https://backup.760515.xyz/playlist/히스토리-playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "투니버스",
+		"title": "투니버스",
+		"uris": [
+			"https://backup.760515.xyz/playlist/투니버스-playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "tvn Sports",
+		"title": "tvn Sports",
+		"uris": [
+			"https://jmp2.uk/stvp-KRBC800015MH"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "jtbc3",
+		"title": "jtbc3",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=jtbc3|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=jtbc3_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "tvn_sports",
+		"title": "tvn_sports",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_sports|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=tvn_sports_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200032ZM_20220824T022456.png",
+		"name": "tvN 라이브",
+		"title": "tvN 라이브",
+		"uris": [
+			"https://d1ttfbptd053sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m5y15fbf80yi9-ssai-prd/151248c2_45a2_45a5_a31f_bb9fc72969dd/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200032ZM"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200025QG_20220824T022521.png",
+		"name": "tvN 톱스타 유백이",
+		"title": "tvN 톱스타 유백이",
+		"uris": [
+			"https://d1zto4uvqkznpl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e02jwpz12nm4y-ssai-prd/a8dbe12b_5883_496b_8f6e_c56ef91558c5/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200025QG"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200028P2_20220824T022504.png",
+		"name": "tvN 수미네 반찬(1-12회)",
+		"title": "tvN 수미네 반찬(1-12회)",
+		"uris": [
+			"https://d2chiell4gvxfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-obcwj7uic0zcf-ssai-prd/83cd3a28_879e_4f2e_9ac4_b21dc7cad4c8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200028P2"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200029C4_20220824T022515.png",
+		"name": "tvN 유퀴즈온더블럭(33-52회)",
+		"title": "tvN 유퀴즈온더블럭(33-52회)",
+		"uris": [
+			"https://d3ductxks3ekko.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ytzhd9pym4uuw-ssai-prd/16ae5fb5_3043_4e9f_8d68_f360848e1c46/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200029C4"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200031KO_20220824T022519.png",
+		"name": "tvN 코미디빅리그(366-377회)",
+		"title": "tvN 코미디빅리그(366-377회)",
+		"uris": [
+			"https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200031KO"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "실버아이TV",
+		"title": "실버아이TV",
+		"uris": [
+			"http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "평양 FM 방송",
+		"title": "평양 FM 방송",
+		"uris": [
+			"https://listen7.myradio24.com/69366"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://kenpark76.github.io/logo/延边2台.png",
+		"name": "YBTV-2",
+		"title": "YBTV-2",
+		"uris": [
+			"https://srs.iyb983.cn/video/ybtv2/index.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "야인시대",
+		"title": "야인시대",
+		"uris": [
+			"https://jmp2.uk/stvp-KRBB42000061Z"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "나는 자연인이다",
+		"title": "나는 자연인이다",
+		"uris": [
+			"https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "한국영화",
+		"title": "한국영화",
+		"uris": [
+			"https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "인기영화",
+		"title": "인기영화",
+		"uris": [
+			"https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/572aa063-e822-4471-8b30-12e1cfc1aaac/0.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://i.imgur.com/PaQ7vhO.png",
+		"name": "라이프타임 (고화질)",
+		"title": "라이프타임 (고화질)",
+		"uris": [
+			"https://backup.760515.xyz/playlist/LIFETIME-playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "국회방송",
+		"title": "국회방송",
+		"uris": [
+			"https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "KFN",
+		"title": "KFN",
+		"uris": [
+			"http://mediaworks.dema.mil.kr/live_edge/cudo.sdp/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "애니맥스 (고화질)",
+		"title": "애니맥스 (고화질)",
+		"uris": [
+			"https://backup.760515.xyz/playlist/애니맥스-playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "애니플러스 (고화질)",
+		"title": "애니플러스 (고화질)",
+		"uris": [
+			"https://backup.760515.xyz/playlist/ANIBOX-playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "베베핀 2",
+		"title": "베베핀 2",
+		"uris": [
+			"https://51b80d278dd84f5da8da8832f26a6e47.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qdes3yq6z566m/67bdceb4-7cbc-46d5-8d3c-dfa3fc93b48a/0.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "뽀요티비",
+		"title": "뽀요티비",
+		"uris": [
+			"https://c9f573a52b2044e9aeb263646dcdaaf5.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i91aqem27nh0w/8e4860ce-531e-497c-b50e-79517e000efe/1.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "코코비티비",
+		"title": "코코비티비",
+		"uris": [
+			"https://3226c0360554432fb870bb14c7a633ed.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bzo6omdamy3gm/f3b5800d-1000-426a-8136-44831115b35c/0.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "로보카폴리",
+		"title": "로보카폴리",
+		"uris": [
+			"https://6e26842ffb4d45488c9829ffedbd3a1e.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hk7cvudmr98ff/713bcecf-006e-4d35-a320-ba780451775f/0.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "반지의 비밀",
+		"title": "반지의 비밀",
+		"uris": [
+			"https://6e26842ffb4d45488c9829ffedbd3a1e.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xsznusvgu7e2n/cac8d5cb-bd9d-46d0-ad92-a90e16f8380f/0.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "내청코",
+		"title": "내청코",
+		"uris": [
+			"https://c6b2dfcfb865452bb7217ff20b9d7a23.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1tfdg9d2wd7d/0e3566f7-526d-42f6-8150-048dba7e830b/0.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "바오 패밀리",
+		"title": "바오 패밀리",
+		"uris": [
+			"https://700535da28924f3ba47aeb68bfb9f3ce.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1hzfoumjy9kvk/b4663e43-7fd6-46c6-ad6a-b844abe10f67/0.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "짱구",
+		"title": "짱구",
+		"uris": [
+			"https://cc-919i1gtrejym7.akamaized.net/00cfba45_9ef7_4a85_abcd_e5837ab46bb6/hls/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "ufc",
+		"title": "ufc",
+		"uris": [
+			"https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "PGA GOLF",
+		"title": "PGA GOLF",
+		"uris": [
+			"https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_271_77C0F5F4.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "http://tv.golfzon.com/Images/header/logo.png",
+		"name": "스크린골프존 (고화질)",
+		"title": "스크린골프존 (고화질)",
+		"uris": [
+			"https://jmp2.uk/stvp-KR44000010Y"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "j_golf",
+		"title": "j_golf",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=j_golf_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "spotv_golf",
+		"title": "spotv_golf",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_golf_health_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "spotv",
+		"title": "spotv",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=spotv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "spotv2",
+		"title": "spotv2",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=spotv2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv2_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "sky_sports",
+		"title": "sky_sports",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=sky_sports|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=sky_sports_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "spotv_prime",
+		"title": "spotv_prime",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "spotv_prime2",
+		"title": "spotv_prime2",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime2_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "spotv_prime1",
+		"title": "spotv_prime1",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime1_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "ena",
+		"title": "ena",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=ena|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ena_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "ocn",
+		"title": "ocn",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=ocn|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ocn_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "ocn_movies2",
+		"title": "ocn_movies2",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ocn_movies2_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "ocn_movies",
+		"title": "ocn_movies",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ocn_movies_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "inet",
+		"title": "inet",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=inet|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=inet_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "ihq",
+		"title": "ihq",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=ihq|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ihq_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "nat_geo_wild",
+		"title": "nat_geo_wild",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=nat_geo_wild|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=nat_geo_wild_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "channel_e",
+		"title": "channel_e",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=channel_e|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=channel_e_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "낚시 TV",
+		"title": "낚시 TV",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=fishing_tv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=fishing_tv_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "바둑TV",
+		"title": "바둑TV",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=baduk_tv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=baduk_tv_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "빌리어즈TV",
+		"title": "빌리어즈TV",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=billiards_tv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=billiards_tv_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "브레인티비",
+		"title": "브레인티비",
+		"uris": [
+			"http://124.222.153.240/kakaotv/get_channel.php?channel=brain_tv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=brain_tv_replace_cookie"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "Channel E",
+		"title": "Channel E",
+		"uris": [
+			"http://1.201.160.177:1935/live/myStream/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "한국경제TV",
+		"title": "한국경제TV",
+		"uris": [
+			"http://cdnmlive.wowtv.co.kr/wowmo/livestream/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "매일경제TV",
+		"title": "매일경제TV",
+		"uris": [
+			"http://vodmmf.mbn.co.kr/mmoney/smil:money.smil/chunklist_b440000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "서울경제",
+		"title": "서울경제",
+		"uris": [
+			"https://3fceda0143c84c19a85d78fcdc2227b3.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/3b82faa9-7041-45e1-a61b-5405b8f1c824/0.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "NIB 남인천방송",
+		"title": "NIB 남인천방송",
+		"uris": [
+			"http://stream.nibtv.co.kr:1935/live/nib/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "지방자치TV",
+		"title": "지방자치TV",
+		"uris": [
+			"https://jjctv.ecn.cdn.infralab.net/jjctv/live/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "ktv",
+		"title": "ktv",
+		"uris": [
+			"https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "kctv",
+		"title": "kctv",
+		"uris": [
+			"http://119.77.96.184:1935/chn05/chn05/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "ABN",
+		"title": "ABN",
+		"uris": [
+			"https://vod2.abn.co.kr/IPHONE/abn.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "BTV",
+		"title": "BTV",
+		"uris": [
+			"http://tbroad-233.live.wecandeo.com/live/7/233_high.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://i.imgur.com/7s6JtcU.png",
+		"name": "OUN (1080p)",
+		"title": "OUN (1080p)",
+		"uris": [
+			"https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "C채널",
+		"title": "C채널",
+		"uris": [
+			"http://112.175.51.214:1935/live/myStream/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "GOODTV",
+		"title": "GOODTV",
+		"uris": [
+			"http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "FGTV",
+		"title": "FGTV",
+		"uris": [
+			"https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://i.ibb.co/yPDhKBp/rutc-logo.jpg",
+		"name": "RUTC TV (720p)",
+		"title": "RUTC TV (720p)",
+		"uris": [
+			"http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://i.imgur.com/01UmXRe.png",
+		"name": "BBS Buddhist Broadcasting (1080p)",
+		"title": "BBS Buddhist Broadcasting (1080p)",
+		"uris": [
+			"http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://i.imgur.com/sOoS7RQ.png",
+		"name": "BTN TV (1080p)",
+		"title": "BTN TV (1080p)",
+		"uris": [
+			"https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://i.imgur.com/WsOfy19.png",
+		"name": "Lighting Lives Blessing Nations TV Korean (LLBN) (480p)",
+		"title": "Lighting Lives Blessing Nations TV Korean (LLBN) (480p)",
+		"uris": [
+			"https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "아리랑티비",
+		"title": "아리랑티비",
+		"uris": [
+			"https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "서경방송",
+		"title": "서경방송",
+		"uris": [
+			"https://live.iscs.co.kr/m_live/480p.stream/chunklist_w435655614.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "콩콩팥팥",
+		"title": "콩콩팥팥",
+		"uris": [
+			"https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_237_CB945FED.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "맛잇는 녀석들",
+		"title": "맛잇는 녀석들",
+		"uris": [
+			"https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "도시어부",
+		"title": "도시어부",
+		"uris": [
+			"https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "백반기행",
+		"title": "백반기행",
+		"uris": [
+			"https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "예능 정주행",
+		"title": "예능 정주행",
+		"uris": [
+			"https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "유퀴즈 정주행",
+		"title": "유퀴즈 정주행",
+		"uris": [
+			"https://d1b5tp3hl2116g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2rfe99i08oi6n-ssai-prd/f6c8175c_eca8_4094_8df9_82ecf707a5aa/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200027ED"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "한식대첩 정주행",
+		"title": "한식대첩 정주행",
+		"uris": [
+			"https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200014XZ"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC32000191N_20220824T022436.png",
+		"name": "Mnet 스트릿 우먼 파이터",
+		"title": "Mnet 스트릿 우먼 파이터",
+		"uris": [
+			"https://d35dv31kxp3bol.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oc5lbsxrbmd0d-ssai-prd/f9d55b7b_6be1_465e_9451_05ebac892aed/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000191N"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "CCTV4",
+		"title": "CCTV4",
+		"uris": [
+			"http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "CCTV13",
+		"title": "CCTV13",
+		"uris": [
+			"http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV1",
 		"title": "CCTV1",
 		"uris": [
 			"http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV2",
 		"title": "CCTV2",
 		"uris": [
 			"http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV3",
 		"title": "CCTV3",
 		"uris": [
 			"http://74.91.26.218:82/live/cctv3hd.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV4",
 		"title": "CCTV4",
 		"uris": [
 			"http://74.91.26.218:82/live/cctv4hd.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV5",
 		"title": "CCTV5",
 		"uris": [
 			"http://107.150.60.122/live/cctv5hd.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV5",
 		"title": "CCTV5",
 		"uris": [
 			"http://120.70.60.179:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV5",
 		"title": "CCTV5",
 		"uris": [
 			"http://gaoyitv.6600.org:9901/tsfile/live/faacts/0005_1.m3u8?key=txiptv&playlive=1&authid=0"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV5",
 		"title": "CCTV5",
 		"uris": [
 			"http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV5+",
 		"title": "CCTV5+",
 		"uris": [
 			"http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV5+",
 		"title": "CCTV5+",
 		"uris": [
 			"http://107.150.60.122/live/cctv5p.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV6",
 		"title": "CCTV6",
 		"uris": [
 			"http://74.91.26.218:82/live/cctv6hd.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV7",
 		"title": "CCTV7",
 		"uris": [
 			"http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV8",
 		"title": "CCTV8",
 		"uris": [
 			"http://74.91.26.218:82/live/cctv8hd.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV9",
 		"title": "CCTV9",
 		"uris": [
 			"http://74.91.26.218:82/live/cctv9hd.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV10",
 		"title": "CCTV10",
 		"uris": [
 			"http://74.91.26.218:82/live/cctv10hd.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV11",
 		"title": "CCTV11",
 		"uris": [
 			"http://74.91.26.218:82/live/cctv11hd.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV12",
 		"title": "CCTV12",
 		"uris": [
 			"http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV13",
 		"title": "CCTV13",
 		"uris": [
 			"http://74.91.26.218:82/live/cctv13hd.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV14",
 		"title": "CCTV14",
 		"uris": [
 			"http://74.91.26.218:82/live/cctv14hd.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV15",
 		"title": "CCTV15",
 		"uris": [
 			"http://74.91.26.218:82/live/cctv15hd.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV16",
 		"title": "CCTV16",
 		"uris": [
 			"http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV17",
 		"title": "CCTV17",
 		"uris": [
 			"http://74.91.26.218:82/live/cctv17hd.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV风云足球",
 		"title": "CCTV风云足球",
 		"uris": [
 			"http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV高尔夫网球",
 		"title": "CCTV高尔夫网球",
 		"uris": [
 			"http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV央视台球",
 		"title": "CCTV央视台球",
 		"uris": [
 			"http://192.151.150.154/live/ystq.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV怀旧剧场",
 		"title": "CCTV怀旧剧场",
 		"uris": [
 			"http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV第一剧场",
 		"title": "CCTV第一剧场",
 		"uris": [
 			"http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV风云剧场",
 		"title": "CCTV风云剧场",
 		"uris": [
 			"http://198.204.228.26/live/fyjc.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV女性时尚",
 		"title": "CCTV女性时尚",
 		"uris": [
 			"http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV世界地理",
 		"title": "CCTV世界地理",
 		"uris": [
 			"http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV风云音乐",
 		"title": "CCTV风云音乐",
 		"uris": [
 			"http://198.204.228.26/live/fyyy.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV兵器科技",
 		"title": "CCTV兵器科技",
 		"uris": [
 			"http://liuwenxiaokevin.top:14044/rtp/233.18.204.178:5140"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV文化精品",
 		"title": "CCTV文化精品",
 		"uris": [
 			"http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "CHC动作电影",
-		"title": "CHC动作电影",
-		"uris": [
-			"http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "CHC家庭影院",
-		"title": "CHC家庭影院",
-		"uris": [
-			"http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "重温经典欣赏",
-		"title": "重温经典欣赏",
-		"uris": [
-			"http://rihou.cc:555/tv/[Pd]重温经典"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "邵氏电影欣赏",
-		"title": "邵氏电影欣赏",
-		"uris": [
-			"http://rihou.cc:555/tv/[FY]邵氏电影"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "邵氏武侠欣赏",
-		"title": "邵氏武侠欣赏",
-		"uris": [
-			"http://rihou.cc:555/tv/[FY]邵氏武侠"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "邵氏动作欣赏",
-		"title": "邵氏动作欣赏",
-		"uris": [
-			"http://rihou.cc:555/tv/[FY]邵氏动作"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "邵氏喜剧欣赏",
-		"title": "邵氏喜剧欣赏",
-		"uris": [
-			"http://rihou.cc:555/tv/[FY]邵氏喜剧"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "吉林卫视",
-		"title": "吉林卫视",
-		"uris": [
-			"http://198.204.228.26/live/jlwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "黑龙江卫视",
-		"title": "黑龙江卫视",
-		"uris": [
-			"http://198.204.228.26/live/hljwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "辽宁卫视",
-		"title": "辽宁卫视",
-		"uris": [
-			"http://198.204.228.26/live/lnwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "北京卫视",
-		"title": "北京卫视",
-		"uris": [
-			"http://198.204.228.26/live/bjwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "天津卫视",
-		"title": "天津卫视",
-		"uris": [
-			"http://198.204.228.26/live/tjwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "浙江卫视",
-		"title": "浙江卫视",
-		"uris": [
-			"http://198.204.228.26/live/zjwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "湖南卫视",
-		"title": "湖南卫视",
-		"uris": [
-			"http://198.204.228.26/live/hnwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "江苏卫视",
-		"title": "江苏卫视",
-		"uris": [
-			"http://198.204.228.26/live/jswshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "上海卫视",
-		"title": "上海卫视",
-		"uris": [
-			"http://198.204.228.26/live/dfwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "湖北卫视",
-		"title": "湖北卫视",
-		"uris": [
-			"http://198.204.228.26/live/hbwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "深圳卫视",
-		"title": "深圳卫视",
-		"uris": [
-			"http://198.204.228.26/live/szwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "安徽卫视",
-		"title": "安徽卫视",
-		"uris": [
-			"http://198.204.228.26/live/ahwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "重庆卫视",
-		"title": "重庆卫视",
-		"uris": [
-			"http://198.204.228.26/live/cqwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "广东卫视",
-		"title": "广东卫视",
-		"uris": [
-			"http://198.204.228.26/live/gdwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "东南卫视",
-		"title": "东南卫视",
-		"uris": [
-			"http://198.204.228.26/live/dnwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "甘肃卫视",
-		"title": "甘肃卫视",
-		"uris": [
-			"http://198.204.228.26/live/gswshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "广西卫视",
-		"title": "广西卫视",
-		"uris": [
-			"http://220.173.103.80:4022/rtp/239.81.0.107:4056"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "贵州卫视",
-		"title": "贵州卫视",
-		"uris": [
-			"http://198.204.228.26/live/gzwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "河南卫视",
-		"title": "河南卫视",
-		"uris": [
-			"http://yuwentao114.x3322.net:4022/udp/239.252.220.189:5140"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "江西卫视",
-		"title": "江西卫视",
-		"uris": [
-			"http://198.204.228.26/live/jxwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "内蒙古卫视",
-		"title": "内蒙古卫视",
-		"uris": [
-			"http://198.204.228.26/live/nmgws.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "宁夏卫视",
-		"title": "宁夏卫视",
-		"uris": [
-			"http://198.204.228.26/live/nxws.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "青海卫视",
-		"title": "青海卫视",
-		"uris": [
-			"http://198.204.228.26/live/qhws.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "山东卫视",
-		"title": "山东卫视",
-		"uris": [
-			"http://198.204.228.26/live/sdwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "山西卫视",
-		"title": "山西卫视",
-		"uris": [
-			"http://198.204.228.26/live/sxwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "陕西卫视",
-		"title": "陕西卫视",
-		"uris": [
-			"http://liuwenxiaokevin.top:14044/rtp/233.18.204.223:5140"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "四川卫视",
-		"title": "四川卫视",
-		"uris": [
-			"http://198.204.228.26/live/scwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "三沙卫视",
-		"title": "三沙卫视",
-		"uris": [
-			"http://kodbox.guangyuan.site:8188/rtp/239.253.43.113:5146"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "西藏卫视",
-		"title": "西藏卫视",
-		"uris": [
-			"http://alist.guangyuan.site:8188/rtp/239.77.1.26:5146"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "新疆卫视",
-		"title": "新疆卫视",
-		"uris": [
-			"http://198.204.228.26/live/xjws.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "云南卫视",
-		"title": "云南卫视",
-		"uris": [
-			"http://198.204.228.26/live/ynwshd.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "国内动作大片",
-		"title": "国内动作大片",
-		"uris": [
-			"http://cfss.cc/api/yy/1382749917.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "国内动作片",
-		"title": "国内动作片",
-		"uris": [
-			"http://cfss.cc/api/yy/1382735561.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "超燃动作大片",
-		"title": "超燃动作大片",
-		"uris": [
-			"http://cfss.cc/api/yy/1382749940.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "精彩动作电影",
-		"title": "精彩动作电影",
-		"uris": [
-			"http://cfss.cc/api/yy/1382736823.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "香港动作大片",
-		"title": "香港动作大片",
-		"uris": [
-			"http://cfss.cc/api/yy/1382736816.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "超燃动作片",
-		"title": "超燃动作片",
-		"uris": [
-			"http://cfss.cc/api/yy/1354936199.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "热血动作片合集",
-		"title": "热血动作片合集",
-		"uris": [
-			"http://cfss.cc/api/yy/1382735627.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "电影",
-		"title": "电影",
-		"uris": [
-			"http://cfss.cc/api/yy/1355171357.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "国外动作大片",
-		"title": "国外动作大片",
-		"uris": [
-			"http://cfss.cc/api/yy/1382735540.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "精彩动作电影享不停",
-		"title": "精彩动作电影享不停",
-		"uris": [
-			"http://cfss.cc/api/yy/1382736809.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "风靡全球的谍战片",
-		"title": "风靡全球的谍战片",
-		"uris": [
-			"http://cfss.cc/api/yy/1382736817.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "X战警系列电影",
-		"title": "X战警系列电影",
-		"uris": [
-			"http://cfss.cc/api/yy/1382736893.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "国外高分大片",
-		"title": "国外高分大片",
-		"uris": [
-			"http://cfss.cc/api/yy/1382736867.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "飞虎之雷霆极战",
-		"title": "飞虎之雷霆极战",
-		"uris": [
-			"http://cfss.cc/api/yy/1382736869.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "战争大片3",
-		"title": "战争大片3",
-		"uris": [
-			"http://cfss.cc/api/yy/1382735556.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "国外战争",
-		"title": "国外战争",
-		"uris": [
-			"http://cfss.cc/api/yy/1382735571.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "外国战争大片",
-		"title": "外国战争大片",
-		"uris": [
-			"http://cfss.cc/api/yy/1382736872.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "战争大片-国外电影",
-		"title": "战争大片-国外电影",
-		"uris": [
-			"http://cfss.cc/api/yy/1382736857.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "珍珠港",
-		"title": "珍珠港",
-		"uris": [
-			"http://cfss.cc/api/yy/1354936234.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "经典二战",
-		"title": "经典二战",
-		"uris": [
-			"http://cfss.cc/api/yy/1354936238.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "宇宙护卫队--国漫",
-		"title": "宇宙护卫队--国漫",
-		"uris": [
-			"http://cfss.cc/api/yy/1382736837.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "雷神系列",
-		"title": "雷神系列",
-		"uris": [
-			"http://cfss.cc/api/yy/1354932441.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "国内科幻",
-		"title": "国内科幻",
-		"uris": [
-			"http://cfss.cc/api/yy/1354936170.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "国内科幻电影",
-		"title": "国内科幻电影",
-		"uris": [
-			"http://cfss.cc/api/yy/1354936221.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "脑洞大开的精彩科幻片",
-		"title": "脑洞大开的精彩科幻片",
-		"uris": [
-			"http://cfss.cc/api/yy/1382736723.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "李连杰台",
-		"title": "李连杰台",
-		"uris": [
-			"http://cfss.cc/api/yy/1459869766.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "洪金宝",
-		"title": "洪金宝",
-		"uris": [
-			"http://file.dokor.cn:35455/huya/11279251"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "李连杰",
-		"title": "李连杰",
-		"uris": [
-			"http://file.dokor.cn:35455/huya/11342390"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "成龙",
-		"title": "成龙",
-		"uris": [
-			"http://file.dokor.cn:35455/huya/11342386"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "周星驰",
-		"title": "周星驰",
-		"uris": [
-			"http://file.dokor.cn:35455/huya/11342412"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "吴京",
-		"title": "吴京",
-		"uris": [
-			"http://file.dokor.cn:35455/huya/11602041"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "甄子丹",
-		"title": "甄子丹",
-		"uris": [
-			"http://file.dokor.cn:35455/huya/11352935"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "刘德华",
-		"title": "刘德华",
-		"uris": [
-			"http://file.dokor.cn:35455/huya/11342424"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "邱淑贞",
-		"title": "邱淑贞",
-		"uris": [
-			"http://file.dokor.cn:35455/huya/11352949"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "周润发",
-		"title": "周润发",
-		"uris": [
-			"http://file.dokor.cn:35455/huya/11342387"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "周润发",
-		"title": "周润发",
-		"uris": [
-			"http://file.dokor.cn:35455/huya/11342399"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "林正英",
-		"title": "林正英",
-		"uris": [
-			"http://file.dokor.cn:35455/huya/11342421"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "王晶",
-		"title": "王晶",
-		"uris": [
-			"http://file.dokor.cn:35455/huya/11602058"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "强森",
-		"title": "强森",
-		"uris": [
-			"http://file.dokor.cn:35455/huya/21059581"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "斯坦森",
-		"title": "斯坦森",
-		"uris": [
-			"http://file.dokor.cn:35455/huya/21059588"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "鬼片恐怖片",
-		"title": "鬼片恐怖片",
-		"uris": [
-			"http://cfss.cc/api/yy/1335509613.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "【神话】24小时循环播放",
-		"title": "【神话】24小时循环播放",
-		"uris": [
-			"http://cfss.cc/api/yy/29067083.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "倚天屠龙记",
-		"title": "倚天屠龙记",
-		"uris": [
-			"http://cfss.cc/api/yy/33300793.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "封神榜",
-		"title": "封神榜",
-		"uris": [
-			"http://file.dokor.cn:35455/huya/29465849"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "宋小宝春晚小品",
-		"title": "宋小宝春晚小品",
-		"uris": [
-			"http://cfss.cc/api/yy/1382736866.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "鹿鼎记-陈小春版",
-		"title": "鹿鼎记-陈小春版",
-		"uris": [
-			"http://cfss.cc/api/yy/1382736920.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "聊斋志异",
-		"title": "聊斋志异",
-		"uris": [
-			"http://cfss.cc/api/yy/1382736975.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "飞虎之潜行极战",
-		"title": "飞虎之潜行极战",
-		"uris": [
-			"http://cfss.cc/api/yy/1354932420.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "大唐双龙传",
-		"title": "大唐双龙传",
-		"uris": [
-			"http://cfss.cc/api/yy/1354930979.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "西游记后传",
-		"title": "西游记后传",
-		"uris": [
-			"http://cfss.cc/api/yy/1353392400.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "古惑仔全集",
-		"title": "古惑仔全集",
-		"uris": [
-			"http://cfss.cc/api/yy/1460889796.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
-		"name": "易中天品三国",
-		"title": "易中天品三国",
-		"uris": [
-			"http://cfss.cc/api/yy/1354931498.m3u8"
-		]
-	},
-	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV5",
 		"title": "CCTV5",
 		"uris": [
 			"http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV5",
 		"title": "CCTV5",
 		"uris": [
 			"http://198.204.228.26/live/cctv5hd.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	},
 	{
-		"group": "중국방송",
-		"logo": "",
+		"group": "中国-央视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
 		"name": "CCTV5+",
 		"title": "CCTV5+",
 		"uris": [
 			"http://198.204.228.26/live/cctv5p.m3u8"
-		]
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://kenpark76.github.io/logo/延边卫视.png",
+		"name": "延边卫视",
+		"title": "延边卫视",
+		"uris": [
+			"https://srs.iyb983.cn/video/CYS/index.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://kenpark76.github.io/logo/延边1台.png",
+		"name": "YBTV-1朝鲜语",
+		"title": "YBTV-1朝鲜语",
+		"uris": [
+			"https://srs.iyb983.cn/video/ybtv1/index.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "http://i20.hunchun123.cn/fg_tu/img/video.jpg",
+		"name": "珲春新闻综合",
+		"title": "珲春新闻综合",
+		"uris": [
+			"http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "EBS少儿",
+		"title": "EBS少儿",
+		"uris": [
+			"http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "韩·EBS-1",
+		"title": "韩·EBS-1",
+		"uris": [
+			"http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "韩·EBS-2",
+		"title": "韩·EBS-2",
+		"uris": [
+			"http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "韩国-EBSe",
+		"title": "韩国-EBSe",
+		"uris": [
+			"http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "http://epg.51zmt.top:8000/tb1/gt/tvN.png",
+		"name": "「韩国」tvN1",
+		"title": "「韩国」tvN1",
+		"uris": [
+			"https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "http://epg.51zmt.top:8000/tb1/gt/tvN.png",
+		"name": "「韩国」tvN2",
+		"title": "「韩国」tvN2",
+		"uris": [
+			"https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "CHC动作电影",
+		"title": "CHC动作电影",
+		"uris": [
+			"http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "CHC家庭影院",
+		"title": "CHC家庭影院",
+		"uris": [
+			"http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "重温经典欣赏",
+		"title": "重温经典欣赏",
+		"uris": [
+			"http://rihou.cc:555/tv/[Pd]重温经典"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "邵氏电影欣赏",
+		"title": "邵氏电影欣赏",
+		"uris": [
+			"http://rihou.cc:555/tv/[FY]邵氏电影"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "邵氏武侠欣赏",
+		"title": "邵氏武侠欣赏",
+		"uris": [
+			"http://rihou.cc:555/tv/[FY]邵氏武侠"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "邵氏动作欣赏",
+		"title": "邵氏动作欣赏",
+		"uris": [
+			"http://rihou.cc:555/tv/[FY]邵氏动作"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "邵氏喜剧欣赏",
+		"title": "邵氏喜剧欣赏",
+		"uris": [
+			"http://rihou.cc:555/tv/[FY]邵氏喜剧"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "吉林卫视",
+		"title": "吉林卫视",
+		"uris": [
+			"http://198.204.228.26/live/jlwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "黑龙江卫视",
+		"title": "黑龙江卫视",
+		"uris": [
+			"http://198.204.228.26/live/hljwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "辽宁卫视",
+		"title": "辽宁卫视",
+		"uris": [
+			"http://198.204.228.26/live/lnwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "北京卫视",
+		"title": "北京卫视",
+		"uris": [
+			"http://198.204.228.26/live/bjwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "天津卫视",
+		"title": "天津卫视",
+		"uris": [
+			"http://198.204.228.26/live/tjwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "浙江卫视",
+		"title": "浙江卫视",
+		"uris": [
+			"http://198.204.228.26/live/zjwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "湖南卫视",
+		"title": "湖南卫视",
+		"uris": [
+			"http://198.204.228.26/live/hnwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "江苏卫视",
+		"title": "江苏卫视",
+		"uris": [
+			"http://198.204.228.26/live/jswshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "上海卫视",
+		"title": "上海卫视",
+		"uris": [
+			"http://198.204.228.26/live/dfwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "湖北卫视",
+		"title": "湖北卫视",
+		"uris": [
+			"http://198.204.228.26/live/hbwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "深圳卫视",
+		"title": "深圳卫视",
+		"uris": [
+			"http://198.204.228.26/live/szwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "安徽卫视",
+		"title": "安徽卫视",
+		"uris": [
+			"http://198.204.228.26/live/ahwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "重庆卫视",
+		"title": "重庆卫视",
+		"uris": [
+			"http://198.204.228.26/live/cqwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "广东卫视",
+		"title": "广东卫视",
+		"uris": [
+			"http://198.204.228.26/live/gdwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "东南卫视",
+		"title": "东南卫视",
+		"uris": [
+			"http://198.204.228.26/live/dnwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "甘肃卫视",
+		"title": "甘肃卫视",
+		"uris": [
+			"http://198.204.228.26/live/gswshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "广西卫视",
+		"title": "广西卫视",
+		"uris": [
+			"http://220.173.103.80:4022/rtp/239.81.0.107:4056"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "贵州卫视",
+		"title": "贵州卫视",
+		"uris": [
+			"http://198.204.228.26/live/gzwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "河南卫视",
+		"title": "河南卫视",
+		"uris": [
+			"http://yuwentao114.x3322.net:4022/udp/239.252.220.189:5140"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "江西卫视",
+		"title": "江西卫视",
+		"uris": [
+			"http://198.204.228.26/live/jxwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "内蒙古卫视",
+		"title": "内蒙古卫视",
+		"uris": [
+			"http://198.204.228.26/live/nmgws.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "宁夏卫视",
+		"title": "宁夏卫视",
+		"uris": [
+			"http://198.204.228.26/live/nxws.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "青海卫视",
+		"title": "青海卫视",
+		"uris": [
+			"http://198.204.228.26/live/qhws.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "山东卫视",
+		"title": "山东卫视",
+		"uris": [
+			"http://198.204.228.26/live/sdwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "山西卫视",
+		"title": "山西卫视",
+		"uris": [
+			"http://198.204.228.26/live/sxwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "陕西卫视",
+		"title": "陕西卫视",
+		"uris": [
+			"http://liuwenxiaokevin.top:14044/rtp/233.18.204.223:5140"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "四川卫视",
+		"title": "四川卫视",
+		"uris": [
+			"http://198.204.228.26/live/scwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "三沙卫视",
+		"title": "三沙卫视",
+		"uris": [
+			"http://kodbox.guangyuan.site:8188/rtp/239.253.43.113:5146"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "西藏卫视",
+		"title": "西藏卫视",
+		"uris": [
+			"http://alist.guangyuan.site:8188/rtp/239.77.1.26:5146"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "新疆卫视",
+		"title": "新疆卫视",
+		"uris": [
+			"http://198.204.228.26/live/xjws.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "云南卫视",
+		"title": "云南卫视",
+		"uris": [
+			"http://198.204.228.26/live/ynwshd.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "国内动作大片",
+		"title": "国内动作大片",
+		"uris": [
+			"http://cfss.cc/api/yy/1382749917.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "国内动作片",
+		"title": "国内动作片",
+		"uris": [
+			"http://cfss.cc/api/yy/1382735561.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "超燃动作大片",
+		"title": "超燃动作大片",
+		"uris": [
+			"http://cfss.cc/api/yy/1382749940.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "精彩动作电影",
+		"title": "精彩动作电影",
+		"uris": [
+			"http://cfss.cc/api/yy/1382736823.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "超燃动作片",
+		"title": "超燃动作片",
+		"uris": [
+			"http://cfss.cc/api/yy/1354936199.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "热血动作片合集",
+		"title": "热血动作片合集",
+		"uris": [
+			"http://cfss.cc/api/yy/1382735627.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "电影",
+		"title": "电影",
+		"uris": [
+			"http://cfss.cc/api/yy/1355171357.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "国外动作大片",
+		"title": "国外动作大片",
+		"uris": [
+			"http://cfss.cc/api/yy/1382735540.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "精彩动作电影享不停",
+		"title": "精彩动作电影享不停",
+		"uris": [
+			"http://cfss.cc/api/yy/1382736809.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "风靡全球的谍战片",
+		"title": "风靡全球的谍战片",
+		"uris": [
+			"http://cfss.cc/api/yy/1382736817.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "X战警系列电影",
+		"title": "X战警系列电影",
+		"uris": [
+			"http://cfss.cc/api/yy/1382736893.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "国外高分大片",
+		"title": "国外高分大片",
+		"uris": [
+			"http://cfss.cc/api/yy/1382736867.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "飞虎之雷霆极战",
+		"title": "飞虎之雷霆极战",
+		"uris": [
+			"http://cfss.cc/api/yy/1382736869.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "战争大片3",
+		"title": "战争大片3",
+		"uris": [
+			"http://cfss.cc/api/yy/1382735556.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "国外战争",
+		"title": "国外战争",
+		"uris": [
+			"http://cfss.cc/api/yy/1382735571.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "外国战争大片",
+		"title": "外国战争大片",
+		"uris": [
+			"http://cfss.cc/api/yy/1382736872.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "战争大片-国外电影",
+		"title": "战争大片-国外电影",
+		"uris": [
+			"http://cfss.cc/api/yy/1382736857.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "珍珠港",
+		"title": "珍珠港",
+		"uris": [
+			"http://cfss.cc/api/yy/1354936234.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "经典二战",
+		"title": "经典二战",
+		"uris": [
+			"http://cfss.cc/api/yy/1354936238.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "宇宙护卫队--国漫",
+		"title": "宇宙护卫队--国漫",
+		"uris": [
+			"http://cfss.cc/api/yy/1382736837.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "雷神系列",
+		"title": "雷神系列",
+		"uris": [
+			"http://cfss.cc/api/yy/1354932441.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "国内科幻",
+		"title": "国内科幻",
+		"uris": [
+			"http://cfss.cc/api/yy/1354936170.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "国内科幻电影",
+		"title": "国内科幻电影",
+		"uris": [
+			"http://cfss.cc/api/yy/1354936221.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "脑洞大开的精彩科幻片",
+		"title": "脑洞大开的精彩科幻片",
+		"uris": [
+			"http://cfss.cc/api/yy/1382736723.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "李连杰台",
+		"title": "李连杰台",
+		"uris": [
+			"http://cfss.cc/api/yy/1459869766.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "洪金宝",
+		"title": "洪金宝",
+		"uris": [
+			"http://file.dokor.cn:35455/huya/11279251"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "李连杰",
+		"title": "李连杰",
+		"uris": [
+			"http://file.dokor.cn:35455/huya/11342390"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "成龙",
+		"title": "成龙",
+		"uris": [
+			"http://file.dokor.cn:35455/huya/11342386"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "周星驰",
+		"title": "周星驰",
+		"uris": [
+			"http://file.dokor.cn:35455/huya/11342412"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "吴京",
+		"title": "吴京",
+		"uris": [
+			"http://file.dokor.cn:35455/huya/11602041"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "甄子丹",
+		"title": "甄子丹",
+		"uris": [
+			"http://file.dokor.cn:35455/huya/11352935"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "刘德华",
+		"title": "刘德华",
+		"uris": [
+			"http://file.dokor.cn:35455/huya/11342424"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "邱淑贞",
+		"title": "邱淑贞",
+		"uris": [
+			"http://file.dokor.cn:35455/huya/11352949"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "周润发",
+		"title": "周润发",
+		"uris": [
+			"http://file.dokor.cn:35455/huya/11342387"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "周润发",
+		"title": "周润发",
+		"uris": [
+			"http://file.dokor.cn:35455/huya/11342399"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "林正英",
+		"title": "林正英",
+		"uris": [
+			"http://file.dokor.cn:35455/huya/11342421"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "王晶",
+		"title": "王晶",
+		"uris": [
+			"http://file.dokor.cn:35455/huya/11602058"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "强森",
+		"title": "强森",
+		"uris": [
+			"http://file.dokor.cn:35455/huya/21059581"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "斯坦森",
+		"title": "斯坦森",
+		"uris": [
+			"http://file.dokor.cn:35455/huya/21059588"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "鬼片恐怖片",
+		"title": "鬼片恐怖片",
+		"uris": [
+			"http://cfss.cc/api/yy/1335509613.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "【神话】24小时循环播放",
+		"title": "【神话】24小时循环播放",
+		"uris": [
+			"http://cfss.cc/api/yy/29067083.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "倚天屠龙记",
+		"title": "倚天屠龙记",
+		"uris": [
+			"http://cfss.cc/api/yy/33300793.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "封神榜",
+		"title": "封神榜",
+		"uris": [
+			"http://file.dokor.cn:35455/huya/29465849"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "宋小宝春晚小品",
+		"title": "宋小宝春晚小品",
+		"uris": [
+			"http://cfss.cc/api/yy/1382736866.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "鹿鼎记-陈小春版",
+		"title": "鹿鼎记-陈小春版",
+		"uris": [
+			"http://cfss.cc/api/yy/1382736920.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "聊斋志异",
+		"title": "聊斋志异",
+		"uris": [
+			"http://cfss.cc/api/yy/1382736975.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "飞虎之潜行极战",
+		"title": "飞虎之潜行极战",
+		"uris": [
+			"http://cfss.cc/api/yy/1354932420.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "大唐双龙传",
+		"title": "大唐双龙传",
+		"uris": [
+			"http://cfss.cc/api/yy/1354930979.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "西游记后传",
+		"title": "西游记后传",
+		"uris": [
+			"http://cfss.cc/api/yy/1353392400.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-卫视",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "古惑仔全集",
+		"title": "古惑仔全集",
+		"uris": [
+			"http://cfss.cc/api/yy/1460889796.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-港台",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "香港动作大片",
+		"title": "香港动作大片",
+		"uris": [
+			"http://cfss.cc/api/yy/1382736816.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "中国-港台",
+		"logo": "https://buddytv.netlify.app/img/no-logo.png",
+		"name": "易中天品三国",
+		"title": "易中天品三国",
+		"uris": [
+			"http://cfss.cc/api/yy/1354931498.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
 	}
 ]

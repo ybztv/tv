@@ -47,5 +47,10 @@
     "owner": "ybztv",
     "repo": "tv-playlists",
     "branch": "master"
+  },
+  "bos": {
+    "bucket": "tv123",
+    "region": "bj",
+    "prefix": "tv"
   }
 }

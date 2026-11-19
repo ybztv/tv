@@ -21,10 +21,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Install deps
+        run: pip install --quiet bce-python-sdk
+
       - name: Run sync
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+          BOS_AK: ${{ secrets.BOS_AK }}
+          BOS_SK: ${{ secrets.BOS_SK }}
           PYTHONIOENCODING: utf-8
         run: |
           python3 -V

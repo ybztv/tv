@@ -42,5 +42,10 @@
       "type": "json_koreatv",
       "source": "http://141.164.53.195/live/korea-live.json"
     }
-  ]
+  ],
+  "gitee": {
+    "owner": "ybztv",
+    "repo": "tv-playlists",
+    "branch": "master"
+  }
 }

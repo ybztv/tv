@@ -1485,6 +1485,18 @@
 	},
 	{
 		"group": "드라마(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52089.jpg",
+		"name": "메리 베리 러브 제7회 26/11/19",
+		"title": "메리 베리 러브 제7회 26/11/19",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/메리 베리 러브_제7회 26_11_19.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "드라마(다시보기)",
 		"logo": "https://www.kdrama.pw/img/videos/200x285/52221.jpg",
 		"name": "뜨거운 안녕 제3회 26/11/18",
 		"title": "뜨거운 안녕 제3회 26/11/18",
@@ -1718,18 +1730,6 @@
 		"title": "옆자리, 프란체스카 최종회 26/11/13",
 		"uris": [
 			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/옆자리, 프란체스카_최종회 26_11_13.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52089.jpg",
-		"name": "메리 베리 러브 제6회 26/11/11",
-		"title": "메리 베리 러브 제6회 26/11/11",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/메리 베리 러브_제6회 26_11_11.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -2085,6 +2085,18 @@
 	},
 	{
 		"group": "드라마(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52089.jpg",
+		"name": "메리 베리 러브 제6회 26/11/11",
+		"title": "메리 베리 러브 제6회 26/11/11",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/메리 베리 러브_제6회 26_11_11.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "드라마(다시보기)",
 		"logo": "https://www.kdrama.pw/img/videos/200x285/52221.jpg",
 		"name": "뜨거운 안녕 제2회 26/11/12",
 		"title": "뜨거운 안녕 제2회 26/11/12",
@@ -2306,18 +2318,6 @@
 		"title": "옆자리, 프란체스카 제3회 26/11/13",
 		"uris": [
 			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/옆자리, 프란체스카_제3회 26_11_13.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52089.jpg",
-		"name": "메리 베리 러브 제5회 26/11/05",
-		"title": "메리 베리 러브 제5회 26/11/05",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/메리 베리 러브_제5회 26_11_05.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"

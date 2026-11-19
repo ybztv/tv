@@ -19,6 +19,8 @@ from datetime import datetime
 
 from sync_ktv import API, http, normalize, log
 
+GITEE_API = 'https://gitee.com/api/v5'
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 CONF_PATH = os.path.join(HERE, 'sync_config.json')
 
@@ -122,6 +124,43 @@ def push(cfg, job, content, note, token, branch):
     return False
 
 
+def push_gitee(gcfg, path, content, note):
+    """把同一份内容推到 Gitee。gcfg: {owner, repo, branch}；token 取环境变量 GITEE_TOKEN 或配置。"""
+    token = os.environ.get('GITEE_TOKEN') or gcfg.get('token', '')
+    if not token:
+        return True  # 未配置 Gitee，跳过
+    api_repo = f'{GITEE_API}/repos/{gcfg["owner"]}/{gcfg["repo"]}'
+    branch = gcfg.get('branch', 'master')
+    st, remote = http(f'{api_repo}/contents/{path}?ref={branch}&access_token={token}', timeout=180)
+    sha = None
+    if st == 200 and isinstance(remote, dict):
+        try:
+            old = base64.b64decode(remote.get('content') or '')
+        except Exception:
+            old = b''
+        if old == content:
+            log(f'  [Gitee] {path} 无变化，跳过')
+            return True
+        sha = remote.get('sha')
+    payload = {
+        'content': base64.b64encode(content).decode(),
+        'message': f'sync {path} @{datetime.now():%Y-%m-%d %H:%M:%S}',
+        'branch': branch,
+        'access_token': token,
+    }
+    method = 'GET'
+    if sha:
+        payload['sha'] = sha
+        st, res = http(f'{api_repo}/contents/{path}', 'PUT', payload, timeout=240)
+    else:
+        st, res = http(f'{api_repo}/contents/{path}', 'POST', payload, timeout=240)
+    if st in (200, 201):
+        log(f'  [Gitee] {path} 推送成功（{note}）')
+        return True
+    log(f'  [Gitee] {path} 推送失败（HTTP {st}）：{res}')
+    return False
+
+
 def main():
     dry = '--dry-run' in sys.argv
     with open(CONF_PATH, 'r', encoding='utf-8-sig') as f:
@@ -159,6 +198,8 @@ def main():
         if dry:
             continue
         ok_all = push(cfg, job, text, note, token, branch) and ok_all
+        if cfg.get('gitee'):
+            ok_all = push_gitee(cfg['gitee'], job['path'], text, note) and ok_all
 
     log('===== 同步结束 =====')
     return 0 if ok_all else 1

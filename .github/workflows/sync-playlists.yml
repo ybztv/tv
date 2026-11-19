@@ -24,6 +24,7 @@ jobs:
       - name: Run sync
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
           PYTHONIOENCODING: utf-8
         run: |
           python3 -V

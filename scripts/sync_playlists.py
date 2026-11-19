@@ -161,6 +161,39 @@ def push_gitee(gcfg, path, content, note):
     return False
 
 
+def push_bos(bcfg, path, content, note):
+    """把同一份内容推到百度 BOS 对象存储，对象设为 public-read。"""
+    ak = os.environ.get('BOS_AK') or bcfg.get('ak', '')
+    sk = os.environ.get('BOS_SK') or bcfg.get('sk', '')
+    if not (ak and sk and bcfg.get('bucket')):
+        return True  # 未配置 BOS，跳过
+    key = (bcfg.get('prefix') or '').rstrip('/')
+    key = f'{key}/{path}' if key else path
+    tmp = os.path.join(HERE, '_bos_tmp.bin')
+    try:
+        from baidubce.auth.bce_credentials import BceCredentials
+        from baidubce.bce_client_configuration import BceClientConfiguration
+        from baidubce.services.bos.bos_client import BosClient
+        client = BosClient(BceClientConfiguration(
+            credentials=BceCredentials(ak, sk),
+            endpoint=f'{bcfg.get("region", "bj")}.bcebos.com'))
+        with open(tmp, 'wb') as f:
+            f.write(content)
+        client.put_object_from_file(bcfg['bucket'], key, tmp)
+        try:
+            client.set_object_canned_acl(bcfg['bucket'], key, 'public-read')
+        except Exception as e:
+            log(f'  [BOS] {key} ACL 设置告警：{e}')
+        log(f'  [BOS] {key} 上传成功（{note}）')
+        return True
+    except Exception as e:
+        log(f'  [BOS] {key} 上传失败：{type(e).__name__} {e}')
+        return False
+    finally:
+        if os.path.exists(tmp):
+            os.remove(tmp)
+
+
 def main():
     dry = '--dry-run' in sys.argv
     with open(CONF_PATH, 'r', encoding='utf-8-sig') as f:
@@ -200,6 +233,8 @@ def main():
         ok_all = push(cfg, job, text, note, token, branch) and ok_all
         if cfg.get('gitee'):
             ok_all = push_gitee(cfg['gitee'], job['path'], text, note) and ok_all
+        if cfg.get('bos'):
+            ok_all = push_bos(cfg['bos'], job['path'], text, note) and ok_all
 
     log('===== 同步结束 =====')
     return 0 if ok_all else 1

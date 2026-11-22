@@ -5,7 +5,7 @@
 		"name": "KBS1",
 		"title": "KBS1",
 		"uris": [
-			"http://43.164.132.11/kakaotv/get_channel.php?channel=kbs1"
+			"https://tving-live-o2-ktcdn.tving.com/o2/v1/01a0a8531d5c1eb80e791db1d96030/01a0a85320b41eb80e791db1d96033/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NDMwMTkxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=JplbcRBNc~IxE60d8D8dlTkNm9HQbBsMm7JdW8xrI8R~ds5kzMfr~a4glY0QwgOYyqAFVk7b8yYbwVTUL5kpf83SkpwIGOl2sKKbKAXopaieqNSCLahGU1VE27BgXMzY28r4iiNh1EudTqY0a~ozYptSpp45jqE5SXWj9uXi2nRPgTpJYHqX5HR1mocv1zwyyJl3IVAj7kdR7KhUamYdvVNObB~6V5PJtHF1N1T2wbcfmBGnA9pEGvZZqQ2uv5kTc66R6H9rrCozQjMN6L3ydSj3pTWzs5oElmVjNChY5lLwRI3DfunI0HKdxdygYhZW0atI6oXpy0cv8kkqeGWWtg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
 		"name": "KBS2",
 		"title": "KBS2",
 		"uris": [
-			"http://43.164.132.11/kakaotv/get_channel.php?channel=kbs2"
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/01a0a855bb341eb80e791db1d96034/01a0a855bea1153d78652fe2d08706/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU0MzAyMDIsInBhdGgiOiIvbzIifQ.4zMvzpFTVcsnEOu8ysq6WdU-_TXCPEP01lOEgZqkri4"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -44,7 +44,7 @@
 		"name": "MBC",
 		"title": "MBC",
 		"uris": [
-			"http://43.164.132.11/kakaotv/get_channel.php?channel=mbc"
+			"https://tving-live-o2-xcdn.tving.com/v1/ssai/manifest/019bd50ff2d61eb80e791c22ad4884/a50a6e5391bacb5166b64aa428d4e23c/dmMxX3N0cmVhbTMubTN1OA==/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU0MzAyMTQsInBhdGgiOiIvdjEifQ.PXnwVC2FpG2GSM03HlM5leHXLh4DVdTVsqd3mYpDicQ"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -544,6 +544,42 @@
 		"title": "백반기행",
 		"uris": [
 			"https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "생방송-테스트",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/KBS1.png",
+		"name": "KBS-테스트",
+		"title": "KBS -테스트",
+		"uris": [
+			"http://43.164.132.11/kakaotv/get_channel.php?channel=kbs1"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "생방송-테스트",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/KBS2.png",
+		"name": "KBS2-테스트",
+		"title": "KBS2 -테스트",
+		"uris": [
+			"http://43.164.132.11/kakaotv/get_channel.php?channel=kbs2"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "생방송-테스트",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/MBC.png",
+		"name": "MBC-테스트",
+		"title": "MBC -테스트",
+		"uris": [
+			"http://43.164.132.11/kakaotv/get_channel.php?channel=mbc"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -1163,11 +1199,11 @@
 	},
 	{
 		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52092.jpg",
-		"name": "밑도 끝도 없이, 너다 제9회 26/11/21",
-		"title": "밑도 끝도 없이, 너다 제9회 26/11/21",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52165.jpg",
+		"name": "파이널 테이블 제10회 26/11/22",
+		"title": "파이널 테이블 제10회 26/11/22",
 		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/밑도 끝도 없이, 너다_제9회 26_11_21.m3u8"
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/파이널 테이블_제10회 26_11_22.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -1175,11 +1211,47 @@
 	},
 	{
 		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52165.jpg",
-		"name": "파이널 테이블 제9회 26/11/21",
-		"title": "파이널 테이블 제9회 26/11/21",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52223.jpg",
+		"name": "문무 제4회 26/11/22",
+		"title": "문무 제4회 26/11/22",
 		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/파이널 테이블_제9회 26_11_21.m3u8"
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/문무_제4회 26_11_22.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "드라마(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52087.jpg",
+		"name": "100일의 거짓말 제14회 26/11/22",
+		"title": "100일의 거짓말 제14회 26/11/22",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/100일의 거짓말_제14회 26_11_22.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "드라마(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/51865.jpg",
+		"name": "사랑이 온다 제33회 26/11/22",
+		"title": "사랑이 온다 제33회 26/11/22",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑이 온다_제33회 26_11_22.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "드라마(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52092.jpg",
+		"name": "밑도 끝도 없이, 너다 제9회 26/11/21",
+		"title": "밑도 끝도 없이, 너다 제9회 26/11/21",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/밑도 끝도 없이, 너다_제9회 26_11_21.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -1204,42 +1276,6 @@
 		"title": "굿파트너2 제2회 26/11/21",
 		"uris": [
 			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/굿파트너2_제2회 26_11_21.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/51865.jpg",
-		"name": "사랑이 온다 제32회 26/11/21",
-		"title": "사랑이 온다 제32회 26/11/21",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑이 온다_제32회 26_11_21.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52087.jpg",
-		"name": "100일의 거짓말 제13회 26/11/21",
-		"title": "100일의 거짓말 제13회 26/11/21",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/100일의 거짓말_제13회 26_11_21.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52223.jpg",
-		"name": "문무 제3회 26/11/21",
-		"title": "문무 제3회 26/11/21",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/문무_제3회 26_11_21.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -1763,11 +1799,11 @@
 	},
 	{
 		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52092.jpg",
-		"name": "밑도 끝도 없이, 너다 제8회 26/11/15",
-		"title": "밑도 끝도 없이, 너다 제8회 26/11/15",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52165.jpg",
+		"name": "파이널 테이블 제9회 26/11/21",
+		"title": "파이널 테이블 제9회 26/11/21",
 		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/밑도 끝도 없이, 너다_제8회 26_11_15.m3u8"
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/파이널 테이블_제9회 26_11_21.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -1775,11 +1811,47 @@
 	},
 	{
 		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52165.jpg",
-		"name": "파이널 테이블 제8회 26/11/15",
-		"title": "파이널 테이블 제8회 26/11/15",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52223.jpg",
+		"name": "문무 제3회 26/11/21",
+		"title": "문무 제3회 26/11/21",
 		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/파이널 테이블_제8회 26_11_15.m3u8"
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/문무_제3회 26_11_21.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "드라마(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52087.jpg",
+		"name": "100일의 거짓말 제13회 26/11/21",
+		"title": "100일의 거짓말 제13회 26/11/21",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/100일의 거짓말_제13회 26_11_21.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "드라마(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/51865.jpg",
+		"name": "사랑이 온다 제32회 26/11/21",
+		"title": "사랑이 온다 제32회 26/11/21",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑이 온다_제32회 26_11_21.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "드라마(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52092.jpg",
+		"name": "밑도 끝도 없이, 너다 제8회 26/11/15",
+		"title": "밑도 끝도 없이, 너다 제8회 26/11/15",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/밑도 끝도 없이, 너다_제8회 26_11_15.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -1804,42 +1876,6 @@
 		"title": "굿파트너2 제1회 26/11/20",
 		"uris": [
 			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/굿파트너2_제1회 26_11_20.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/51865.jpg",
-		"name": "사랑이 온다 제31회 26/11/15",
-		"title": "사랑이 온다 제31회 26/11/15",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑이 온다_제31회 26_11_15.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52087.jpg",
-		"name": "100일의 거짓말 제12회 26/11/15",
-		"title": "100일의 거짓말 제12회 26/11/15",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/100일의 거짓말_제12회 26_11_15.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52223.jpg",
-		"name": "문무 스페셜 2부",
-		"title": "문무 스페셜 2부",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/문무_스페셜 2부.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -2344,6 +2380,186 @@
 		"title": "그대에게 드림 제11회 26/08/17",
 		"uris": [
 			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/그대에게 드림_제11회 26_08_17.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52098.jpg",
+		"name": "트롯 키친 달리는 디너쇼 제7회 26/11/22",
+		"title": "트롯 키친 달리는 디너쇼 제7회 26/11/22",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/트롯 키친 달리는 디너쇼_제7회 26_11_22.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/28170.jpg",
+		"name": "이제 만나러 갑니다 제668회 26/11/22",
+		"title": "이제 만나러 갑니다 제668회 26/11/22",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이제 만나러 갑니다_제668회 26_11_22.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/50080.jpg",
+		"name": "냉장고를 부탁해 since 2014 제99회 26/11/22",
+		"title": "냉장고를 부탁해 since 2014 제99회 26/11/22",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/냉장고를 부탁해 since 2014_제99회 26_11_22.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/50520.jpg",
+		"name": "인생이 영화 제56회 26/11/22",
+		"title": "인생이 영화 제56회 26/11/22",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/인생이 영화_제56회 26_11_22.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/36354.jpg",
+		"name": "미운 우리 새끼 제524회 26/11/22",
+		"title": "미운 우리 새끼 제524회 26/11/22",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/미운 우리 새끼_제524회 26_11_22.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52008.jpg",
+		"name": "디스이즈 현무로드 제10회 26/11/22",
+		"title": "디스이즈 현무로드 제10회 26/11/22",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/디스이즈 현무로드_제10회 26_11_22.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/51996.jpg",
+		"name": "이현우의 체크인 콘서트 제12회 26/11/22",
+		"title": "이현우의 체크인 콘서트 제12회 26/11/22",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이현우의 체크인 콘서트_제12회 26_11_22.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52103.jpg",
+		"name": "신인감독 김연경2 제7회 26/11/22",
+		"title": "신인감독 김연경2 제7회 26/11/22",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신인감독 김연경2_제7회 26_11_22.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/48645.jpg",
+		"name": "개그 콘서트 제148회 26/11/22",
+		"title": "개그 콘서트 제148회 26/11/22",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/개그 콘서트_제148회 26_11_22.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/28202.jpg",
+		"name": "런닝맨 제453회 26/11/22",
+		"title": "런닝맨 제453회 26/11/22",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/런닝맨_제453회 26_11_22.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52234.jpg",
+		"name": "전지적 집착 시점 제3회 26/11/22",
+		"title": "전지적 집착 시점 제3회 26/11/22",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/전지적 집착 시점_제3회 26_11_22.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/42570.jpg",
+		"name": "1박 2일 시즌4 제354회 26/11/22",
+		"title": "1박 2일 시즌4 제354회 26/11/22",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/1박 2일 시즌4_제354회 26_11_22.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52006.jpg",
+		"name": "식스센스: B사이드 제10회 26/11/22",
+		"title": "식스센스: B사이드 제10회 26/11/22",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/식스센스_ B사이드_제10회 26_11_22.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/51374.jpg",
+		"name": "서프라이즈 미스터리 살롱 제40회 26/11/22",
+		"title": "서프라이즈 미스터리 살롱 제40회 26/11/22",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/서프라이즈 미스터리 살롱_제40회 26_11_22.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/42133.jpg",
+		"name": "사장님 귀는 당나귀 귀 제385회 26/11/22",
+		"title": "사장님 귀는 당나귀 귀 제385회 26/11/22",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사장님 귀는 당나귀 귀_제385회 26_11_22.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -3371,107 +3587,11 @@
 	},
 	{
 		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/51585.jpg",
-		"name": "더트롯쇼 26/11/16",
-		"title": "더트롯쇼 26/11/16",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52098.jpg",
+		"name": "트롯 키친 달리는 디너쇼 제6회 26/11/10",
+		"title": "트롯 키친 달리는 디너쇼 제6회 26/11/10",
 		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/더트롯쇼_26_11_16.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/48645.jpg",
-		"name": "개그 콘서트 제147회 26/11/15",
-		"title": "개그 콘서트 제147회 26/11/15",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/개그 콘서트_제147회 26_11_15.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52094.jpg",
-		"name": "밥값 하는 남자들 제7회 26/11/15",
-		"title": "밥값 하는 남자들 제7회 26/11/15",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/밥값 하는 남자들_제7회 26_11_15.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52288.jpg",
-		"name": "대탈출 : 도시괴담 26/11/12",
-		"title": "대탈출 : 도시괴담 26/11/12",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/대탈출 _ 도시괴담_26_11_12.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/50520.jpg",
-		"name": "인생이 영화 제55회 26/11/15",
-		"title": "인생이 영화 제55회 26/11/15",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/인생이 영화_제55회 26_11_15.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/36354.jpg",
-		"name": "미운 우리 새끼 제523회 26/11/15",
-		"title": "미운 우리 새끼 제523회 26/11/15",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/미운 우리 새끼_제523회 26_11_15.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52103.jpg",
-		"name": "신인감독 김연경2 제6회 26/11/15",
-		"title": "신인감독 김연경2 제6회 26/11/15",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신인감독 김연경2_제6회 26_11_15.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/51996.jpg",
-		"name": "이현우의 체크인 콘서트 제11회 26/11/15",
-		"title": "이현우의 체크인 콘서트 제11회 26/11/15",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이현우의 체크인 콘서트_제11회 26_11_15.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52008.jpg",
-		"name": "디스이즈 현무로드 제9회 26/11/15",
-		"title": "디스이즈 현무로드 제9회 26/11/15",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/디스이즈 현무로드_제9회 26_11_15.m3u8"
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/트롯 키친 달리는 디너쇼_제6회 26_11_10.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -3503,11 +3623,71 @@
 	},
 	{
 		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52234.jpg",
-		"name": "전지적 집착 시점 제2회 26/11/15",
-		"title": "전지적 집착 시점 제2회 26/11/15",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/50520.jpg",
+		"name": "인생이 영화 제55회 26/11/15",
+		"title": "인생이 영화 제55회 26/11/15",
 		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/전지적 집착 시점_제2회 26_11_15.m3u8"
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/인생이 영화_제55회 26_11_15.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/36354.jpg",
+		"name": "미운 우리 새끼 제523회 26/11/15",
+		"title": "미운 우리 새끼 제523회 26/11/15",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/미운 우리 새끼_제523회 26_11_15.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52008.jpg",
+		"name": "디스이즈 현무로드 제9회 26/11/15",
+		"title": "디스이즈 현무로드 제9회 26/11/15",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/디스이즈 현무로드_제9회 26_11_15.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/51996.jpg",
+		"name": "이현우의 체크인 콘서트 제11회 26/11/15",
+		"title": "이현우의 체크인 콘서트 제11회 26/11/15",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이현우의 체크인 콘서트_제11회 26_11_15.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52103.jpg",
+		"name": "신인감독 김연경2 제6회 26/11/15",
+		"title": "신인감독 김연경2 제6회 26/11/15",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신인감독 김연경2_제6회 26_11_15.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/48645.jpg",
+		"name": "개그 콘서트 제147회 26/11/15",
+		"title": "개그 콘서트 제147회 26/11/15",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/개그 콘서트_제147회 26_11_15.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -3520,6 +3700,18 @@
 		"title": "런닝맨 제452회 26/11/15",
 		"uris": [
 			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/런닝맨_제452회 26_11_15.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52234.jpg",
+		"name": "전지적 집착 시점 제2회 26/11/15",
+		"title": "전지적 집착 시점 제2회 26/11/15",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/전지적 집착 시점_제2회 26_11_15.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -3544,6 +3736,30 @@
 		"title": "식스센스: B사이드 제9회 26/11/15",
 		"uris": [
 			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/식스센스_ B사이드_제9회 26_11_15.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/51374.jpg",
+		"name": "서프라이즈 미스터리 살롱 제39회 26/11/15",
+		"title": "서프라이즈 미스터리 살롱 제39회 26/11/15",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/서프라이즈 미스터리 살롱_제39회 26_11_15.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/42133.jpg",
+		"name": "사장님 귀는 당나귀 귀 제384회 26/11/15",
+		"title": "사장님 귀는 당나귀 귀 제384회 26/11/15",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사장님 귀는 당나귀 귀_제384회 26_11_15.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -4528,174 +4744,6 @@
 		"title": "무엇이든 물어보살 제375회 26/11/09",
 		"uris": [
 			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/무엇이든 물어보살_제375회 26_11_09.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/51585.jpg",
-		"name": "더트롯쇼 26/10/19",
-		"title": "더트롯쇼 26/10/19",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/더트롯쇼_26_10_19.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/48645.jpg",
-		"name": "개그 콘서트 제146회 26/11/09",
-		"title": "개그 콘서트 제146회 26/11/09",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/개그 콘서트_제146회 26_11_09.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52094.jpg",
-		"name": "밥값 하는 남자들 제6회 26/11/09",
-		"title": "밥값 하는 남자들 제6회 26/11/09",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/밥값 하는 남자들_제6회 26_11_09.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/50520.jpg",
-		"name": "인생이 영화 제54회 26/11/08",
-		"title": "인생이 영화 제54회 26/11/08",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/인생이 영화_제54회 26_11_08.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/36354.jpg",
-		"name": "미운 우리 새끼 제522회 26/11/08",
-		"title": "미운 우리 새끼 제522회 26/11/08",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/미운 우리 새끼_제522회 26_11_08.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52103.jpg",
-		"name": "신인감독 김연경2 제5회 26/11/09",
-		"title": "신인감독 김연경2 제5회 26/11/09",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신인감독 김연경2_제5회 26_11_09.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/51996.jpg",
-		"name": "이현우의 체크인 콘서트 제10회 26/11/09",
-		"title": "이현우의 체크인 콘서트 제10회 26/11/09",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이현우의 체크인 콘서트_제10회 26_11_09.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52008.jpg",
-		"name": "디스이즈 현무로드 제8회 26/11/09",
-		"title": "디스이즈 현무로드 제8회 26/11/09",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/디스이즈 현무로드_제8회 26_11_09.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/28170.jpg",
-		"name": "이제 만나러 갑니다 제666회 26/11/08",
-		"title": "이제 만나러 갑니다 제666회 26/11/08",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이제 만나러 갑니다_제666회 26_11_08.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/50080.jpg",
-		"name": "냉장고를 부탁해 since 2014 제97회 26/11/08",
-		"title": "냉장고를 부탁해 since 2014 제97회 26/11/08",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/냉장고를 부탁해 since 2014_제97회 26_11_08.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52234.jpg",
-		"name": "전지적 집착 시점 제1회 26/11/08",
-		"title": "전지적 집착 시점 제1회 26/11/08",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/전지적 집착 시점_제1회 26_11_08.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/28202.jpg",
-		"name": "런닝맨 제451회 26/11/08",
-		"title": "런닝맨 제451회 26/11/08",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/런닝맨_제451회 26_11_08.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/42570.jpg",
-		"name": "1박 2일 시즌4 제352회 26/11/08",
-		"title": "1박 2일 시즌4 제352회 26/11/08",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/1박 2일 시즌4_제352회 26_11_08.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52006.jpg",
-		"name": "식스센스: B사이드 제8회 26/11/08",
-		"title": "식스센스: B사이드 제8회 26/11/08",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/식스센스_ B사이드_제8회 26_11_08.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"

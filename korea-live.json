@@ -14,11 +14,37 @@
 	},
 	{
 		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/KBS1.png",
+		"name": "KBS1-02",
+		"title": "KBS1",
+		"uris": [
+			"http://113.207.105.246:8089/live/KBS1.m3u8?t=1795588528"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "kbs1_replace_cookie"
+		}
+	},
+	{
+		"group": "한국-생방송",
 		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/KBS2.png",
 		"name": "KBS2",
 		"title": "KBS2",
 		"uris": [
 			"http://43.164.132.11/kakaotv/get_channel.php?channel=kbs2"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "kbs2_replace_cookie"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/KBS2.png",
+		"name": "KBS2-02",
+		"title": "KBS2",
+		"uris": [
+			"http://113.207.49.20:8089/live/KBS2.m3u8?t=1795588528"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -40,11 +66,37 @@
 	},
 	{
 		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/SBS.png",
+		"name": "SBS-02",
+		"title": "SBS",
+		"uris": [
+			"http://58.144.139.57:8089/live/SBS.m3u8?t=1795588528"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "wave_sbs_cookie"
+		}
+	},
+	{
+		"group": "한국-생방송",
 		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/MBC.png",
 		"name": "MBC",
 		"title": "MBC",
 		"uris": [
 			"http://43.164.132.11/kakaotv/get_channel.php?channel=mbc"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "mbc_replace_cookie"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/MBC.png",
+		"name": "MBC-02",
+		"title": "MBC",
+		"uris": [
+			"http://113.207.105.246:8089/live/MBC.m3u8?t=1795588528"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -117,7 +169,7 @@
 		"name": "연합뉴스",
 		"title": "연합뉴스",
 		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019dd8deb9f5153d7865157cdbfbd6/019dd8df3d75153d7865157cdbfbd9/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU2OTA4NzEsInBhdGgiOiIvbzIifQ.ff_7OdES8qr867biQGh7Y8rPuW0_vFn98wAzNP5fLsM"
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/019dd8deb9f5153d7865157cdbfbd6/019dd8df3d75153d7865157cdbfbd9/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU3MjEwMjMsInBhdGgiOiIvbzIifQ.l4eKEplS0stuFxFTjJsxswlfb6rRTBacSZC3MSobZSo"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -130,7 +182,7 @@
 		"name": "KBS뉴스24",
 		"title": "KBS뉴스24",
 		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019b91fde7c5153d78651307e41e2a/019b977c8b3a1eb80e79141423fc3b/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU2OTEwNzQsInBhdGgiOiIvbzIifQ.gTWuctHXcSbJv2IhC1QDh_NaQoFCfY3dYCP1jw-Pjts"
+			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019b91fde7c5153d78651307e41e2a/019b977c8b3a1eb80e79141423fc3b/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NzIxMTY0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=h4f3L7~r1FTaUIof86OgQl0o-NyeR6P4kWL1K7BpWdQvcu2NhalKFAlwQ90NA2TQR9qibEr3dmTkX0zOPEQ7U9HoJEN9rJvzJM~k22OSLQ1avqsuI6ANxLB4GMZhZ~6QNcvjQ11w1oy3XkCqFLg7bhE66V5Bh19bjKk3R7fGfXigp6IhoMc507Uc6kCbO0yuBHyvhR7bhsUaCyqvf7mN~RZu3DMkv6qg~Z2L4mQ~HLmlShQXB-yjVKjOE3rfBJ8UyKlLW5tAbcJ5OEnMxCr2kLtTPnwEXBZjaXK55q94lRjCg8H9xdibz2w0BopDKXXH9ycVk-BrthJFFXKWh18emQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -143,7 +195,7 @@
 		"name": "SBS 뉴스",
 		"title": "SBS 뉴스",
 		"uris": [
-			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019b974ed45e153d78651307e41e33/019b97555b3a153d78651307e41e38/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NjkwNjIyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=NnaHcVDzGuJ19oVETDKYJ7ZWRq8h-jcEQGc22SsF61LSMeTqWC6B~G9vidiM~pV802MLZtM-31dzUn6LyX7Pl2IH1I-HCvKRUqK97TnJTIf1UuiiZL4jJ73TH86OWEFDbuNTMgMZnKcLIOwRfbSuj-sl0pCvM8H8QhLTXLWeCgM8fPM5zqmwYsXeoNcEuX9qSgaIRpEuYrkIQ5o0hDAKe8nNF4W6pJt~EQiHL0DdISHq-s9G~1gOBR9kB~qSkOZhuaUB8gmyBvm8rmC0NAOE~PXdAvHB06pDDhNkdP9MUNoSXoFDoRF8Ws4ddK1i8mtTlZGnG9skLswGHVI2LvwGVw__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/019b974ed45e153d78651307e41e33/019b97555b3a153d78651307e41e38/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU3MjA2NTUsInBhdGgiOiIvbzIifQ.KkxGM07-hgJ1voBB4ZpXUrlFsOsEwj3qmccR_tORNOE"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -182,7 +234,7 @@
 		"name": "JTBC",
 		"title": "JTBC",
 		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019db87e92691eb80e7942932b5bd/019db87f02501eb80e7942932b5c0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU2OTA2MzMsInBhdGgiOiIvbzIifQ.AU1bG22uicchteX5wOpKjAlmN1M9YGDHCTVKYxpOOHg"
+			"https://tving-live-o2-skcdn.tving.com/o2/v1/019db87e92691eb80e7942932b5bd/019db87f02501eb80e7942932b5c0/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NzIwNjY4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=b6avai5DTu~1zYZDDeJMSuvYxtF1TtVV6~psQ7DM4xBadrKffAUQjbZ~Uj8mlIdAn1UuQXt4hG-zknWIDlP6UxFY3ZYixPGPbM9kvrd93qsMi7rDOAw4rjgou4-9HJPFzSpXRT2EbFO~gR-ojMlk9jtZLz5ZYnvTvhf--qPpA~iAph2G88FVZkTgVcNeYHAFvhPVz9JOI1y1kzO2lTu3DtT7TX2M7doI-uH2Cpbwy3EBzWAxJ0UEcvRQPPKOzPdgO9KovqauX0I5svqS8pkZoYBeAAo9uyenKwPFnMmz1gJQM717a3ESgw9~8V43bV1R2H8Y0jfoZCclsx3Xe6jphw__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -195,7 +247,7 @@
 		"name": "JTBC2",
 		"title": "JTBC2",
 		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019d6c233d781eb80e796d9bd9cb7/019dd8d54768153d7865157cdbfbd3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU2OTA2NDUsInBhdGgiOiIvbzIifQ.bgd1VKijDA1mJdSTm1jkBvbfwNDj7oeDhx3_vxymHqY"
+			"https://tving-live-o2-skcdn.tving.com/o2/v1/019d6c233d781eb80e796d9bd9cb7/019dd8d54768153d7865157cdbfbd3/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NzIwNjgwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=h7sW~27xB9SMTeB1zNi2gM~WZOeIRZEKWL7uVoTinKqViybbrEyYq3JSgBIALKRb-MJkZeIRQdbsy4qTd7mK6d4MWuH7glpX~F0UfzRNIWiVwXgSRBVEF1RoD4eqyNmtOd1hywEgvvGhB5-uvzT7uhLRPY1~kKEsBiAjn8SWNfgf20tLuqsR4VnjDXWj9Ub9hDAOlPpwc7tyzB3bR1BgTJWuyKIdkeVz7O7BWNJpYMobuLCAZy8mf79AaeFEbjnPHuixs5hPjyf7Yq0nM0HJ~5b8HxPuGQdqr-AGTCNWbL5AOCti1zxI2QRH9a4oMPFV3r289LFf-LpPNyT-YNdGrQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -208,7 +260,7 @@
 		"name": "JTBC4",
 		"title": "JTBC4",
 		"uris": [
-			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019dd2ee3a6f1eb80e7925af014fb7/019dd8e4b0c6153d7865157cdbfbdb/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NjkwNjU3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=RsLhVIEGR5nuZiMxebNbtmeoG0KHDhceOIluhh7hRkOMvaKYjt~cDb-sI61i~UvqfzHvM8H20BH4oeiCJU1Jz3AOzaAiakaN-I9q80SqbYd8A7CX0~2-OWDwY3QvwDgphWhREchb1ZyeH7jSWEFhJ0DRMvAwHZ7efUTJ3EW9UYUtaozzDZf5vdd9jc-o-c4m8oLkYGE4c8MaYeoDascjpSz-cx7S0HUGm2MGPzSRNn~xb8kZuutDxMppHXx213kr~aUFPWJZxalhBsn2HSGKzg4wi4qIUeMOgMeywg-nP3QmSPNRuFzip9QnfxknPjIcut1FbyxrpJuFuU6M29D5mQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/019dd2ee3a6f1eb80e7925af014fb7/019dd8e4b0c6153d7865157cdbfbdb/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU3MjA2OTEsInBhdGgiOiIvbzIifQ.svUM8nvcaa7tAbombzh5rirW0D5V9GmkoFjnTlkqeDk"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -221,7 +273,7 @@
 		"name": "JTBC 뉴스",
 		"title": "JTBC 뉴스",
 		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019bf8af365e153d78652a264b9f3f/019bf8afd0fe153d78652a264b9f42/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU2OTA2NjksInBhdGgiOiIvbzIifQ.9-fhNW9jSmfrY6JkHar2qe2Mfpq31rdcTOmrkcIXCmk"
+			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019bf8af365e153d78652a264b9f3f/019bf8afd0fe153d78652a264b9f42/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NzIwNzAzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=Z~nSVwrV0svE9dTdlp44HoF6qM7HcnQIUCf4GkiVX1REN-OsuxgoAwFAGlfyrvDJ-UllQ0AvbytSqUbTV6zrACAjd8-1AVZanjSypqBw7-B-YcQlLJadVWmagyPzfHvPqWSjIW4~SUxb6YGz3fmFKKypXGR7MP5pnfOxJPRgKsJAhogvQbIUBBEnQsLd1Vk9A0YpID84-VdJUjxsrliMPKv8uVVhXTwEiGLcPtg7zg9uV97JbVAO8cy6yh-Wn-jyswMkx-NhJTGQT5NbTbLJlrXu5~kcPeyGDCQcUO0e5Ov8txMNla5U~GIYN5WwDIMJDxvpvOgLqVZhlXC77XoaEQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -234,7 +286,7 @@
 		"name": "YTN",
 		"title": "YTN",
 		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019db80595b1153d7865047a0ccd/019db8091f9d153d7865047a0cd0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU2OTA2ODAsInBhdGgiOiIvbzIifQ.EUA1Aw7-Iv0AVv2i6E4NECdrMYBUl6D8wOjUwH9Px6c"
+			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019db80595b1153d7865047a0ccd/019db8091f9d153d7865047a0cd0/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NzIwNzE1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=jU0DJUbrt5pBtPcNY7FWaMt350qPhOf81V0ZrOI5pUrD5LRQnpyZV5oW-ctbBHQ9U8cLUWoVw1V84g6bNMSERkxB0XSEvTSAQT8KxX-HCKFuwRG6mlUrqmrMyusHAvc50lDKNyn4GB0BBsAlbHd77B1paYfsyjeexiMn-foUGMeuWwOvbjYej2mRoUKHD~5xN8~zJY9jypkUW40PVADloAXiFCmSn4-7VMrMRBuA-nJH7un9jUmvbLw~nt-FF8~CxxV0izJl7c-IzrrMsGch2mRBMx1XC0k7M-Ct-vovX~MfvUrPV2qugXPDXw3p514l2c2F1lAnG3LtwkcSzwy73w__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -247,7 +299,7 @@
 		"name": "YTN2",
 		"title": "YTN2",
 		"uris": [
-			"https://tving-live-o2-skcdn.tving.com/o2/v1/0198ee7226d21eb80e7929b1a2cc44/0198ef058f1b1eb80e7929b1a2cc4a/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NjkwNjkyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=TxrYVvMez3i495e8cMJmzREBGJx4sJOv-Pjcy5MfIICQESAx-ME5NojUyTJ3ahpSFHuebHSYdjeBXGOqw1OMBM5xxlMvQ-2ZyG4nP536t2pwOLGt7ZpPiv9Kim2YgB-lTAHAj~qtKyNxmQTOZHBADAF68ZfmPBBav9G6r8P~kBVC5SHvaFbCWhSVCuVnQZ4dKm7dmCBt2nMntwUkm2bZ4sLuxlbvmySYEE74wFTFYF9RdLycwzTExd3F0w~UIzXXTwdNkQSGQmOdLSwmiFClISWFwfmIvcbzX3joOreb2YHZV~QkPUSOuCMsWwN1XkSYBjDmQQ6g4zl29XZ8QDkSNQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/0198ee7226d21eb80e7929b1a2cc44/0198ef058f1b1eb80e7929b1a2cc4a/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU3MjA3MjYsInBhdGgiOiIvbzIifQ.dfCUpKjq-IY80sY2UAZfbNzk1rx_MzhOliJ1a3EaeWM"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -260,7 +312,7 @@
 		"name": "YTN사이언스",
 		"title": "YTN사이언스",
 		"uris": [
-			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019dd8e7befe153d7865157cdbfbdd/019dd8e85ec7153d7865157cdbfbe0/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NjkwNzA0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=JtIlkrBF1izr~ST5Hv7S3qvsVuDSbb-BfgLer9~TAC3ehS-lZoz3vc4NhnEg7mcUPfckW0l7CX9faPqXzKyNMF0F6rnQAxesTUqFpw7KtJwwv4J4V3Dd8TA0~d8RIOkkno5zBfgHJNAQe9q3WEf97pyZzwtUuN~rs4PvGQQ3z1E0VrXRtdkc38sZB0KpGv20vwFClTLnXImf0x3LCvO-CAv8-x8DlLGu3Pcwxs91YxwHTbOBvD0KCX8nAu2-v4wKc9ZAOu1TLGFFlVGHX4HSCzs6Bx0wDXvrIj6NLRyw6gu97qS~lS2zP7XZhk8FgvG1r4p1UVgMhGKRTGibJ-vPKA__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/019dd8e7befe153d7865157cdbfbdd/019dd8e85ec7153d7865157cdbfbe0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU3MjA3MzgsInBhdGgiOiIvbzIifQ.hxRizpbOLOnS99Ua1WnkjJwgnTj4w-nEE6AqYpY3cZY"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -273,7 +325,7 @@
 		"name": "TVN",
 		"title": "TVN",
 		"uris": [
-			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NjkwNzE3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=eHTeKBAWrE~dBU4NTnjzUKtKHyMZaGgMr0rdFaeGpguVekWrWM8cooFEBKPows891MPorBZSLWHx3LLXG8qL6BSLyoXz9mhtuQ1VjcFDnIMCI9zt5t5Saac8a8zs2N11jqUJfD7-9RAVIJufZlfMddIkuHrTzCBgM0DUKrJRF8r0thqw9pX4Zch1xWRV9sDGbmVKYe9rUGM8a6eCs9XJmCwVBQAeU498EUueYyg8cO4ehyWGXaP9pAVtAJ6z47LYKLURBElmPNeAwBHu65SIIbUJ9GosVMLiZ9UMVANpDGiXgsqnnGg0p562fUvYw8jHC697rVELvO09e2NcLZQHWw__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
+			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NzIwNzUwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=kWszGRUWXmWzE7oVuxZXJHE7vaIEBE~GdnEpavCeosUx5YhaItkYrb~X7CalxL5Rdf~j~eHIPJeT3OlMzPQQRoozOytiMofd3sso0C4gHVIUCRDdh9WsEM51W55Cc8~ftopfiUe7mOWHeVd-6Nihp0vE~H5kwL62m2trkfnc9rphLwSlnEVozSlkGaEvHPWp3erY2hQoLNtmdr9i3ttvaOBiQfQOjocPpHhsinQnIGfIwR459dqTmj~dXNTXSq-To6Q-JiifMY7qytuoeA4gKOnOH2xoRDXJMRdDNVMqU5eTQWS4wua3YqN~m8KwMrGIKw4obUYkv3Wd4s9m~7rC1A__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -286,7 +338,7 @@
 		"name": "TVN드라마",
 		"title": "TVN드라마",
 		"uris": [
-			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019d663b5fa81eb80e796d9bd9ca6/019d6643c8aa153d786553381d0d3/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NjkwNzUzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=ScOnHGOMKyycCJYE14khnWsfixlququ~M5LueKaqmJotToJouXXVyVBLeo1IMES9AGQTEX-SpXL6Gxz8gTVXLDql1a-qPtMAVgCd32Rdk9EaTIeY1kCvy4dkSMmtiK~ZJpJfYGptnAN2l0z44usIflVOYsFz-fteviQoUbKWyAtapaVaLx3ILlmZgr4wr6hc2yul5bnhmhEPQDyLZv1QeiZPJaC3a7KA-MKSFrHzUj65cpFwaceAVoLn2KDlEkV9ck0toICQP4pPPDQkyIl8m3H1x-XXOnPuvkNy7BZE~K~TJsjJx6ll2hz7ZuradhrzXjnK4u7Ta-gQUZCrzSBc5w__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
+			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019d663b5fa81eb80e796d9bd9ca6/019d6643c8aa153d786553381d0d3/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NzIwNzg2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=jI-eAFAT3~sADgdzSphjj7rxq7tusYzgOlrNPU-NxL4c1BOfT4mdfe0XvmOEAA82eRu7x7p8k4dxY0NP2t1Ypgq23CZJjibtLWWdi~qTpFy4gHA0YZsHiUow3mPXMxFOxMTV1nYl11zk0a0sHpnFFaTsvz0m0Z82C-Vg-v9TrnsoNySAU6cmE5uA0WRPdrtZqXjp9K8qOILcof46Xc2IFivVEIg65sfNHpToejYQGK0XPosMVJAMiL~q35tUt7JrVkG1mWbF-wWHD74BDf~3NfB7L1~DeJssugMGTnNkJBZhtNj54KqG094ULnkxrsEByyys1~8negUHipELr0Ukbw__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -299,7 +351,7 @@
 		"name": "TVN쇼",
 		"title": "TVN쇼",
 		"uris": [
-			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019d663468df153d786553381d0cf/019d663eb5471eb80e796d9bd9cac/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NjkwNzI5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=A2GyTJRmSckwZVczccZjSXYeuX5EQzCsdKbYLdNRkujQthY9aWm4VYb5OKlGSDB5M6Nb0HyXj1JF99VwhwvYNE5n8oKhLdZtbHSQlMuI6sPzclkwazLFw4EEK1TthdmbL8aqg9P8d~XKptyAx0JFCP2eByartpAqhsDvxkFOuhPOaX4jK4c9OYjchabejb~ALIsQUxQMigCcpvCgwQMUfbIkEMIlTOApcVqzJb3edsPpAzE46LJ6DZ7x1XannJIZAgId0E4BrZZZJuj5cp66OE7VfPwI2IdNbzeJD1dUw1294rhUllzKemKxtDyl1ssZo4Z-xqWPza8-xbXqZUDPHw__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
+			"https://tving-live-o2-skcdn.tving.com/o2/v1/019d663468df153d786553381d0cf/019d663eb5471eb80e796d9bd9cac/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NzIwNzYyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=jXGqc1s2zVi0JpV4Dv4tFpjFCAcvwjxu5wO1ZXHTlglRoevy0g4oHuHNnHiYPRfuucKd7rzU09-ekIDbvS3OEuwLSivMe4HM5AXSwbx7yzUDwRCL67-CeWmoY9G15zohIKbYlkL-sRs7cONglORUmV1tB9XIVraFH3MB~MAm0~XmxdiQJYOMWdfLrutzP~wYRpl2k3a9hNM5KPmG6XrKZnDneysx7dwmudlg-M00SpEwGcS-iAsxWv7zYcEb6mJeGhXm8WYpuMqUV~tpkGUBPdisiqGMMvqYFz~0cYiwn~opZiHTzjWVEyVP2BEUyKkUgTk9MI3fUtXMralhH3SLEQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -312,7 +364,7 @@
 		"name": "TVN스토리",
 		"title": "TVN스토리",
 		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019d6bc0c1ac153d786553381d0e9/019d6bc4668b153d786553381d0ec/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU2OTA3NDEsInBhdGgiOiIvbzIifQ.Cmss2zPguC_TpQlXF35jX2Toigs5MITY1eVMUIWH_Dc"
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/019d6bc0c1ac153d786553381d0e9/019d6bc4668b153d786553381d0ec/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU3MjA3NzQsInBhdGgiOiIvbzIifQ.M_v-IYN87BXS3O-9JFQGDSLczYHMULB-8TJDNVoiLmw"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -325,7 +377,7 @@
 		"name": "MBN",
 		"title": "MBN",
 		"uris": [
-			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019d8a6c2db1153d786553381d0f4/019dd8e5a2ec1eb80e7925af014fc1/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NjkwODEyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=DzFncCJ6mXrNwVx2IwuaAN9bChLqoIcIahIMgR1Nmzj7ZuXKg1qiPQYWxsJ4DQNjP5EAfg7Z2Am7yBCc4SG0lg3n0G7fwPH-kTTtHM1~URcvmtY-YFiopbmfAolqewvwQUZRRt8xuJ9FTNolK~7f1T6XOH6YB-CebP9-Oe2ws6iD7uWUbcSboD3KCasCkUV-lqZHBtLYeBJauDlTFO1V9YNOxY4X5KP7rWTRdTtDtAPl2ktQ1aeor0bAdouBXgUBU5fRJe~-sByUnOeXN-ucRgAeoI1ln8~L6WHk5ygpCyNig1~QYVPZ1xiKdQdr0gAYdW0WK0suNN9WmC7V59SFHA__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
+			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019d8a6c2db1153d786553381d0f4/019dd8e5a2ec1eb80e7925af014fc1/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NzIwOTY0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=GaquGrowRNlbGKD9z0B2FY-8pC-ZJJKeGsfLbZNYIRoVzArSE5KEZ26x9sd9Abdzf~o5LUA5VaSRvI1~DpC363rv7R~V80JkHuDpS8Uqf9CmC0MwucI09AUXWsurT3RZYIOpEEGG7PLqj42hteO7WbNv9v8Bbzsh-dnWQUhjLDA1awf6ddtxuyWnAgqseflKF~m-CVjaqKAuMgG-9r2rMVzYAHHvTvLBsWTSxBUAyXCp-xRoPzZ1IdnTwEaAnlmOa9iL8GTuTVmBmEqIMrWpjqDI9OYZpObwWthrDNpyfFq~dWOZks75ymKV9EU0IR5H-ibaJilU1mTxlvCZIHwVzQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -338,7 +390,7 @@
 		"name": "MBN플러스",
 		"title": "MBN플러스",
 		"uris": [
-			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019db8dc792a1eb80e7942932b5c1/019dd8e25eab153d7865157cdbfbda/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NjkwODI0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=Zt6zT83iWP2d6NCeFz3eGNgtkQUalUVXWbriJhn0xgK0JUG6hNo7Cbz6XRDo-IlE6c6c65Nuk2iWwdWbUIRviXLYAsj4Y9ezW4b5MhvRx0slcgaBrf0F3BkjLWR6j1~r0Wnirjuqtb5Pq5lzSltFRfdr9fKrDNEihG1mnnIyPRLagJ~KaNPDBD4YSiSBTLAV2osj3jIytBUSRkm-HEXlzxsQw210eg8qU-gb2NT9UhA4D0xRG0VDeCcsrDzWfBmq810agaDw-maXh3yiP~MaWRIfq9w2BPMSkVrqUNgtsHfOIkmHLITjh8R65hVIzQb1Q2kkOMqbL8NqJRMdy7k0IA__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
+			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019db8dc792a1eb80e7942932b5c1/019dd8e25eab153d7865157cdbfbda/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NzIwOTc2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=jOkqBy7kPwjHxxzKatH5q1HdQjiDU0iUFtDjxp8Qx7agN6wsxZMXLc8JjYCqIKDDEI6sKKDSMUMY5EcmyaqQN2vaa1aZHDwEoxl~PUiLVGoyq96YhngaMppdM8fnmjm72gG1liHpWJAz4yJHZUKaOrEa7vJT3Knp9Gu1hZ9lcopmeDMWBlP8orXqIgwDxnUnbm-ts3HuT8bGmKOVFF668Pzk3BQ2fBsI5s~wnMHDACW9clYdfHJA44wN~38~vISbbzOh0Zgeuzr2DzA4xyIUYjWL9~fNDFeqZ3iFSAPsGMapQb3lA4FbULjVyAs7Io891pCYbHXvNAMup4VgjtM7gw__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -351,7 +403,7 @@
 		"name": "MBN뉴스",
 		"title": "MBN뉴스",
 		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019b8ccb7875153d78653848a01248/019b8cebaab8153d78653848a0124b/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU2OTA4MzUsInBhdGgiOiIvbzIifQ.RWAF9ynTTy07rzVy-HOvooqKEzDOXcRYs4_9X7B4mt8"
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/019b8ccb7875153d78653848a01248/019b8cebaab8153d78653848a0124b/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU3MjA5ODgsInBhdGgiOiIvbzIifQ.8u8x4ROK_o7RbV_4KSdx1B32HSfTrDbUYSIK2M_dN_8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -364,7 +416,7 @@
 		"name": "MNET",
 		"title": "MNET",
 		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019d66afd810153d786553381d0e3/019d719c3005153d786553381d0f0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU2OTA4ODMsInBhdGgiOiIvbzIifQ.l01rFGnhr6qnvNl-eBiBxr4y_rajyFL75AYsNBhM91M"
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/019d66afd810153d786553381d0e3/019d719c3005153d786553381d0f0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU3MjEwMzUsInBhdGgiOiIvbzIifQ.84jexkE9mERkAttYlcZwtmLIizJaadTM2n0bUnYN5QM"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -377,7 +429,7 @@
 		"name": "채널A",
 		"title": "채널A",
 		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019ed8854c2c1eb80e79cd7979dc2/019ed88d352d153d78653cb4bf7bdc/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU2OTA4NDcsInBhdGgiOiIvbzIifQ.69V-S-O7mlXpfuh-2DiTGd-uUcelKjeotMreLYmrSZY"
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/019ed8854c2c1eb80e79cd7979dc2/019ed88d352d153d78653cb4bf7bdc/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU3MjA5OTksInBhdGgiOiIvbzIifQ.H4Mdp-g6kR2Y8U_khecUl4iYjhviCa9cvQxkScTB_kc"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -390,7 +442,7 @@
 		"name": "채널A Plus",
 		"title": "채널A Plus",
 		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019ed904d9651eb80e79cd7979dc5/019ed90583cd153d78653cb4bf7bdd/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU2OTA4NjAsInBhdGgiOiIvbzIifQ.qWlppASGevf6ff4eBnrQtf7ROf1mWnGxKK6QPjVVJBM"
+			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019ed904d9651eb80e79cd7979dc5/019ed90583cd153d78653cb4bf7bdd/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NzIxMDExfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=RHYpzZEVagct5onDE-3wy6L3x3DVo07g8~LN7O7wiq-kabCmRoXv5RQzXeY014NrtrMAXpyYyNHj17ksK4kty2atS~OTaWERB8LNGxIyefxPfnUTHSz4VSS~TwvWLDZpUGlruJucpCOyXzj7AYhAsMVuBDLfVdxPsy8xuvdJEVU7DGblxttYo7kNRW-xUQCQA4ZQV1juln1Zj2Z4Ol2nHDRvNt4nhw0uILzuluHHRJ0rdqhOm~HNMvWz1J4u2SUs7jQOHff-px72hbEpeuXHzukVCTqTdfgwG0Ai~zSMKasEY9ebA6OGnnA8JupjQCRJHZhi4pnECEmZGXk85ZKNkQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -403,7 +455,7 @@
 		"name": "애니맥스",
 		"title": "애니맥스",
 		"uris": [
-			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019dd8e9cdf51eb80e7925af014fc2/019dd8ea6ac81eb80e7925af014fc5/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NjkwOTU1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=fLDmpiWVzohjQ75wzxZ4PwEVRJutsEtc1-ZkFjLEgmH1TK9ZuxT4u5gMWjU1xgFxJfzKsvYtqnX~P215a8~683RPmYFk7tfoQJFr1hoA2EFdXyumrQ2eLLN05n63PjD7kM4YebVlIfClIL-IaWXXhq7eaF-hwXofhUKdIjAFuw~Q6P~ifXbZN6m0~8G6mbtMWRxlh9UfyHZv6u46bqiBH9a43mV~WzIA8iosQFqXTBLH5hmWKU3MIlrjbj7~DrcgQ1gnBAjgZhTHFKP-IXzTJqvdmmLXBuEEXIpG0p3ckkzIqflX8eHqZ5pQUyB~N2L5g3GCZ-7IIrgQU94SNq~sjg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
+			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019dd8e9cdf51eb80e7925af014fc2/019dd8ea6ac81eb80e7925af014fc5/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NzIxMTA1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=RLivdOujlB92Ahe-I7qkJSU1pTfsWRS3rREPPRlQh8CIwQiNiPqvnZwh-vWqxllu~k-zAsEu4zhYWURfv4Tbw734qIBwuNbFeNZZR-qy9nqsBBWuzeYh9KVIqKXw7DsVMf0cwC3u0TnT2Y5Ix0YxEuOPT3OLPF-EmOfUnz4vW~zXCEJieIbAgSlJXcUpov~sLj5KMqg9AIEq2QwN9JdTNE7sqSNYUOk~cf6LV3WHEdaVWP0vgjZ6VDmS5pywhm941uUbLBFTgyawviYRl1hmK3Fpo2MqGWwDUIHvJOZG0f5ER4W~HUp0hjnKXxHWmJAJW8h0qDS~DTlFfjeRe5YAMw__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -416,7 +468,7 @@
 		"name": "애니플러스",
 		"title": "애니플러스",
 		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019dd8e090841eb80e7925af014fbd/019dd8e1306f1eb80e7925af014fc0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU2OTA5NzksInBhdGgiOiIvbzIifQ.N3N3nnJbumhuAFW2SsLpVwjlvNf6zfQfhC_qyrHy9K8"
+			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019dd8e090841eb80e7925af014fbd/019dd8e1306f1eb80e7925af014fc0/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NzIxMTI5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=gFW-0ljdriQp3oKPLlQkHYKeU1LiukxkoAlW7XC49fhzpgkv3ZZ7znD5MzcOyAqPBH7lu161iWdze3ovgdmGchjFXHu7w48BB50se4feyb6xObv6Q~g7tIhM-cm4dxCQaxm0T21OVkMnawIKxBYdAZntViHdhErYeh7YhSjkYa1OLK3316NPT8CtdEW6xAMavrmZS~E1~Ggy~PSX4SPDaoXdRy4-2appf68Y544ZANmdVP6VUVSjY483b400jqtK7-2LNVhTogiPzJKMjf5bqyxntmyVIpiN8ixNgifrHkWJUbVLS-TWZx44DZdZ7EcP~hNBqwg9v1tCan66Af2Dmg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -429,7 +481,7 @@
 		"name": "ANIBOX",
 		"title": "ANIBOX",
 		"uris": [
-			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019dd8ef15b31eb80e7925af014fca/019dd8ef8adc1eb80e7925af014fcd/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NjkwOTY3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=OkZb0Zn37dQo1HPpJDTyoLZMmNns8dlv7pcf9x0MQT9g2IUWwbp~sn3K5YE3EKzSPRm7ZJP875oj6GsFeQEi2lrlFt8moYcZniYe0PGWdsgf1MfOi8q~wbUM2iQ3zr~bd0yvLG-fqXE7jX6dKgPEYObTYOBuLRhlDTsQsCq-sU1-Zmj7uzhulPqbcPeSLyWfzpTT6jsrOpZH6u-uU9R3GGuIzOhVNtoT5hB--eQXoa9IuurhQt-7B9cmTO9DtRhl3x6E778HrfIHxisN8gTf3VOaLIANHw7hTkzZZsZZk~cakd6R9lwhx6cV9eZKIUfLR~3BPweJvmRpHncWHUK9Aw__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/019dd8ef15b31eb80e7925af014fca/019dd8ef8adc1eb80e7925af014fcd/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU3MjExMTcsInBhdGgiOiIvbzIifQ.EdbIEWVNnZFuw2lza4a6GClyXVHK1lph6m_MrALWQiM"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -442,7 +494,7 @@
 		"name": "EBS",
 		"title": "EBS",
 		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019dd8dcc9101eb80e7925af014fba/019dd8dd4784153d7865157cdbfbd5/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU2OTA4OTUsInBhdGgiOiIvbzIifQ.E_2ylWcrbOICw8H_a1i_p4rzoS2fxjr5YLlOScll3qc"
+			"https://tving-live-o2-skcdn.tving.com/o2/v1/019dd8dcc9101eb80e7925af014fba/019dd8dd4784153d7865157cdbfbd5/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NzIxMDQ3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=lvCUAjWc3kCgVAcB7ls0ZO5A6TDC1K~m~Bo4U0a6d4WNJjAAVhBDLnG5~VtrmpmHqGuO8bTV~4QTshRrAs7lpsmf2Vlgk3uIYfowp1fbH-rwC4ufIWHVGvGln5NCyC4BA8BxHa7yi5rcOTX0Tyu7c35wJsE-b8oo9~mOmPSiNMlQtHHnj3Nk80ATYqjoiHU-DuWE5U7OROBTFtWmpQIfFB9hvNoNWYIV9H0T39ycMVghOytSlMSxmIon54oqWOfROrg7i-iYe9Vg-rS1QX4Ivugj-0-VG5RDjxgw1HHpQTWsPxNNnc21AhydZg3lPLO9zJGfzrKpd9zLDN-8SmyZvA__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -455,7 +507,7 @@
 		"name": "국회방송",
 		"title": "국회방송",
 		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019dd8ed46d61eb80e7925af014fc7/019dd8edc8e7153d7865157cdbfbe1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU2OTA5MjAsInBhdGgiOiIvbzIifQ.4u-2a3pMc7s2mptmidEG9PzTKPLDsQbRhcUZNRIldHE"
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/019dd8ed46d61eb80e7925af014fc7/019dd8edc8e7153d7865157cdbfbe1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU3MjEwNzAsInBhdGgiOiIvbzIifQ.9Ev5YEomLuGZgRL02d4fsGHMj2OT-ZD3zN4F915XDtQ"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -468,7 +520,7 @@
 		"name": "중화TV",
 		"title": "중화TV",
 		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019ed3e5e210153d78653cb4bf7bd9/019ed3e6c4931eb80e79cd7979dc1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU2OTA5MDcsInBhdGgiOiIvbzIifQ.bCeR0J02fSMEAQ2s4jfAOcfVqMchK1399EMPiBdbn5c"
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/019ed3e5e210153d78653cb4bf7bd9/019ed3e6c4931eb80e79cd7979dc1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU3MjEwNTgsInBhdGgiOiIvbzIifQ.E7pYY5sU8qwu8An5O__HvUdkqQNQ4EtxqYx3wXJtNU4"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -481,7 +533,7 @@
 		"name": "히스토리",
 		"title": "히스토리",
 		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019d668d94731eb80e796d9bd9cae/019d668e57a61eb80e796d9bd9cb1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU2OTA5MzIsInBhdGgiOiIvbzIifQ.Cr0uYgU1ieIWjX_zcERMn6Qo-vCw6lkKRfeUXPSzvhA"
+			"https://tving-live-o2-xcdn.tving.com/o2/v1/019d668d94731eb80e796d9bd9cae/019d668e57a61eb80e796d9bd9cb1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU3MjEwODIsInBhdGgiOiIvbzIifQ.hgXAH5K0xCkjLmLEkAjsf1Vqnx-OK6Hr_ralWyswbA4"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -494,7 +546,7 @@
 		"name": "LIFETIME",
 		"title": "LIFETIME",
 		"uris": [
-			"https://tving-live-o2-xcdn.tving.com/o2/v1/019d668fbfde153d786553381d0db/019d669072be153d786553381d0de/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTU2MjU5ODcsInBhdGgiOiIvbzIifQ.SAn6_U9k1NAVocBd6f-k2Mz8ksn_rxHyV7RejuL8BOI"
+			"https://tving-live-o2-ktcdn.tving.com/o2/v1/019d668fbfde153d786553381d0db/019d669072be153d786553381d0de/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NzIxMTUyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=TjA5EE31NiOZI8QuFmHO-RJ-w3lHrYeEJhNWyEsTlCwGq~YpvS9MPsdSZR-E6z7y9f4m7vzngC~oCxIAkbG6evbyQu9UG-6Mn7XoM6rUN46RDoMCd6-2GCDK7lJoZxOjnniZZOaylIrK2hYtBZFrN4QEICsKpvErAOqVaIYqLqF3Nnzi5~JsVI60pt6Y6WitAEDJFUJlK-GDXFDtqYqk4pqwsbsgvovbDvgGrw5V9Mwe96KLSxAhHRxvyJbXjIhaMi6AKb7XVO7bZHPYGAGCEHZAStA4f83HaXq1xMsbZK6hxf0QOwO47JTBF5uuuCkhbVM2I0gb3MLtNk4t7Noq2w__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
@@ -547,6 +599,292 @@
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/EBS2.png",
+		"name": "EBS2",
+		"title": "EBS2",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/2I/0000000E07/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvMkkvMDAwMDAwMEUwNy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1ODc1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=oONVqUAJ5U6tBKDbXwGxJNYxmsPeYl~bEFzuEbB~D8mx06nqE31cgxpM2Li0R5o9dP90GCQVtQpM99Kg17F1Q5vMH5BaTCZJ-utSn5u16nBMnOZS8ZSH4SXRfxTIwZ4Pm95Mkr8r4soIUbDbpkawrEDdCgPu0ujPjayNDVsh9g0_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/MBCDrama.png",
+		"name": "MBCDrama",
+		"title": "MBCDrama",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000M02/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwME0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTA1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=H2n4O~KZuYpf0eP46JADzMJH~nbwcmp0H4LSdtGQ7DQ47XwjzrSgm1inWSWwloqUjpFE2SKTBR5Do2ntxogxeyrV5vtG2rsCRx0vws53mpMKbrEngbpuEq~lQxZaC8yfM0CxvrDMJDT~Fv67O7ldw7ifFgCzO90h8TcuPnAIt6M_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/MBCEvery1.jpg",
+		"name": "MBCEvery1",
+		"title": "MBCEvery1",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000M03/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwME0wMy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTA4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=UgpOAqau8fm0cc2J6R46uWcIj--sQPvop2HN8wd3VImYzaaMNE5FwEym30ui5zO5AE7krpM3HU-HNJp9m876hM6ZwH2OjdJHYEPHIwRoFebcXImFGvB3adwiF187MY8Wv4th89Sv2laoLtpmvq~HJcS0FiYl9Cyfe~RHAR9~CsU_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/MBCM.png",
+		"name": "MBCM",
+		"title": "MBCM",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000M06/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwME0wNi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTEwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=VPlbjS6duizqhJITs9pMqWOgXw2o7Voo4X3hL4K7ZIhZRVd2EXH4tS09l9LhBKt-eWfF6-JwShR5CHHv5BYjC1x-37HtOnZsEM1GYzjdOPyU38UEZj3EAqpf49pVp6i4DnzYBE61qtB~2GxuGarv5D7mLfcF6~mhxdne5ZF~9vI_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/MBCON.png",
+		"name": "MBCON",
+		"title": "MBCON",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000M14/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwME0xNC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTEyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=kNeJMRnE1jdODmHRXgx1ZAAoAsrvHdIc7DCa-erkq6ONdJGt4xZjmcGnbBB2jSQpHfXX23DU6EZTrvNdCQlDu8U~MESyvYIBJ9OIOpb2O7XOIcf1plza0Yf1ps8aDXANJn9MXly1QBMWFHhn6DDsFRseoj2PEiIp~XqCWrMbDdE_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/Thekpop.jpg",
+		"name": "TheKPop",
+		"title": "TheKPop",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/5L/0000000S14/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNUwvMDAwMDAwMFMxNC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTIwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=jf0ClrFwBnwB9~YLM2S3VYszW01JfGPl0DMSrH6j9bTsGiX2iAvo2eg3g1F5yC~2QkQewvg0gLhevWvyIVvC6GMEFJCjFOhjT-B9ZgykqwC0zQLUoIzX402X3ySU9UtjFay09dPS0ph88sqzRmiH7C8pZYWawnI9KYH4Hu4E4Jw_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/Kstar.png",
+		"name": "K-STAR",
+		"title": "K-STAR",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/40/00000F6301/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNDAvMDAwMDBGNjMwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTIyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=SjkkGy4xTo3kxPnwWyFOliWipxI2ABcAxGrDtMwoLsLKU3GixulSARMaeX0gI0mfAIzr-w0W6KDZRxk1igR~kG2KhSpE~~3OuV8hyua-6Tp~GPXal-YxTYCJC7cCzAlBFPtM91~hC7JGlzeqH-N4X5zx911P8ZI400R0McgXgPo_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/EBSKids.png",
+		"name": "EBS 키즈",
+		"title": "EBS 키즈",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/2I/0000000E05/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvMkkvMDAwMDAwMEUwNS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTI5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=t3OxlO2xH3SotvqtIlfHt8mazbMJ4uao3dcFwXMF1EZnErglMqpPymEMY70fb4oZtY30tAG4KL9K8K3FU2KUIKrHKGE~BwcYzfxxr0sOASsmRG~TS-OwbBjdfz9hMuEs9eodkqmqieNXI9N-~8aYM1m9rHo5UaYGxUQ0NWkFL-U_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/Anione.png",
+		"name": "ANIONE",
+		"title": "ANIONE",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/6F/00000C4402/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNkYvMDAwMDBDNDQwMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTMxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=NvVUDDIF8srg5C~nqIIVBd4QdQMhhOAaeFXgXEletHMeIyZBoF6AFnoffIDTZbdd7XJxYIMEuNMzeuJKUIRvpRY2X9P51m7p0lpLEbuUZDYFMeImmgVD171BGXKIhPTF1isdXS1Yez-2dUcxD~o7RKePU-bvs4pR0KrlLxGciQE_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/bravokids.png",
+		"name": "브라보키즈",
+		"title": "브라보키즈",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/11/00000C6802/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvMTEvMDAwMDBDNjgwMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTM0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=H5CA559TfTjUpm1ZKyf3V9LqGRl6wjzx4KOUQW56IMM9Snffheb7PuXrRTWBmONyQETG6WnD2LHQeq3pUZoEBf-8OsA1rA5ZN1b8GFoXvO94YlqEokuAgFPcC5ExRM1cCZbt1~QjKmzrQgNRu-~BeTB8i~auae~lVs7w~kdNwPA_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/CARTOONITO.png",
+		"name": "CARTOONITO",
+		"title": "CARTOONITO",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/HL/00000J2801/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvSEwvMDAwMDBKMjgwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTM2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=YfkLLWNplv1h1eQVLelF7A5hBtsC1MoxR3ZbKoSxwebhEnPUFfBKixkcxhKIH8hhAjNArUBgE84TQ7pfYx6nWBaeh0Ld4py-u87w1Cxj85gogWN6r--9hASuaFYR4Udua0uZ07lWz9RLozx3Rm8icAgHkys2-6qXt6s0Jdj0-u0_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/SBSBiz.png",
+		"name": "SBSBiz",
+		"title": "SBSBiz",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/5L/0000000S06/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNUwvMDAwMDAwMFMwNi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTM4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=GHlU9RpROLo1rVwIQgJZ5jA3xdK5d6DB-B5z5SxFS9Ixi1sjcTD4KM5qBFMY3dUaIliLS-lFCttQmcKQvIT1pXeH77tvXAmunJ2PW6I2SWVqTQZk2yKk-KNuJsEC88BHNuXGsZj1T5IBt1PjsPSKqQG-LfFPEh~AfHfk~uyGDpQ_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%EB%A7%A4%EC%9D%BC%EA%B2%BD%EC%A0%9CTV.png",
+		"name": "매일경제TV",
+		"title": "매일경제TV",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/61/00000F2001/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNjEvMDAwMDBGMjAwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTQxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=qFygqG-2Jk48wJAkgyy9tkGMUlRyPwyrZzo-FRJiFMkukV9YCHqhu8tcWgwlcDXey1kjZeD0cLbq5HYM8I-MECTh2~gJCjd9f2WW1jWN95r80rpmyCf6AQQkh75684h5JldAl6iVlGd0Hg2y~oJfQ18nXJLYSznmrAotZHjzMUc_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%A0%9CTV.png",
+		"name": "한국경제TV",
+		"title": "한국경제TV",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/33/00000F2101/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvMzMvMDAwMDBGMjEwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTQzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=bGXuTZkzrF9NS345dT4F7S5ER0Cd55iN0L73Eh9jefjVfvWLF5On3QWVfd5x7RY5iaW3tJPmAxDaFRNoyNCarPBVlKMhp55cbNSrtrGO5JRtfivertaRmIeSRsePsyrAIT3IQq6FN5heQuKYakxOXRhueb~k~rUwThc0~isyw3M_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%EB%A8%B8%EB%8B%88%ED%88%AC%EB%8D%B0%EC%9D%B4%EB%B0%A9%EC%86%A1.jpg",
+		"name": "머니투데이방송",
+		"title": "머니투데이방송",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/6F/00000C4401/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNkYvMDAwMDBDNDQwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTQ1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=FIowDx6JwvPPVn8H36etZxMF43o-n67ng6S--u~ltC0Wvlss1BQSH6n~cthfHQEY5Zlgxen8AuOFT07eAUqR32z~FEqcSLH2FQrufo51ccIewmTClBFnPxOsEt2qIBxbHE1QmNh3lwP0O5R2499OI-QpCCgQ8UWwIZt9J38edLI_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%ED%98%84%EB%8C%80%ED%99%88%EC%87%BC%ED%95%91.png",
+		"name": "현대홈쇼핑",
+		"title": "현대홈쇼핑",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/64/00000C4101/SDR_AVC-HD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNjQvMDAwMDBDNDEwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTQ4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=s-jHq-5YWGaV5~UvD68mJFAfCGEhJ84BMWi8ZG1iy2oiWcQ3xCbvLxgHZvoXffQCXgwiXQDzg1NvO9ovgqX-juEHXYLi2mCvNd7ONZ8yFuNJJzE5sL-oMK4J61B3M5QTiUPpNHPOYSbH0CkIOfWXxK2zS2qGjAZFMkT8dS29hD4_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%EB%A1%AF%EB%8D%B0%ED%99%88%EC%87%BC%ED%95%91.png",
+		"name": "롯데홈쇼핑",
+		"title": "롯데홈쇼핑",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/66/00000C5601/SDR_AVC-HD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNjYvMDAwMDBDNTYwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTUwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=CvdouL~YBTkyLl-~Z7WB2tEGm-ef2hIlYEpAKpODGrBLDFHkBEv~KTYkvj8wwJEcK4rB5We3lJTpc8Md2jx5gIfKnotyinMyTQHoidj57O6TMxuAQlC-W2kfs~ij1fETPMPdvEDDyfv8i1biN4jL~RF7yJiUedIbOo40kLnwFdA_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/GS%20SHOP.png",
+		"name": "GS SHOP",
+		"title": "GS SHOP",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/63/00000C4201/SDR_AVC-HD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNjMvMDAwMDBDNDIwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTUzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=AC6C9vNf3WoGg6HdX7ylrCwfDoVSn0HlH1V3LTvr769CKGPctXLNfSh7OF8GuvwwbAriH1OwUjBTH7623cj7kCUtUwre2v~ZkJq990QvF7CYx~hfJeUf1vIohVqyKcBpy5wS5jwoSAyX5QA-zT8X2oM3PU2Y2Wk3s-Lotojny-U_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/NS%ED%99%88%EC%87%BC%ED%95%91.png",
+		"name": "NS홈쇼핑",
+		"title": "NS홈쇼핑",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/65/00000C8301/SDR_AVC-FHD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNjUvMDAwMDBDODMwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTU1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=PXqPoTi8q9HBMTWTEDF367QaTnxPXCEIRX1CV48Mj856xy5ibbGEj25lLdm6l1VyluxUHkZfAua6O9fW-9UylSR3DeCJVW8FvRbkTKZ1XIajvMNDJb10RgGEwEyfIu9jb-~FzMrSL~MPW9O6Lv~5Kl-IDZozQBQcwJOukamSpC0_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/1%EB%B0%95%202%EC%9D%BC.png",
+		"name": "1박 2일",
+		"title": "1박 2일",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/4Y/0000000K15/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNFkvMDAwMDAwMEsxNS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTYwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=WFIDdETgRk-xvqK998OENuDBEirfDhR65DQqdJihBoOJv7WjCXN9KW4stNT19kYesIkwBee25V406d3n6nKOPu6-LO5n2s9qMYorUCWCJWneUeQHlwMQ6neSaMpjcWrbGwmuSWMxkS4M5dBhxhau3cXExvD0qqIOAfMNDsDMUSw_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%EB%9D%BC%EB%94%94%EC%98%A4%EC%8A%A4%ED%83%80.png",
+		"name": "라디오스타",
+		"title": "라디오스타",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000M12/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwME0xMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTYyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=uNfQCyZIShkOAUeiAfOdNmc7mSs8ZPfP16VhPsBHGrVpjbS64ka7AFXo8fzvL5KgtYjVzfSBG2I4Ty3pDT2H8kPNxScMeow0uUCHL0NxM1D1GF2jQQvKa0R5rC8iizpXvbPAxDjIcSGFCWRV1wZNENoNeEaTL7JDT9ZEuD0Pp2Q_; Key-Pair-Id=pub_wavve.skcdn.net"
+		}
+	},
+	{
+		"group": "한국-생방송",
+		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%EB%82%98%20%ED%98%BC%EC%9E%90%20%EC%82%B0%EB%8B%A4.png",
+		"name": "나 혼자 산다",
+		"title": "나 혼자 산다",
+		"uris": [
+			"https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000PM2/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwMFBNMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Njk1OTY0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=iPh84ha7p2dIynsOrGMUm5MzKhPo23EdytQc5KIgwyUDPp4KD-zrAeReF8rOCzt7Bqt6pg7WKtV64S~ube5~cWooGvdYM5ZwMJRCdHtQ0KFh~32oepsv4DufW5LDEC49hTDE3zod4DnWxfEXAHCC3drhrZ5i7ZreDLTZhKD-jJ0_; Key-Pair-Id=pub_wavve.skcdn.net"
 		}
 	},
 	{
@@ -1163,11 +1501,35 @@
 	},
 	{
 		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52248.jpg",
-		"name": "재혼 황후 최종회 26/11/25",
-		"title": "재혼 황후 최종회 26/11/25",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52221.jpg",
+		"name": "뜨거운 안녕 제5회 26/11/25",
+		"title": "뜨거운 안녕 제5회 26/11/25",
 		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/재혼 황후_최종회 26_11_25.m3u8"
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/뜨거운 안녕_제5회 26_11_25.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "드라마(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52222.jpg",
+		"name": "보스의 노골적 취향 제5회 26/11/25",
+		"title": "보스의 노골적 취향 제5회 26/11/25",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/보스의 노골적 취향_제5회 26_11_25.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "드라마(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52314.jpg",
+		"name": "나인 투 식스 제1회 26/11/25",
+		"title": "나인 투 식스 제1회 26/11/25",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나인 투 식스_제1회 26_11_25.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -1176,10 +1538,46 @@
 	{
 		"group": "드라마(다시보기)",
 		"logo": "https://www.kdrama.pw/img/videos/200x285/52275.jpg",
-		"name": "반지의 제왕: 힘의 반지 시즌3 제7회 26/11/25",
-		"title": "반지의 제왕: 힘의 반지 시즌3 제7회 26/11/25",
+		"name": "반지의 제왕: 힘의 반지 시즌3 최종회 26/11/25",
+		"title": "반지의 제왕: 힘의 반지 시즌3 최종회 26/11/25",
 		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/반지의 제왕_ 힘의 반지 시즌3_제7회 26_11_25.m3u8"
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/반지의 제왕_ 힘의 반지 시즌3_최종회 26_11_25.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "드라마(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/51899.jpg",
+		"name": "욕망의 덫 제65회 26/11/25",
+		"title": "욕망의 덫 제65회 26/11/25",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/욕망의 덫_제65회 26_11_25.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "드라마(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52003.jpg",
+		"name": "엄마가 미쳤어요 제43회 26/11/25",
+		"title": "엄마가 미쳤어요 제43회 26/11/25",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/엄마가 미쳤어요_제43회 26_11_25.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "드라마(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52248.jpg",
+		"name": "재혼 황후 최종회 26/11/25",
+		"title": "재혼 황후 최종회 26/11/25",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/재혼 황후_최종회 26_11_25.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -1228,30 +1626,6 @@
 		"title": "나의 유죄인간 최종회 26/11/24",
 		"uris": [
 			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나의 유죄인간_최종회 26_11_24.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52003.jpg",
-		"name": "엄마가 미쳤어요 제42회 26/11/24",
-		"title": "엄마가 미쳤어요 제42회 26/11/24",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/엄마가 미쳤어요_제42회 26_11_24.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/51899.jpg",
-		"name": "욕망의 덫 제64회 26/11/24",
-		"title": "욕망의 덫 제64회 26/11/24",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/욕망의 덫_제64회 26_11_24.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -1367,35 +1741,11 @@
 	},
 	{
 		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52221.jpg",
-		"name": "뜨거운 안녕 제4회 26/11/19",
-		"title": "뜨거운 안녕 제4회 26/11/19",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/뜨거운 안녕_제4회 26_11_19.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "드라마(다시보기)",
 		"logo": "https://www.kdrama.pw/img/videos/200x285/52225.jpg",
 		"name": "KBS 드라마스페셜 2026 사운드:트랙 제2회 26/11/19",
 		"title": "KBS 드라마스페셜 2026 사운드:트랙 제2회 26/11/19",
 		"uris": [
 			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/KBS 드라마스페셜 2026 사운드_트랙_제2회 26_11_19.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52222.jpg",
-		"name": "보스의 노골적 취향 제4회 26/11/19",
-		"title": "보스의 노골적 취향 제4회 26/11/19",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/보스의 노골적 취향_제4회 26_11_19.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -1751,11 +2101,59 @@
 	},
 	{
 		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/51863.jpg",
-		"name": "그대에게 드림 최종회 26/08/18",
-		"title": "그대에게 드림 최종회 26/08/18",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52221.jpg",
+		"name": "뜨거운 안녕 제4회 26/11/19",
+		"title": "뜨거운 안녕 제4회 26/11/19",
 		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/그대에게 드림_최종회 26_08_18.m3u8"
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/뜨거운 안녕_제4회 26_11_19.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "드라마(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52222.jpg",
+		"name": "보스의 노골적 취향 제4회 26/11/19",
+		"title": "보스의 노골적 취향 제4회 26/11/19",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/보스의 노골적 취향_제4회 26_11_19.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "드라마(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52275.jpg",
+		"name": "반지의 제왕: 힘의 반지 시즌3 제7회 26/11/25",
+		"title": "반지의 제왕: 힘의 반지 시즌3 제7회 26/11/25",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/반지의 제왕_ 힘의 반지 시즌3_제7회 26_11_25.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "드라마(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/51899.jpg",
+		"name": "욕망의 덫 제64회 26/11/24",
+		"title": "욕망의 덫 제64회 26/11/24",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/욕망의 덫_제64회 26_11_24.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "드라마(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52003.jpg",
+		"name": "엄마가 미쳤어요 제42회 26/11/24",
+		"title": "엄마가 미쳤어요 제42회 26/11/24",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/엄마가 미쳤어요_제42회 26_11_24.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -1768,18 +2166,6 @@
 		"title": "재혼 황후 제9회 26/11/25",
 		"uris": [
 			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/재혼 황후_제9회 26_11_25.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52275.jpg",
-		"name": "반지의 제왕: 힘의 반지 시즌3 제6회 26/11/18",
-		"title": "반지의 제왕: 힘의 반지 시즌3 제6회 26/11/18",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/반지의 제왕_ 힘의 반지 시즌3_제6회 26_11_18.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -1828,30 +2214,6 @@
 		"title": "나의 유죄인간 제11회 26/11/23",
 		"uris": [
 			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나의 유죄인간_제11회 26_11_23.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52003.jpg",
-		"name": "엄마가 미쳤어요 제41회 26/11/23",
-		"title": "엄마가 미쳤어요 제41회 26/11/23",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/엄마가 미쳤어요_제41회 26_11_23.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/51899.jpg",
-		"name": "욕망의 덫 제63회 26/11/23",
-		"title": "욕망의 덫 제63회 26/11/23",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/욕망의 덫_제63회 26_11_23.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -1967,35 +2329,11 @@
 	},
 	{
 		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52221.jpg",
-		"name": "뜨거운 안녕 제3회 26/11/18",
-		"title": "뜨거운 안녕 제3회 26/11/18",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/뜨거운 안녕_제3회 26_11_18.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "드라마(다시보기)",
 		"logo": "https://www.kdrama.pw/img/videos/200x285/52225.jpg",
 		"name": "KBS 드라마스페셜 2026 사운드:트랙 제1회 26/11/18",
 		"title": "KBS 드라마스페셜 2026 사운드:트랙 제1회 26/11/18",
 		"uris": [
 			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/KBS 드라마스페셜 2026 사운드_트랙_제1회 26_11_18.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52222.jpg",
-		"name": "보스의 노골적 취향 제3회 26/11/18",
-		"title": "보스의 노골적 취향 제3회 26/11/18",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/보스의 노골적 취향_제3회 26_11_18.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -2338,12 +2676,120 @@
 		}
 	},
 	{
-		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/51863.jpg",
-		"name": "그대에게 드림 제11회 26/08/17",
-		"title": "그대에게 드림 제11회 26/08/17",
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52328.jpg",
+		"name": "47회 청룡영화상 제2회 26/11/25",
+		"title": "47회 청룡영화상 제2회 26/11/25",
 		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/그대에게 드림_제11회 26_08_17.m3u8"
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/47회 청룡영화상_제2회 26_11_25.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52300.jpg",
+		"name": "스타일 워즈 제6회 26/11/25",
+		"title": "스타일 워즈 제6회 26/11/25",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스타일 워즈_제6회 26_11_25.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/51452.jpg",
+		"name": "유 퀴즈 온 더 블럭 2026 제39회 26/11/25",
+		"title": "유 퀴즈 온 더 블럭 2026 제39회 26/11/25",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/유 퀴즈 온 더 블럭 2026_제39회 26_11_25.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/46131.jpg",
+		"name": "톡파원 25시 제236회 26/11/25",
+		"title": "톡파원 25시 제236회 26/11/25",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/톡파원 25시_제236회 26_11_25.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52318.jpg",
+		"name": "스피드퀸 제1회 26/11/25",
+		"title": "스피드퀸 제1회 26/11/25",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스피드퀸_제1회 26_11_25.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/51314.jpg",
+		"name": "개와 늑대의 시간 시즌2 제45회 26/11/26",
+		"title": "개와 늑대의 시간 시즌2 제45회 26/11/26",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/개와 늑대의 시간 시즌2_제45회 26_11_26.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/28362.jpg",
+		"name": "라디오스타 제450회 26/11/26",
+		"title": "라디오스타 제450회 26/11/26",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라디오스타_제450회 26_11_26.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/51330.jpg",
+		"name": "황신혜의 같이 삽시다 제44회 26/11/25",
+		"title": "황신혜의 같이 삽시다 제44회 26/11/25",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/황신혜의 같이 삽시다_제44회 26_11_25.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52127.jpg",
+		"name": "IDOL'S TABLE (아이돌스 테이블) 제8회 26/11/25",
+		"title": "IDOL'S TABLE (아이돌스 테이블) 제8회 26/11/25",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/IDOL'S TABLE (아이돌스 테이블)_제8회 26_11_25.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52274.jpg",
+		"name": "내 새끼의 연애3 제3회 26/11/25",
+		"title": "내 새끼의 연애3 제3회 26/11/25",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/내 새끼의 연애3_제3회 26_11_25.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -3431,23 +3877,11 @@
 	},
 	{
 		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/51038.jpg",
-		"name": "서장훈의 이웃집 백만장자 시즌2 제54회 26/11/18",
-		"title": "서장훈의 이웃집 백만장자 시즌2 제54회 26/11/18",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52328.jpg",
+		"name": "47회 청룡영화상 제1회 26/11/25",
+		"title": "47회 청룡영화상 제1회 26/11/25",
 		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/서장훈의 이웃집 백만장자 시즌2_제54회 26_11_18.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/45038.jpg",
-		"name": "나는 SOLO <나는 솔로> 제279회 26/11/18",
-		"title": "나는 SOLO <나는 솔로> 제279회 26/11/18",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나는 SOLO _나는 솔로__제279회 26_11_18.m3u8"
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/47회 청룡영화상_제1회 26_11_25.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -3456,46 +3890,10 @@
 	{
 		"group": "예능(다시보기)",
 		"logo": "https://www.kdrama.pw/img/videos/200x285/52300.jpg",
-		"name": "스타일 워즈 제4회 26/11/19",
-		"title": "스타일 워즈 제4회 26/11/19",
+		"name": "스타일 워즈 제5회 26/11/25",
+		"title": "스타일 워즈 제5회 26/11/25",
 		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스타일 워즈_제4회 26_11_19.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/28362.jpg",
-		"name": "라디오스타 제449회 26/11/19",
-		"title": "라디오스타 제449회 26/11/19",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라디오스타_제449회 26_11_19.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/46131.jpg",
-		"name": "톡파원 25시 제235회 26/11/19",
-		"title": "톡파원 25시 제235회 26/11/19",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/톡파원 25시_제235회 26_11_19.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52070.jpg",
-		"name": "운명네컷 제8회 26/11/19",
-		"title": "운명네컷 제8회 26/11/19",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/운명네컷_제8회 26_11_19.m3u8"
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스타일 워즈_제5회 26_11_25.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -3515,11 +3913,11 @@
 	},
 	{
 		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/44865.jpg",
-		"name": "골 때리는 그녀들 제267회 26/11/18",
-		"title": "골 때리는 그녀들 제267회 26/11/18",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/46131.jpg",
+		"name": "톡파원 25시 제235회 26/11/19",
+		"title": "톡파원 25시 제235회 26/11/19",
 		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/골 때리는 그녀들_제267회 26_11_18.m3u8"
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/톡파원 25시_제235회 26_11_19.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -3539,11 +3937,47 @@
 	},
 	{
 		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52236.jpg",
-		"name": "자랑할 개 있습니다 제2회 26/11/19",
-		"title": "자랑할 개 있습니다 제2회 26/11/19",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/28362.jpg",
+		"name": "라디오스타 제449회 26/11/19",
+		"title": "라디오스타 제449회 26/11/19",
 		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/자랑할 개 있습니다_제2회 26_11_19.m3u8"
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라디오스타_제449회 26_11_19.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/51330.jpg",
+		"name": "황신혜의 같이 삽시다 제43회 26/11/18",
+		"title": "황신혜의 같이 삽시다 제43회 26/11/18",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/황신혜의 같이 삽시다_제43회 26_11_18.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52127.jpg",
+		"name": "IDOL'S TABLE (아이돌스 테이블) 제7회 26/11/18",
+		"title": "IDOL'S TABLE (아이돌스 테이블) 제7회 26/11/18",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/IDOL'S TABLE (아이돌스 테이블)_제7회 26_11_18.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "예능(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52274.jpg",
+		"name": "내 새끼의 연애3 제2회 26/11/18",
+		"title": "내 새끼의 연애3 제2회 26/11/18",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/내 새끼의 연애3_제2회 26_11_18.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -4594,120 +5028,12 @@
 		}
 	},
 	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/51038.jpg",
-		"name": "서장훈의 이웃집 백만장자 시즌2 제53회 26/11/12",
-		"title": "서장훈의 이웃집 백만장자 시즌2 제53회 26/11/12",
+		"group": "영화",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52313.jpg",
+		"name": "인생세탁소 본편",
+		"title": "인생세탁소 본편",
 		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/서장훈의 이웃집 백만장자 시즌2_제53회 26_11_12.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/45038.jpg",
-		"name": "나는 SOLO <나는 솔로> 제278회 26/11/11",
-		"title": "나는 SOLO <나는 솔로> 제278회 26/11/11",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나는 SOLO _나는 솔로__제278회 26_11_11.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52300.jpg",
-		"name": "스타일 워즈 제3회 26/11/19",
-		"title": "스타일 워즈 제3회 26/11/19",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스타일 워즈_제3회 26_11_19.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/28362.jpg",
-		"name": "라디오스타 제448회 26/11/12",
-		"title": "라디오스타 제448회 26/11/12",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라디오스타_제448회 26_11_12.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/46131.jpg",
-		"name": "톡파원 25시 제234회 26/11/11",
-		"title": "톡파원 25시 제234회 26/11/11",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/톡파원 25시_제234회 26_11_11.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52070.jpg",
-		"name": "운명네컷 제7회 26/11/12",
-		"title": "운명네컷 제7회 26/11/12",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/운명네컷_제7회 26_11_12.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/51452.jpg",
-		"name": "유 퀴즈 온 더 블럭 2026 제37회 26/11/11",
-		"title": "유 퀴즈 온 더 블럭 2026 제37회 26/11/11",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/유 퀴즈 온 더 블럭 2026_제37회 26_11_11.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/44865.jpg",
-		"name": "골 때리는 그녀들 제266회 26/11/11",
-		"title": "골 때리는 그녀들 제266회 26/11/11",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/골 때리는 그녀들_제266회 26_11_11.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/51314.jpg",
-		"name": "개와 늑대의 시간 시즌2 제43회 26/11/11",
-		"title": "개와 늑대의 시간 시즌2 제43회 26/11/11",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/개와 늑대의 시간 시즌2_제43회 26_11_11.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "예능(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52236.jpg",
-		"name": "자랑할 개 있습니다 제1회 26/11/11",
-		"title": "자랑할 개 있습니다 제1회 26/11/11",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/자랑할 개 있습니다_제1회 26_11_11.m3u8"
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/인생세탁소_본편.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -5896,18 +6222,6 @@
 		"title": "엘리베이션 본편",
 		"uris": [
 			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/엘리베이션_본편.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "영화",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/40741.jpg",
-		"name": "가디언즈 본편",
-		"title": "가디언즈 본편",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/가디언즈_본편.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"

@@ -602,292 +602,6 @@
 		}
 	},
 	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/EBS2.png",
-		"name": "EBS2",
-		"title": "EBS2",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/2I/0000000E07/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvMkkvMDAwMDAwMEUwNy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNjY5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=hXqk5ovCCMgpynUdtPwr-LE1Z-dOwB4nZuuRMqzL5o7ZhEDUZnV87CMW2sldGet9qgem2-y9Yd-ryKG1~1pxGG~rujVc9YtlLRXnDhxlN1n1XfGKXjIs639iiehtOqFq6K2X10x1l1p9e~7u7W0niTGDn4yH0y7VAj71vdJoCQA_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/MBCDrama.png",
-		"name": "MBCDrama",
-		"title": "MBCDrama",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000M02/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwME0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzAwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=lyZ5dpnn7qukN4Vyw0XylzefV-fmHa2J0YvXO7GbqRjxQjdRy9Pkt-fhvIF7hFwHVpdv1RbYtfWXcwo8ZZxAukm9NWYwQHxjiMyjx6W~bO1OMkPApZOyABi~~xK-1-Qr8zMdm8B1DHK1NvTVbGW3wSa4TTlmSa3HSBHoWp-c5r8_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/MBCEvery1.jpg",
-		"name": "MBCEvery1",
-		"title": "MBCEvery1",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000M03/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwME0wMy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzAzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=Q23dzWNKGEs6Xf8YpvNYZSVloDPJTNLSScfmDruWdNizW-Gx5aPzTQPdyzVtHYuDtjVfjDVnIppOp4YmW9nuhIIYeIbDj6MyzrKKUjrr1HVU4iLSvD3kfhh-gzn1k3HinIGL~ySBtQAqTvoEHG5WXCzzOR9MquUYJ24XxRkoqYY_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/MBCM.png",
-		"name": "MBCM",
-		"title": "MBCM",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000M06/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwME0wNi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzA1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=lh2VcCYFE354qEnqPELGP8BajWk5iTC0xpzvJDSHTsRsgbbGk1pyd9NfNYdL3VeF7ppfqIZHIEqiHnMkQndWnvJy3zkgJcH6tl4iVRR0uhOt8lGJaFr-m3sNgtW12V1VhrWK~-WT4LD58oy~pcQ0O8e-0Q86Vsy2BQ~-Z5NgCps_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/MBCON.png",
-		"name": "MBCON",
-		"title": "MBCON",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000M14/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwME0xNC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzA3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=GbLTGkhrnF0EZ0W-adx3yhHWvjMfTMa6-yHUoUkjKCUVymxgi--h78bpjhhMgh-x3Ct09y23QRI1pSDPdS-kmVj73KtOJcKvrX~sJrWzVIn5Tj~TGgqWpqHPaiQ1gvQAi3HvBrIzTjnmYg3f1sEakNXsCJCeXCh7XN4ORF74W4A_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/Thekpop.jpg",
-		"name": "TheKPop",
-		"title": "TheKPop",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/5L/0000000S14/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNUwvMDAwMDAwMFMxNC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzE0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=ovkiByKrMAo0mSdnI~o~gv14NJu1awMJI5Z3hz03PJmP4ti9lbl~Obd0ltCO4wThYJZUoYZDbKvd97cDkZb-ota4MhWx7w65diaJSXo7meu~b7kt~hTEg-wJWEwr4jUjLEueyBJXSgsemLuV4R0FbFqIE-ZCWYs9BIfDi1~bAVQ_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/Kstar.png",
-		"name": "K-STAR",
-		"title": "K-STAR",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/40/00000F6301/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNDAvMDAwMDBGNjMwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzE3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=KQlz8Sghgqr0462mxtDRuX9Zte1xwj210kyg0XrtOgcD6wRnnUPqBwcTPS8WeDbHTIAJ3HvJ0xkdTuSYB18MO35H05F3eRbxnAWCJ1J8ERq5dXitswRxrQkwSwR3v5uAlR~YwXh4K~AB3CEddtrVRXueiMlgGTmwWxJepGqpHPo_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/EBSKids.png",
-		"name": "EBS 키즈",
-		"title": "EBS 키즈",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/2I/0000000E05/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvMkkvMDAwMDAwMEUwNS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzI0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=h9XQ1FwPl2T15JIlnkc~~mBSCPyqkbNQ2c8gDGtZ5Onxv6UeA3hnhQknS8FPH-C0oI00SGPz6v7DhJUQczEuoBfdFuV5PieNy222ovvOqTCcE4Rc7c5XVBvyuynRzL1wjtCJt7qGFRlxp7EvJvra5pBj6DdW0CVhWm9Uw13ygsE_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/Anione.png",
-		"name": "ANIONE",
-		"title": "ANIONE",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/6F/00000C4402/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNkYvMDAwMDBDNDQwMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzI3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=UEH9o9fuoN6-fQ2efKxFrkhEFwLBidpuheHwE2iTgYc3ONU72WAtYMn9g2vY-9lGE6e7jTnaq1khpikaQs8ScobBTnINTgsz20W3RjEKi7deexty8rwzWP07VNviM5Lhap0Tbp6T3pF2eRzWwFgl2BoVoYVkQy8HplnX~SbXvtM_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/bravokids.png",
-		"name": "브라보키즈",
-		"title": "브라보키즈",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/11/00000C6802/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvMTEvMDAwMDBDNjgwMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzI5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=kBI1N7MUMHtgsnicxuI5rC~FL-ElZKh0yTZhpcs3-hDyIsGWwqbHZnYy0CzZYf6CL5XS6W48nacDyxoMYT68hdNwxVSQX4scNY~anV8ufhPypQv9xj9Ey-F0rBVDq7t9fcxt3PWWUwRqcg4HHnEi7ySHU9sQm2~XE3jJEALst6Y_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/CARTOONITO.png",
-		"name": "CARTOONITO",
-		"title": "CARTOONITO",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/HL/00000J2801/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvSEwvMDAwMDBKMjgwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzMyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=kxf8QSsBxq9UWzYjC5UWkhG3MUlN970U3gMTVQr4J23fDf7pMphJn20JZ09eaawHIidoXyRDxbLhGMKdIhRP2QpsYVC~hEbQ7B5uhiSPvLZW33IraPMBWb6FbhU1mZsGorxFQX~GrD-L72scZguj8p9seLnus9-NZHC~gkOmMJ8_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/SBSBiz.png",
-		"name": "SBSBiz",
-		"title": "SBSBiz",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/5L/0000000S06/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNUwvMDAwMDAwMFMwNi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzM0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=DikUXrHMFfu4pUKK83SUx5ZN0adIIPsJ4NN9BH8iwMB3QNDysqKYN5BPgzU3h8KYXmx5q5lGPA0sY7Ia~L3FRFcsmZnyf6uoR9pmyrImMtnb6zEZbPcOb8dd-yXONsYvENSxRfJTwzm9ZHeNkehRjvBRIYk8Fv2GoBcxi5vbVIc_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%EB%A7%A4%EC%9D%BC%EA%B2%BD%EC%A0%9CTV.png",
-		"name": "매일경제TV",
-		"title": "매일경제TV",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/61/00000F2001/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNjEvMDAwMDBGMjAwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzM2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=jyJaANvV-d9NQ6JMHUuHLtidiOzlvFDtgY7Gaqpgj~6JKzU8WmgRSvI1f2Y754q2D9YA2oztPmyzqGqkCJDjmmH-b2KwRFAxewZ8Th1nmOwmzwMX-kdLK56Hg5b9MNcea7VwM2A~fDtg-LIuxwosZ9HSxGsyZwFQPYxWeU-TeLE_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%A0%9CTV.png",
-		"name": "한국경제TV",
-		"title": "한국경제TV",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/33/00000F2101/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvMzMvMDAwMDBGMjEwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzM5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=rUzqo03ywKEc5znipRyI0pYL-uCwCnXqXJDIx8K3p5ZDtcAS24TwTzwRfHkbNslEbG2F-Tbz8ON1vVdImchkQrFYXGz91u5bCybsg4Lq-lYa4rGQn3W~YMBz-7eu2AlBSOd72u7k1XvnqtusrG3Uu-~r3gnLSBQpxH230gMo8Dw_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%EB%A8%B8%EB%8B%88%ED%88%AC%EB%8D%B0%EC%9D%B4%EB%B0%A9%EC%86%A1.jpg",
-		"name": "머니투데이방송",
-		"title": "머니투데이방송",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/6F/00000C4401/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNkYvMDAwMDBDNDQwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzQxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=iGPakDVYc-HXh9t20H5IBAgsYeKlAzi6WGOu0-e9DaQsEHAVvS-i7l32Xce5v~UQMZCkdpvzb58bWVk1aX9NgOJb9H-lIcPJtEzXQ5o-m3H8utXal2-qxiYjBTA5I7g4Pj40BMSYWH5YiddRS4jxufpp8M4MHdTRQYO5Hg~Ufns_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%ED%98%84%EB%8C%80%ED%99%88%EC%87%BC%ED%95%91.png",
-		"name": "현대홈쇼핑",
-		"title": "현대홈쇼핑",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/64/00000C4101/SDR_AVC-HD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNjQvMDAwMDBDNDEwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzQ0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=kohTbKGe6aLsZ6lbKYtKztNdemU8F7yl5c1~5oL2Yt4SpKgzcYVJR-jp5mfSb8jz84opkLHd2Vt7liCjMaej0JP~afw~NrH7Jd0Z-SAIF5OijzulT8lCtF0fgsudtBhY7b3SuA6zZmokxEtLpLMU1Ipba1AnzEqMULjAvPXgl18_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%EB%A1%AF%EB%8D%B0%ED%99%88%EC%87%BC%ED%95%91.png",
-		"name": "롯데홈쇼핑",
-		"title": "롯데홈쇼핑",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/66/00000C5601/SDR_AVC-HD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNjYvMDAwMDBDNTYwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzQ2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=Fjs0IaX96ckElDoKh9ljZW6OFRRAffnfnmJL9qsV-xof1HZpR5k2aAz2LXW-7iiyHix1eJPaBcobJtNyhRkTDYEmyeO6KDPsnO4fncHYOMiF68sLMjUh5E9Iow~wxAG4uXGb4g6BhrRfZgIFn-vr4~NZXHkRYql02INpntWu4WY_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/GS%20SHOP.png",
-		"name": "GS SHOP",
-		"title": "GS SHOP",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/63/00000C4201/SDR_AVC-HD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNjMvMDAwMDBDNDIwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzQ4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=YtMWsdR3CHZs68jJqwvLASwC8JSx5jZBANA1R0bF-RTih5fgGrFS9NJpmljBC6PhVEbBiOmpafPgBJfEY55D5OFtwjjfDoY44rknq~ab9srj~usIluGYphazWbxgUvKyQ9pWzbydl9YzihsEl-Lz7zajxOOZPwwZvIYGMLb-h38_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/NS%ED%99%88%EC%87%BC%ED%95%91.png",
-		"name": "NS홈쇼핑",
-		"title": "NS홈쇼핑",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/65/00000C8301/SDR_AVC-FHD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNjUvMDAwMDBDODMwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzUxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=ir1XGXG2LlRLN6sn2cDK2AMjMrLC7kNpk8BdpnyH-QWeKj4YxdUEfZlxjH-brR~AIHkzYqKVAUTWFWcehsFiNeNl1yNE-E0IKjl4i9smPyC4YkegPD5q-c4hzd5TubkH2IxCZXqB5z09u5pMHZU~GXhZruz4a8mJtPS4Y4N~gJ8_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/1%EB%B0%95%202%EC%9D%BC.png",
-		"name": "1박 2일",
-		"title": "1박 2일",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/4Y/0000000K15/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNFkvMDAwMDAwMEsxNS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzU2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=nzlNte6a1Fl9iz18ap1dMI17Tw~XhpQVAkSPrlHB2IopuVq0REHCG9aa6wLz9BQtmPVVDClrYMhkcyUgX466yXHmSKVlfXlkJ-uNBKJAxX5vIunKOJMSKzQCLTk~aI7z7nqGEDs9nLDBKHto4Gl4DiVkSI3Xd3C3ZFAHEDkQR9Q_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%EB%9D%BC%EB%94%94%EC%98%A4%EC%8A%A4%ED%83%80.png",
-		"name": "라디오스타",
-		"title": "라디오스타",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000M12/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwME0xMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzU4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=CG6XEpSEFhT9N3ElheLE6tIaVJ1LhZCfmzYyrSuXcC~7k35BU8iw8hQFrwKh2FPWS4tKthFvNoI-xBSLFr5AeSHJSlsgBrjhkeJxeRrJhq7PUt4t185lZAPmkXYZXKggbI5XBzJBVREn1wWxXZUJ6XN2WJqQWEzK4Sayag1xPck_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
-		"group": "한국-생방송",
-		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%EB%82%98%20%ED%98%BC%EC%9E%90%20%EC%82%B0%EB%8B%A4.png",
-		"name": "나 혼자 산다",
-		"title": "나 혼자 산다",
-		"uris": [
-			"https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000PM2/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"cookie": "Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwMFBNMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1OTEyNzYxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=K-cv1oZY-jv8-UTE0Obcn8WyvTrJfAgKZLjU~GWffkvFTczR5oeaitEtkJZ5tFOT1pg5qe7hu944rD3h2FVyzf~-QjavIOxIs0gDWFupILPqoobrSfWeW~phyeS6a56cqrjA1PdDZytyZ2xx-AmNSLk122ElAqUB73PcbHBkkvU_; Key-Pair-Id=pub_wavve.skcdn.net"
-		}
-	},
-	{
 		"group": "생방송-테스트",
 		"logo": "https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/JTBC.png",
 		"name": "JTBC-테스트",
@@ -1501,6 +1215,18 @@
 	},
 	{
 		"group": "드라마(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52241.jpg",
+		"name": "라이어 제9회 26/11/28",
+		"title": "라이어 제9회 26/11/28",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라이어_제9회 26_11_28.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "드라마(다시보기)",
 		"logo": "https://www.kdrama.pw/img/videos/200x285/52226.jpg",
 		"name": "굿파트너2 제3회 26/11/27",
 		"title": "굿파트너2 제3회 26/11/27",
@@ -1734,18 +1460,6 @@
 		"title": "사랑이 온다 제33회 26/11/22",
 		"uris": [
 			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑이 온다_제33회 26_11_22.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52241.jpg",
-		"name": "라이어 제8회 26/11/22",
-		"title": "라이어 제8회 26/11/22",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라이어_제8회 26_11_22.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
@@ -2101,6 +1815,18 @@
 	},
 	{
 		"group": "드라마(다시보기)",
+		"logo": "https://www.kdrama.pw/img/videos/200x285/52241.jpg",
+		"name": "라이어 제8회 26/11/22",
+		"title": "라이어 제8회 26/11/22",
+		"uris": [
+			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라이어_제8회 26_11_22.m3u8"
+		],
+		"headers": {
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "드라마(다시보기)",
 		"logo": "https://www.kdrama.pw/img/videos/200x285/52226.jpg",
 		"name": "굿파트너2 제2회 26/11/21",
 		"title": "굿파트너2 제2회 26/11/21",
@@ -2334,18 +2060,6 @@
 		"title": "사랑이 온다 제32회 26/11/21",
 		"uris": [
 			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑이 온다_제32회 26_11_21.m3u8"
-		],
-		"headers": {
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "드라마(다시보기)",
-		"logo": "https://www.kdrama.pw/img/videos/200x285/52241.jpg",
-		"name": "라이어 제7회 26/11/21",
-		"title": "라이어 제7회 26/11/21",
-		"uris": [
-			"https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라이어_제7회 26_11_21.m3u8"
 		],
 		"headers": {
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
